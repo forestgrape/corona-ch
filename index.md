@@ -1,6 +1,6 @@
 
 # Corona Lage Einschätzungen
-Auf dieser Seite finden sich  Analysen und Einschätzung zur Corona-Situation in der Schweiz. Die Seite ist eine Ergänzung zur Hauptseite <https://forestgrape.github.io/coronavirus>. Die Seite ist Open Source auf <https://github.com/forestgrape/corona-ch>.
+Auf dieser Seite befinden sich Einschätzungen zur Corona-Situation in der Schweiz. Die Seite ist eine Ergänzung zur Hauptseite <https://forestgrape.github.io/coronavirus>. Die Seite ist Open Source auf <https://github.com/forestgrape/corona-ch>.
 
 ---
 
@@ -8,7 +8,7 @@ Auf dieser Seite finden sich  Analysen und Einschätzung zur Corona-Situation in
 *Lageeinschätzung	per 26.8.2021*
 
 ### Situation
-Die Covid Neuinfektionen und leider auch die Spitaleinweisungen sind in der Schweiz wieder gestiegen. Unter anderem deshalb wird diskutiert Impf/Testbasierte Zugangsbeschränkungen auf Sport in Innenräumen und auf die Innengastronomie auszuweiten. Meines Erachtens sind andere Ansätze zielführender.
+Die Covid Neuinfektionen und leider auch die Spitaleinweisungen sind in der Schweiz wieder gestiegen. Unter anderem deshalb wird diskutiert Impf-/Testbasierte Zugangsbeschränkungen auf Sport in Innenräumen und auf die Innengastronomie auszuweiten. Meines Erachtens sind andere Ansätze zielführender.
 
 ### Mögliche Gründe für den Anstieg der Fallzahlen
 
