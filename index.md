@@ -1,6 +1,6 @@
 
-# Corona Situations Einschätzungen
-Auf dieser Seite finden sich Situations Analysen und Einschätzung zur Corona-Situation in der Schweiz. Die Seite ist eine Ergänzung zur Hauptseite <https://forestgrape.github.io/coronavirus>. Die Seite ist Open Source auf <https://github.com/forestgrape/corona-ch>.
+# Corona Lage Einschätzungen
+Auf dieser Seite finden sich  Analysen und Einschätzung zur Corona-Situation in der Schweiz. Die Seite ist eine Ergänzung zur Hauptseite <https://forestgrape.github.io/coronavirus>. Die Seite ist Open Source auf <https://github.com/forestgrape/corona-ch>.
 
 ---
 
@@ -12,7 +12,7 @@ Die Covid Neuinfektionen und leider auch die Spitaleinweisungen sind in der Schw
 
 ### Mögliche Gründe für den Anstieg der Fallzahlen
 
-#### Aerosole Spreading in trockener innen Luft
+#### Aerosol-Spreading in trockener innen Luft
 Ein Grund für die aktuell hohen Fallzahlen ist wahrscheinlich, dass die aktuellen Massnahmen der Übertragung in trockener innen Luft (Anhang: Übertragung von SARS-CoV-2 in trockener Luft) nur beschränkt Rechnung tragen:
 - In letzter Zeit liefen/laufen die Klimaanlagen an vielen Orten auf Hochtouren (z.B. im öffentlichen Verkehr, in Einkaufszentren und teils in der Gastronomie(-Ketten). In Südeuropa überall, was zum Risikofaktor Ferienrückkehrer führt). 
 - Das Lüften wird derzeit kaum diskutiert und daher vernachlässigt.
@@ -22,9 +22,9 @@ Ein Grund für die aktuell hohen Fallzahlen ist wahrscheinlich, dass die aktuell
 - In Südeuropa sind die Fallzahlen momentan sehr hoch. Gründe: Nachtleben, Klimaanlagen und viele Reisende. 
 - Grosse Menschenansammlungen in oft klimatisierten Räumen bei der Hin- und der Rückreise: z.B. auf Flughäfen, in Reisecars oder vollbesetzten Autos.
 
-#### Schutzkonzepte basierend auf GGG
+#### Schutzkonzepte basierend auf Getestet Geimpft Genesen
 Covid Zugangsbeschränkungen welche geimpfte als nicht infektiös betrachten, funktionieren meist nicht. Evidenz: 
-- Einreisebestimmungen basierend ausschliesslich auf Tests funktionierten um die Fallzahlen tief zu halten (z.B. in den Regionen Japan, Hong Kong, Finnland, Norwegen, Island). Sobald jedoch Geimpfte dazugekommen sind, stiegen die Fallzahlen (z.B. Einreisebeschränkungen Island wo Geimpfte sich inzwischen wieder testen müssen). 
+- Einreisebestimmungen basierend auf Tests funktionier(t)en oft um die Fallzahlen tief zu halten (z.B. in den Regionen Japan, Hong Kong, Finnland, Norwegen, Island). Sobald jedoch Geimpfte dazugekommen sind, stiegen die Fallzahlen (z.B. in Island konnten Geimpfte zwischenzeitlich ohne Test einreisen. Inzwischen sind Tests wieder für alle Pflicht). 
 - Das selbe Muster wie bei den Einreisen zeigt sich bei Zugangsbeschränkungen für Parties: Zugangsbeschränkungen an Pilot-Parties in den Niederlanden und Barcelona basierend auf Tests funktionierten. Sobald Geimpfte dazukamen, funktionierte das Konzept nicht mehr: In den Niederlanden wurde bei Clubs Super-Spreading beobachtet und diese wieder geschlossen. Ähnlich in der Schweiz, seit die Clubs mit Zertifikat offen sind, steigen die Zahlen in den Städten (Punkt Nachtleben oben). 
 
 #### Geimpfte wähnen sich in falscher Sicherheit
@@ -45,11 +45,15 @@ Die Massnahmen zu optimieren ist sinnvoll. Eine Möglichkeit ist dies regional a
 
 ### Ideen für Anpassungen
 - Konkrete Empfehlungen zum Lüften: z.B. in Restaurants oder in Mehrfamilienhäusern die Einwohner und Verwaltungen sensibilisieren. 
-  > Das Lüften in Mehrfamilienhäusern ist insbesondere wichtig um zu vermeiden, dass sich lokale Infektionsherde bilden, denn in Treppenhäusern können die Viren einige Stunden oder sogar Tage infektiös bleiben. Von lokalen Herden erfolgt die Verbreitung dann in die nähere Umgebung.
+
+  > Das Lüften in Mehrfamilienhäusern ist wichtig, da in Treppenhäusern die Viren während Stunden oder sogar Tage infektiös bleiben können. Dies kann zu lokalen Infektionsherde führen. Von lokalen Infektionsherden, kann das Virus dann weiter verbreitet werden.
  
 - Klimaanalgen abstellen und stattdessen lüften.
-- Allenfalls Zusatzmassnahmen beim Nachleben und Großveranstaltungen um Superspreading zu reduzieren (CO2 Sensoren, Alle testen, ...).
-- Polizeistunde z.B. um Mitternacht (hat letzten Sommer in Spanien und Griechenland und diesen Sommer in Holland geholfen).
+
+- Das Lüften in Mehrfamilienhäusern ist wichtig, da in Treppenhäusern die Viren während Stunden oder sogar Tage infektiös bleiben können. Dies kann zu lokalen Infektionsherde führen. In diesem Zusammen erwähnen wert ist die Beobachtung, dass Bewohner in engen Wohnverhältnissen erheblich zur Verbreitung innerhalb einer Stadt beitragen.
+
+- Allenfalls Zusatzmassnahmen beim Nachleben und Großveranstaltungen um (Super-)Spreading zu reduzieren (CO2 Sensoren, *alle* testen, eine frühere Schliessung z.B. um 1 AM). Massnahmen die das Nachtleben reduzieren, halfen im Spätsommer 2020  in Spanien und Griechenland und diesen Sommer in Holland.
+
 
 ### Appendix: Übertragung von SARS-CoV-2 in trockener Luft
 
