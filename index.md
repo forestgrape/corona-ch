@@ -3,9 +3,9 @@
 
 Auf dieser Seite finden sich Situations Analysen und Einschätzung zur Corona-Situation in der Schweiz. Die Seite ist eine Ergänzung zur Hauptseite <forestgrape.github.io/coronavirus>.
 
-## Corona Situations Einschätzung	26.8.2021
+## Corona in der Schweiz im Sommer 2021, Einschätzung	26.8.2021
 
-### Situation
+### Situation per 26. August 2021
 Die Covid Neuinfektionen und leider auch die Spitaleinweisungen sind in der Schweiz wieder gestiegen. Unter anderem deshalb wird diskutiert Impf/Testbasierte Zugangsbeschränkungen auf Sport in Innenräumen und auf die Innengastronomie auszuweiten. Meines Erachtens sind andere Ansätze zielführender.
 
 ### Mögliche Gründe für den Anstieg der Fallzahlen
