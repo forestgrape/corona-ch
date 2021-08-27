@@ -1,6 +1,6 @@
 
-> # Corona Situations Einschätzungen
-> Auf dieser Seite finden sich Situations Analysen und Einschätzung zur Corona-Situation in der Schweiz. Die Seite ist eine Ergänzung zur Hauptseite <forestgrape.github.io/coronavirus>.
+# Corona Situations Einschätzungen
+Auf dieser Seite finden sich Situations Analysen und Einschätzung zur Corona-Situation in der Schweiz. Die Seite ist eine Ergänzung zur Hauptseite <forestgrape.github.io/coronavirus>.
 
 ---
 
