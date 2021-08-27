@@ -48,7 +48,7 @@ Die Massnahmen zu optimieren ist sinnvoll. Eine Möglichkeit ist dies regional a
   > Das Lüften in Mehrfamilienhäusern ist insbesondere wichtig um zu vermeiden, dass sich lokale Infektionsherde bilden, denn in Treppenhäusern können die Viren einige Stunden oder sogar Tage infektiös bleiben. Von lokalen Herden erfolgt die Verbreitung dann in die nähere Umgebung.
  
 - Klimaanalgen abstellen und stattdessen lüften.
-- Allenfalls Zusatzmassnahmen beim Nachleben und Großveranstaltungen um Superspreading zu reduzieren (CO2 Sensoren, Kapazitätsreduktion, ...).
+- Allenfalls Zusatzmassnahmen beim Nachleben und Großveranstaltungen um Superspreading zu reduzieren (CO2 Sensoren, Alle testen, ...).
 - Polizeistunde z.B. um Mitternacht (hat letzten Sommer in Spanien und Griechenland und diesen Sommer in Holland geholfen).
 
 ### Appendix: Übertragung von SARS-CoV-2 in trockener Luft
