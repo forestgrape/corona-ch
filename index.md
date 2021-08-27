@@ -7,7 +7,7 @@ Auf dieser Seite finden sich Situations Analysen und Einschätzung zur Corona-Si
 
 ## Corona in der Schweiz im Sommer 2021, Einschätzung	26.8.2021
 
-### Situation per 26. August 2021
+### Situation
 Die Covid Neuinfektionen und leider auch die Spitaleinweisungen sind in der Schweiz wieder gestiegen. Unter anderem deshalb wird diskutiert Impf/Testbasierte Zugangsbeschränkungen auf Sport in Innenräumen und auf die Innengastronomie auszuweiten. Meines Erachtens sind andere Ansätze zielführender.
 
 ### Mögliche Gründe für den Anstieg der Fallzahlen
