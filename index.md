@@ -38,17 +38,19 @@ Die Delta Variante infiziert schneller, was Spike-Antikörper weniger effizient 
 ### Einschätzung und Ausblick
 Der Anstieg der hospitalisierten Fälle wird vermutlich bald stagnieren und im September zurückgehen da: 1. die Ferienzeit ist vorbei und 2. der Gebrauch der Klimaanlagen Saison bedingt reduziert wird und 3. die Wellen der Delta Variante steiler sind.
 
-Die Massnahmen zu optimieren ist dennoch sinnvoll. Eine Möglichkeit ist dies regional anzugehen, was folgende Vorteile hat:
+Die Massnahmen zu optimieren ist sinnvoll. Eine Möglichkeit ist dies regional anzugehen, was folgende Vorteile hat:
 - Die Massnahmen könne situativ anpasst werden
 - Wenn die Massnahmen lokal verschieden sind, kann deren Effizienz beurteilt werden. Zum Beispiel Ende 2020 funktionierten lokale Massnahmen in der Westschweiz und lokal in Basel Stadt und man sah dass die Massnahmen halfen die Hospitalisierungen zu reduzieren. Die Geschäfts- und Schulschliessungen im Aargau hatten hingegen kaum einen Effekt.
 
 ### Ideen für Anpassungen
-- Konkrete Empfehlungen zum Lüften: z.B. in Restaurants oder in Mehrfamilienhäusern die Einwohner und Verwaltungen sensibilisieren.
+- Konkrete Empfehlungen zum Lüften: z.B. in Restaurants oder in Mehrfamilienhäusern die Einwohner und Verwaltungen sensibilisieren. 
+  > Das Lüften in Mehrfamilienhäusern ist insbesondere wichtig um zu vermeiden, dass sich lokale Infektionsherde bilden, denn in Treppenhäusern können die Viren einige Stunden oder sogar Tage infektiös bleiben. Von lokalen Herden erfolgt die Verbreitung dann in die nähere Umgebung.
+ 
 - Klimaanalgen abstellen und stattdessen lüften.
 - Allenfalls Zusatzmassnahmen beim Nachleben und Großveranstaltungen um Superspreading zu reduzieren (CO2 Sensoren, Kapazitätsreduktion, ...).
 - Polizeistunde z.B. um Mitternacht (hat letzten Sommer in Spanien und Griechenland und diesen Sommer in Holland geholfen).
 
-### Anhang: Übertragung von SARS-CoV-2 in trockener Luft
+### Appendix: Übertragung von SARS-CoV-2 in trockener Luft
 #### Epidemiologische Evidenz
 - Weltweit steigen die Hospitalisierungen im Sommer in Regionen wo Klimaanlagen verbreitet sind (US Südstaaten, Südeuropa, teils Asien; im tropischen Afrika gibt es hingegen zwar viele Fälle jedoch fast keine schweren Fälle).
 - Die Fallzahlen sind in der Schweiz momentan tendenziell da hoch, wo die Temperaturen hoch sind (eher tiefe Fallzahlen in den Berggebieten). Eine Analyse auf Gemeinde Ebene unter Berücksichtigung der Reisetätigkeit könnte Klarheit bringen.
