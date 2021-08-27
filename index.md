@@ -1,6 +1,6 @@
 
 # Corona Situations Einschätzungen
-Auf dieser Seite finden sich Situations Analysen und Einschätzung zur Corona-Situation in der Schweiz. Die Seite ist eine Ergänzung zur Hauptseite <forestgrape.github.io/coronavirus>.
+Auf dieser Seite finden sich Situations Analysen und Einschätzung zur Corona-Situation in der Schweiz. Die Seite ist eine Ergänzung zur Hauptseite <forestgrape.github.io/coronavirus>. Die Seite ist Open Source auf <https://github.com/forestgrape/corona-ch>.
 
 ---
 
@@ -57,7 +57,7 @@ Die Massnahmen zu optimieren ist sinnvoll. Eine Möglichkeit ist dies regional a
 - Weltweit steigen die Hospitalisierungen im Sommer in Regionen wo Klimaanlagen verbreitet sind (US Südstaaten, Südeuropa, teils Asien; im tropischen Afrika gibt es hingegen zwar viele Fälle jedoch fast keine schweren Fälle).
 - Die Fallzahlen sind in der Schweiz momentan tendenziell da hoch, wo die Temperaturen hoch sind (eher tiefe Fallzahlen in den Berggebieten). Eine Analyse auf Gemeinde Ebene unter Berücksichtigung der Reisetätigkeit könnte Klarheit bringen.
 
-#### Mechanismus
+#### Hypothese: Mechanismus
 Klimaanlagen trocknen die Luft aus. Trockene Luft erhöht die Zahl von schweren Fällen da:
 - Coronaviren übertragen sich besser in trockener Luft, da die Viren länger überlegen. 
 - In trockener Luft ist es wahrscheinlicher, dass die Infektion tiefer in der Lunge startet, was wiederum die Wahrscheinlichkeit einer schweren Infektion erhöht.
