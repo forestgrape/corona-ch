@@ -32,7 +32,7 @@ Wenn Geimpfte als nicht infektiös betrachtet werden, kann dies dazu führen, da
 - Hohe Fallzahlen in Ländern mit sehr hohen Impfquoten (z.B. Israel und Spanien - die Klimaanlagen fördern wahrscheinlich die Verbreitung der Viren, die Impfungen verhindern diese nicht).
 - Ein Untersuch bei der Grippe Impfung fand folgendes: ein erhöhtes Ausatmen von Viren bei Geimpften, welche symptomatisch waren im Vergleich zu Ungeimpften mit Symptomen.
 
-#### Delta Variante: 
+#### Delta Variante
 Die Delta Variante infiziert schneller, was Spike-Antikörper weniger effizient macht. Weiter hat das schnellere infizieren steilere Wellen zur Folge: ähnlich wie bei der Alpha Variante steigen bei der Delta Variante die Zahlen schnell, die Zahlen sinken aber auch schnell. 
 
 
