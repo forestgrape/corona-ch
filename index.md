@@ -3,6 +3,8 @@
 
 Auf dieser Seite finden sich Situations Analysen und Einschätzung zur Corona-Situation in der Schweiz. Die Seite ist eine Ergänzung zur Hauptseite <forestgrape.github.io/coronavirus>.
 
+---
+
 ## Corona in der Schweiz im Sommer 2021, Einschätzung	26.8.2021
 
 ### Situation per 26. August 2021
@@ -57,4 +59,5 @@ Klimaanlagen trocknen die Luft aus. Trockene Luft erhöht die Zahl von schweren 
 - In trockener Luft ist es wahrscheinlicher, dass die Infektion tiefer in der Lunge startet, was wiederum die Wahrscheinlichkeit einer schweren Infektion erhöht.
 - Die Reinigungsmechanismen des Atemtraktes funktionieren weniger gut wenn die Luft trocken ist.
 
+---
 
