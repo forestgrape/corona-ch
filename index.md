@@ -37,16 +37,16 @@ Die Delta Variante infiziert schneller, was Spike-Antikörper weniger effizient 
 
 
 ### Einschätzung und Ausblick
-Der Anstieg der hospitalisierten Fälle wird vermutlich bald stagnieren und im September zurückgehen da: 1. die Ferienzeit ist vorbei und 2. der Gebrauch der Klimaanlagen Saison bedingt reduziert wird und 3. die Wellen der Delta Variante steiler sind.
+Der Anstieg der hospitalisierten Fälle wird vermutlich bald stagnieren und im September zurückgehen da: 1. die Ferienzeit ist vorbei, 2. der Gebrauch der Klimaanlagen Saison bedingt reduziert wird und 3. die Wellen der Delta Variante steiler sind.
 
-Die Massnahmen zu optimieren ist sinnvoll. Eine Möglichkeit ist dies regional anzugehen, was folgende Vorteile hat:
-- Die Massnahmen könne situativ anpasst werden
-- Wenn die Massnahmen lokal verschieden sind, kann deren Effizienz beurteilt werden. Zum Beispiel Ende 2020 funktionierten lokale Massnahmen in der Westschweiz und lokal in Basel Stadt und man sah dass die Massnahmen halfen die Hospitalisierungen zu reduzieren. Die Geschäfts- und Schulschliessungen im Aargau hatten hingegen kaum einen Effekt.
+Die Massnahmen zu optimieren ist jedoch sinnvoll. Eine Möglichkeit ist dies regional anzugehen, was folgende Vorteile hat:
+- Die Massnahmen könne situativ anpasst werden.
+- Wenn die Massnahmen lokal verschieden sind, kann deren Effizienz beurteilt werden. Zum Beispiel Ende 2020 funktionierten lokale Massnahmen in der Westschweiz und lokal in Basel Stadt und man sah dass die Massnahmen halfen die Spitaleintritte zu reduzieren. Die Geschäfts- und Schulschliessungen im Aargau hatten hingegen kaum einen Effekt auf die Fallzahlen.
 
 ### Ideen für Anpassungen
 - Konkrete Empfehlungen zum Lüften: z.B. in Restaurants oder in Mehrfamilienhäusern die Einwohner und Verwaltungen sensibilisieren. 
 
-  > Das Lüften in Mehrfamilienhäusern ist wichtig, da in Treppenhäusern die Viren während Stunden oder sogar Tage infektiös bleiben können. Dies kann zu lokalen Infektionsherde führen. Von lokalen Infektionsherden, kann das Virus dann weiter verbreitet werden.
+  > Das Lüften in Mehrfamilienhäusern ist wichtig, da in Treppenhäusern die Viren während Stunden oder sogar während Tagen infektiös bleiben können. Dies kann zu lokalen Infektionsherde führen. Lokalen Infektionsherde können zur allgemeinen Verbreitung nennenswert beitragen.
  
 - Klimaanalgen abstellen und stattdessen lüften.
 
@@ -58,13 +58,13 @@ Die Massnahmen zu optimieren ist sinnvoll. Eine Möglichkeit ist dies regional a
 ### Appendix: Übertragung von SARS-CoV-2 in trockener Luft
 
 #### Epidemiologische Evidenz
-- Weltweit steigen die Hospitalisierungen im Sommer in Regionen wo Klimaanlagen verbreitet sind (US Südstaaten, Südeuropa, teils Asien; im tropischen Afrika gibt es hingegen zwar viele Fälle jedoch fast keine schweren Fälle).
+- Weltweit steigen die Spitaleintritte im Sommer in Regionen wo Klimaanlagen verbreitet sind (US Südstaaten, Südeuropa, teils Asien; im tropischen Afrika gibt es hingegen zwar viele Fälle jedoch fast keine schweren Fälle).
 - Die Fallzahlen sind in der Schweiz momentan tendenziell da hoch, wo die Temperaturen hoch sind (eher tiefe Fallzahlen in den Berggebieten). Eine Analyse auf Gemeinde Ebene unter Berücksichtigung der Reisetätigkeit könnte Klarheit bringen.
 
 #### Hypothese: Mechanismus
 Klimaanlagen trocknen die Luft aus. Trockene Luft erhöht die Zahl von schweren Fällen da:
 - Coronaviren übertragen sich besser in trockener Luft, da die Viren länger überlegen. 
-- In trockener Luft ist es wahrscheinlicher, dass die Infektion tiefer in der Lunge startet, was wiederum die Wahrscheinlichkeit einer schweren Infektion erhöht.
+- In trockener Luft ist es wahrscheinlicher, dass die Infektion tiefer in der Lunge startet, was wiederum die Wahrscheinlichkeit einer schweren Infektion erhöht (der Atemtrakt besteht in erster Linie aus Zellen die vor Dreck und Pathogenen schützen und nur in den Lungenblässchen findet der O2/CO2/H2O Austausch statt; Infektionen in diesem Bereich können gefährlich sein und Lungenentzündungen verursachen.)
 - Die Reinigungsmechanismen des Atemtraktes funktionieren weniger gut wenn die Luft trocken ist.
 
 ---
