@@ -52,9 +52,11 @@ Die Massnahmen zu optimieren ist sinnvoll. Eine Möglichkeit ist dies regional a
 - Polizeistunde z.B. um Mitternacht (hat letzten Sommer in Spanien und Griechenland und diesen Sommer in Holland geholfen).
 
 ### Appendix: Übertragung von SARS-CoV-2 in trockener Luft
+
 #### Epidemiologische Evidenz
 - Weltweit steigen die Hospitalisierungen im Sommer in Regionen wo Klimaanlagen verbreitet sind (US Südstaaten, Südeuropa, teils Asien; im tropischen Afrika gibt es hingegen zwar viele Fälle jedoch fast keine schweren Fälle).
 - Die Fallzahlen sind in der Schweiz momentan tendenziell da hoch, wo die Temperaturen hoch sind (eher tiefe Fallzahlen in den Berggebieten). Eine Analyse auf Gemeinde Ebene unter Berücksichtigung der Reisetätigkeit könnte Klarheit bringen.
+
 #### Mechanismus
 Klimaanlagen trocknen die Luft aus. Trockene Luft erhöht die Zahl von schweren Fällen da:
 - Coronaviren übertragen sich besser in trockener Luft, da die Viren länger überlegen. 
