@@ -8,11 +8,13 @@ Auf dieser Seite befinden sich Einschätzungen zur Corona-Situation in der Schwe
 
 > in Arbeit
 
-Die meisten Spitaleintritte in der Schweiz sind auf Fälle in Südosteuropa zurückzuführen. 
-Folgendes hat sich abgespielt: Die Fallzahlen waren nahe bei Null im Frühsommer bevor die Touristen ankamen. Somit wurden die Massnahmen gelockert bzw. aufgehoben. Mit den Touristen und den Partyveranstaltungen sind die Zahlen richtiggehend explodiert. Fast überall Südosteuropa sind die Fallzahlen aktuell sehr hoch oder am steigen. Der Rückreiseverkehr in die Schweiz ist weiterhin hoch mit über 40 Fliegern täglich (ähnliche Situation wahrscheinlich in andere Zentral/Nordeuropäische Länder). Wichtig dürfte sein die Spitäler vor Ort zu unterstützen 1. um zu helfen und 2. dass sich die Leute vor Ort behandeln lassen und nicht mit Covid zurückreisen, was weitere Ansteckungen zur Folge haben kann: Im Flugzeug atmet man aufgrund der geringeren Luftdichte tiefer und die Luft ist sehr trocken. Je nach Flugzeug ist der Lüftungsstrom so eingestellt, dass die Luft von vorne nach hinten geht: ein Covid Fall kann dann problemlos duzende weitere Personen anstecken (beobachtet bei SARS-CoV-1). Bei Carreisen ist die lange Reisedauer eine Risikofaktor.
+Die meisten Spitaleintritte in der Schweiz sind auf Fälle in Südosteuropa zurückzuführen. Folgendes hat sich abgespielt: Die Fallzahlen waren nahe bei Null im Frühsommer bevor die Touristen ankamen. Somit wurden die Massnahmen gelockert bzw. aufgehoben. Mit den Touristen und den Partyveranstaltungen sind die Zahlen richtiggehend explodiert. Fast überall Südosteuropa sind die Fallzahlen aktuell sehr hoch oder am steigen. Der Rückreiseverkehr in die Schweiz ist weiterhin hoch mit über 40 Fliegern täglich (ähnliche Situation wahrscheinlich in andere Zentral/Nordeuropäische Länder).
+
+Reisen mit einer Covid Infektion sind ein Risiko da: 
+* Im Flugzeug atmet man aufgrund der geringeren Luftdichte tiefer und die Luft ist sehr trocken. Je nach Flugzeug ist der Lüftungsstrom so eingestellt, dass die Luft von vorne nach hinten geht: ein Covid Fall kann dann problemlos duzende weitere Personen anstecken (beobachtet bei SARS-CoV-1). Bei Carreisen ist die lange Reisedauer eine Risikofaktor.
 * Eine stressige Reise ist alles andere als ideal für eine gute Prognose. Das tiefere atmen erhöht nicht nur das Risiko andere anzustecken, es bewirkt auch dass sich die Viren in der eigenen Lunge verteilen.
 
-Allenfalls ist es sinnvoll, wenn sich kürzlich eingereiste testen. 
+Allenfalls ist es sinnvoll, wenn sich zu testen wenn man kürzlich per Flugzeug gereist ist.
 
 # Corona in der Schweiz im Sommer 2021
 *Lageeinschätzung	per 26.8.2021*
