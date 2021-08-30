@@ -15,10 +15,10 @@ Folgendes hat sich abgespielt: Die Fallzahlen waren nahe bei Null im Frühsommer
 
 #### Auswirkungen auf die Schweiz
 Der Rückreiseverkehr in die Schweiz ist weiterhin hoch mit über 40 Fliegern täglich (ähnliche Situation wahrscheinlich in andere Zentral/Nordeuropäische Länder). Reisen mit einer Covid Infektion sind ein Risiko da: 
-* Im Flugzeug atmet man aufgrund der geringeren Luftdichte tiefer und die Luft ist sehr trocken. Je nach Flugzeug ist der Lüftungsstrom so eingestellt, dass die Luft von vorne nach hinten geht: ein Covid Fall kann dann problemlos duzende weitere Personen anstecken (beobachtet bei SARS-CoV-1). Bei Carreisen ist die lange Reisedauer eine Risikofaktor.
+* Im Flugzeug atmet man aufgrund der geringeren Luftdichte tiefer und die Luft ist sehr trocken. Je nach Flugzeug ist der Lüftungsstrom so eingestellt, dass die Luft von vorne nach hinten geht: ein Covid Fall kann dann problemlos duzende weitere Personen anstecken (beobachtet bei SARS-CoV-1). Bei Car-Reisen ist die lange Reisedauer eine Risikofaktor.
 * Eine stressige Reise ist alles andere als ideal für eine gute Prognose. Das tiefere atmen erhöht nicht nur das Risiko andere anzustecken, es bewirkt auch dass sich die Viren in der eigenen Lunge verteilen.
 
-Allenfalls ist es sinnvoll, wenn sich zu testen wenn man kürzlich per Flugzeug gereist ist. Für Risiko Patienten ist ein adäquater Transport wichtig.
+Wenn man kürzlich per Flugzeug gereist ist es sinnvoll sich zu testen, insbesondere bei einer Reise aus einem Risikoland. Für Risiko Patienten ist ein adäquater Transport wichtig.
 
 # Corona in der Schweiz im Sommer 2021
 *Lageeinschätzung	per 26.8.2021*
