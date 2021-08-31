@@ -2,8 +2,37 @@
 # Corona Lage Einschätzungen
 Auf dieser Seite befinden sich Einschätzungen zur Corona-Situation in der Schweiz. Die Seite ist eine Ergänzung zur Hauptseite <https://forestgrape.github.io/coronavirus>. Die Seite ist Open Source auf <https://github.com/forestgrape/corona-ch>.
 
+
+* [Massnahmen Vorschläge um die Situation von August 2021 zu entspannen (31.8., 8 AM)](#massnahmen-vorschläge-um-die-situation-von-august-2021-zu-entspannen-318-8-am)
+* [Update zur Lageeinschätzung für den Sommer 2021](#update-zur-lageeinschätzung-für-den-sommer-2021)
+* [Corona in der Schweiz im Sommer 2021](#corona-in-der-schweiz-im-sommer-2021)
+  * [Situation](#situation)
+  * [Mögliche Gründe für den Anstieg der Fallzahlen](#mögliche-gründe-für-den-anstieg-der-fallzahlen)
+  * [Einschätzung und Ausblick](#einschätzung-und-ausblick)
+  * [Ideen für Anpassungen](#ideen-für-anpassungen)
+* [Appendix](#appendix)
+  * [Übertragung von SARS-CoV-2 in trockener Luft](#übertragung-von-sars-cov-2-in-trockener-luft)
+  * [Immunität gegen SARS-CoV-2](#immunität-gegen-sars-cov-2)
+
 ---
-# Update zur Lageeinschätzung für den Sommer 2021
+## Massnahmen Vorschläge um die Situation von August 2021 zu entspannen (31.8., 8 AM)
+Obwohl die Uebertragungsrate in der Schweiz selbst deutlich unter 1 ist (wenn man die importierten Fälle subtrahiert) kann sich die Situation in den Spitälern weiter zuspitzen, denn der Rückreiseverkehr ist nach wie vor sehr hoch (mehrere Flieger täglich von Pristina nach Zürich, von insgesamt von Südosteuropa 20+ Flieger täglich nach Zürich; ähnlich in Basel wo täglich oft 4 oder 5 Flieger von Pristina landen und ebenfalls viele von der Türkei und Griechenland). 
+
+#### Situation in der Schweiz
+In der Schweiz selbst scheint die Uebertragungsrate unter Kontrolle: Gleichbleibende Anzahlfälle wovon rund ein Drittel (33%) direkt Reise-assoziiert sind, die restlichen zwei Drittel wären also lokale Infektionen was einem R Wert von 0.66 entspricht. Bei diesem R-Wert hat ein importierter Fall kumulativ rund 3 weitere Fälle zur Folge. Diese sehr rudimentäre Abschätzung deutet darauf hin, dass die meisten Fälle in der Schweiz auf importierte Fälle zurückzuführen sind.
+
+#### Angezeigte Analysen
+Ich denke es macht Sinn die Situation zu analysieren in Hinblick auf allfällige Massnahmen: Abgleichen der Flugnummern, Reisedaten und Wohnadressen von Hospitalisierten. Allenfalls die Viren Genome sequenzieren. 
+
+#### Angezeigte Massnahmen
+* Ich denke, dass der Kosovo medizinische Unterstützung benötigt und erhalten sollte. Dies einerseits um zu helfen und andererseits, dass sich die Leute sich vor Ort pflegen lassen und nicht krank und infektiös zurückreisen (was zu vielen weiteren Fällen führen kann, siehe [Update](#update-zur-lageeinschätzung-für-den-sommer-2021)).
+* Flugzeugpassagiere aus Flugzeugen mit (hospitalisierten) Covid Fällen der letzten  10 Tage testen. Bei Super Spreading allenfalls auch weitere Reisende welche zeitgleich im Flughafen waren.
+* Da schwere Fälle oft besonders viele Viren ausatmen, allenfalls die Bewohner der Wohnhäuser von hospitalisierten Fällen bezüglich Covid zu informieren und allenfalls zu testen bzw. Antigen Schnelltests für Selbsttests auszuhändigen.
+* Den Fluggesellschaften kommunizieren, dass keine symptomatischen Personen mit fliegen sollen. Allenfalls ankommende Passagiere in der Schweiz direkt bei Ausstieg aus dem Flugzeug testen (draussen, ausserhalb der vollen Flughafengebäude).
+ 
+
+
+## Update zur Lageeinschätzung für den Sommer 2021
 30.8.2021, update zur Lage Einschätzung vom 26.8.2021
 
 > in Arbeit
@@ -21,7 +50,7 @@ Der Reiseverkehr in die Schweiz ist weiterhin hoch mit über 40 Fliegern täglic
 
 Wenn man kürzlich per Flugzeug gereist ist es sinnvoll sich zu testen, insbesondere bei einer Reise aus einem Risikoland. Für Risiko Patienten ist ein adäquater Transport wichtig.
 
-# Corona in der Schweiz im Sommer 2021
+## Corona in der Schweiz im Sommer 2021
 *Lageeinschätzung	per 26.8.2021*
 
 ### Situation
