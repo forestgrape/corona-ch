@@ -31,6 +31,8 @@ Obwohl die Uebertragungsrate in der Schweiz selbst deutlich unter 1 ist (wenn ma
 #### Situation in Südosteuropa
 Folgendes hat sich abgespielt: Die Fallzahlen waren nahe bei Null im Frühsommer bevor die Touristen ankamen. Somit wurden die Massnahmen gelockert bzw. aufgehoben. Mit den Touristen und den Partyveranstaltungen sind die Zahlen richtiggehend explodiert. Fast überall Südosteuropa sind die Fallzahlen aktuell sehr hoch oder am steigen. Weiter haben einige Länder in Südosteuropa bisher nur beschränkt Impfstoffe erhalten und daher sind viele Risikopersonen exponiert.
 
+> Aus praktischen Gründen liessen sich wahrscheinlich viele Touristen impfen und wähnten sich dann aufgrund von Fake-News Kampagnen seitens der Gesundheitsbehörden (mit Aussagen wie Geimpfte sind immun, 80 mal weniger infiziert oder haben nur eine vernachlässigbare Virenlast) in falscher Sicherheit.
+
 #### Auswirkungen auf die Schweiz
 Die Schweiz ist mit den derzeitigen Covid Hotspots Kosovo und Nord Mazedonien personell eng verflochten. Einerseits reisen viele in der Schweiz wohnenden in den Sommerferien in ihr Geburtsland/Land ihrer Vorfahren andererseits verbringen Pensionäre oft den gesamten Sommer im Süden. Zum Ferienende sind viele zurückgereist. Momentan ist die prekäre Covid- und Spitalsituation möglicherweise ein weiterer Grund.
 Der Reiseverkehr in die Schweiz ist weiterhin hoch mit über 40 Fliegern täglich (ähnliche Situation wahrscheinlich in andere Zentral/Nordeuropäische Länder). Reisen mit einer Covid Infektion sind ein Risiko da: 
