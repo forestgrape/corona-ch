@@ -16,7 +16,7 @@ Auf dieser Seite befinden sich Einschätzungen zur Corona-Situation in der Schwe
 ---
 
 ## Lageeinschätzung und angezeigte Massnahmen betreffend der dramatischen Covid Lage Europa
-30./31.8.2021, update zur Lage Einschätzung vom 26.8.2021
+publiziert 30./31.8.2021 als Update zur Lage Einschätzung vom 26.8.2021
 
 #### Zusammenfassung
 In Südosteuropa ist die Covid Situation dramatisch. Diese ist ausgelöst durch Touristen aus Westeuropa und der Tatsache dass Westeuropa sich darauf konzentriert junge Gesunde zu impfen und dadurch Risikopersonen in Südosteuropa vergessen gingen und sich nicht impfen lassen konnten. Aktuell führen sowohl die unkontrollierte Rückreise (welche durch Superspreading viele weitere Fälle verursacht) wie auch koordinierte Rückholaktionen dazu, dass auch in Westeuropa die Spitalbelastung sehr hoch ist.
