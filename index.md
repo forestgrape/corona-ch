@@ -19,9 +19,9 @@ Auf dieser Seite befinden sich Einschätzungen zur Corona-Situation in der Schwe
 publiziert 30./31.8.2021 als Update zur Lage Einschätzung vom 26.8.2021
 
 #### Zusammenfassung
-In Südosteuropa ist die Covid Situation dramatisch. Diese ist ausgelöst durch Touristen aus Westeuropa und der Tatsache dass Westeuropa sich darauf konzentriert junge Gesunde zu impfen und dadurch Risikopersonen in Südosteuropa vergessen gingen und sich nicht impfen lassen konnten. Aktuell führen sowohl die unkontrollierte Rückreise (welche durch Superspreading viele weitere Fälle verursacht) wie auch koordinierte Rückholaktionen dazu, dass auch in Westeuropa die Spitalbelastung sehr hoch ist.
+In Südosteuropa ist die Covid Situation dramatisch. Diese ist ausgelöst durch Touristen aus Westeuropa, den permanent laufenden Klimaanlagen aufgrund der hohen Temperaturen in Südeuropa, den aus wirtschaftlichen Interessen/Notwendigkeit sehr weitgehend gelockerten Massnahmen und dass viele Risikopersonen in Südosteuropa bisher keinen Zugang zu Impfungen hatten. 
 
-Rückreisende sollten sich vor und nach der Reise testen und vor Ort sollte medizinische Unterstützung gewährt werden. 
+Aktuell führen sowohl die unkontrollierte Rückreise (welche durch Superspreading viele weitere Fälle verursacht) wie auch koordinierte Rückholaktionen dazu, dass auch in Westeuropa die Spitalbelastung sehr hoch ist. Rückreisende sollten sich vor und nach der Reise testen und vor Ort sollte medizinische Unterstützung gewährt werden. 
 
 > Anstatt sich auf konkrete Hilfe und adäquate Massnahmen zu konzentrieren und einzuleiten, fokussieren sich einige beratende Wissenschaftler, Gesundheitsbehörden und Politiker aufs (überhastete) Impfen von  jungen Gesunden und teils sogar von Kindern. Es kommt sogar vor, dass Ungeimpfte welche nicht gereist sind (und somit nichts mit der aktuellen Situation zu tun haben) an den Pranger gestellt und schikaniert bzw. schikaniert werden sollen. Die Schikanen treffen zusätzlich auch Geschäfte insbesondere in der Gastronomie, welche bereits während den Shutdowns in jeglicher Hinsicht eine sehr grosse Last zu tragen hatten und oft keine deckende finanzielle Entschädigung erhielten.
 
