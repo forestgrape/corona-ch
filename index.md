@@ -21,7 +21,7 @@ Auf dieser Seite befinden sich Einschätzungen zur Corona-Situation in der Schwe
 #### Zusammenfassung
 In Südosteuropa ist die Covid Situation dramatisch. Diese ist ausgelöst durch Touristen aus Westeuropa und der Tatsache dass Westeuropa sich darauf konzentriert junge Gesunde zu impfen und dadurch Risikopersonen in Südosteuropa vergessen gingen und sich nicht impfen lassen konnten. Aktuell führen sowohl die unkontrollierte Rückreise (welche durch Superspreading viele weitere Fälle verursacht) wie auch koordinierte Rückholaktionen dazu, dass auch in Westeuropa die Spitalbelastung sehr hoch ist.
 
-Rückreisende sollten sich testen lassen und vor Ort sollte medizinische Unterstützung gewährt werden. 
+Rückreisende sollten sich vor und nach der Reise testen und vor Ort sollte medizinische Unterstützung gewährt werden. 
 
 > Anstatt sich auf Hilfe und adäquate Massnahmen zu konzentrieren, versuchen zum Teil beratende Wissenschaftler, Gesundheitsbehörden und Politiker die Situation zu missbrauchen um junge Gesunde und teils sogar Kinder zum Impfen zu drängen. Weiter werden Ungeimpfte in Westeuropa welche nicht gereist sind (und somit nichts mit der aktuellen Situation zu tun haben) an den Pranger gestellt schikaniert bzw. sollen schikaniert werden. Die Schikanen treffen zusätzlich auch Geschäfte insbesondere in der Gastronomie, welche bereits während den Shutdowns in jeglicher Hinsicht eine sehr grosse Last zu tragen hatten und oft keine deckende finanzielle Entschädigung erhielten.
 
