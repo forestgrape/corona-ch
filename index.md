@@ -29,6 +29,7 @@ Ich denke es macht Sinn die Situation zu analysieren in Hinblick auf allfällige
 * Flugzeugpassagiere aus Flugzeugen mit (hospitalisierten) Covid Fällen der letzten  10 Tage testen. Bei Super Spreading allenfalls auch weitere Reisende welche zeitgleich im Flughafen waren.
 * Da schwere Fälle oft besonders viele Viren ausatmen, allenfalls die Bewohner der Wohnhäuser von hospitalisierten Fällen bezüglich Covid zu informieren und allenfalls zu testen bzw. Antigen Schnelltests für Selbsttests auszuhändigen.
 * Den Fluggesellschaften kommunizieren, dass keine symptomatischen Personen mit fliegen sollen. Allenfalls ankommende Passagiere in der Schweiz direkt bei Ausstieg aus dem Flugzeug testen (draussen, ausserhalb der vollen Flughafengebäude).
+* Die Impfstoffe gerechter verteilen. Die aktuelle Situation ist auch darauf zu rückzuführen, dass im Kosovo und in Nordmazedonien sich Risikogruppen nicht impfen lassen konnten.
  
 
 
