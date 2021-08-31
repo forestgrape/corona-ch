@@ -39,7 +39,7 @@ Der Reiseverkehr in die Schweiz ist weiterhin hoch mit über 40 Fliegern täglic
 * Im Flugzeug atmet man aufgrund der geringeren Luftdichte tiefer und die Luft ist sehr trocken. Je nach Flugzeug ist der Lüftungsstrom so eingestellt, dass die Luft von vorne nach hinten geht: ein Covid Fall kann dann problemlos duzende weitere Personen anstecken (beobachtet bei SARS-CoV-1). Bei Car-Reisen ist die lange Reisedauer eine Risikofaktor.
 * Eine stressige Reise ist alles andere als ideal für eine gute Prognose. Das tiefere atmen erhöht nicht nur das Risiko andere anzustecken, es bewirkt auch dass sich die Viren in der eigenen Lunge verteilen.
 
-Wenn man kürzlich per Flugzeug gereist ist es sinnvoll sich zu testen, insbesondere bei einer Reise aus einem Risikoland. Für Risiko Patienten ist ein adäquater Transport wichtig.
+=> Wenn man kürzlich per Flugzeug gereist ist es sinnvoll sich zu testen, insbesondere bei einer Reise aus einem Risikoland. Für Risiko Patienten ist eine behandlung vor Ort optimal und falls eine Rückreise notwendig ist, ist ein adäquater Transport wichtig.
 
 #### Situation in der Schweiz
 * Die Uebertragungsrate ansich scheint in der Schweiz unter Kontrolle: Gleichbleibende Anzahlfälle wovon rund ein Drittel (33%) direkt Reise-assoziiert sind, die restlichen zwei Drittel wären also lokale Infektionen was einem R Wert von 0.66 entspricht. Bei diesem R-Wert hat ein importierter Fall kumulativ rund 3 weitere Fälle zur Folge. Diese sehr rudimentäre Abschätzung deutet darauf hin, dass nahezu alle Fälle in der Schweiz auf importierte Fälle zurückzuführen sind.
@@ -55,14 +55,6 @@ Es ist angebracht die Situation zu analysieren in Hinblick auf allfällige Massn
 * Flugzeugpassagiere aus Flugzeugen mit (hospitalisierten) Covid Fällen der letzten  10 Tage testen. Stellt man Super Spreading im Flugzeug fest, ist es angebracht allenfalls sämtliche Reisende welche zeitgleich im Flughafen waren zu testen.
 * Da schwere Fälle oft besonders viele Viren ausatmen, allenfalls die Bewohner der Wohnhäuser von hospitalisierten Fällen bezüglich Covid zu informieren und allenfalls zu testen bzw. Antigen Schnelltests für Selbsttests auszuhändigen.
 * Den Fluggesellschaften kommunizieren, dass keine symptomatischen Personen mit fliegen sollen. Allenfalls ankommende Passagiere in der Schweiz direkt bei Ausstieg aus dem Flugzeug testen (draussen, ausserhalb der vollen Flughafengebäude).
-
-
-
-
-
-> in Arbeit
-
-Die meisten Spitaleintritte in der Schweiz sind auf Fälle in Südosteuropa zurückzuführen. 
 
 
 
