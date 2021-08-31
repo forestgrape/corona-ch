@@ -3,7 +3,7 @@
 Auf dieser Seite befinden sich Einschätzungen zur Corona-Situation in der Schweiz. Die Seite ist eine Ergänzung zur Hauptseite <https://forestgrape.github.io/coronavirus>. Die Seite ist Open Source auf <https://github.com/forestgrape/corona-ch>.
 
 
-* [Massnahmen Vorschläge um die Situation von August 2021 zu entspannen (31.8., 8 AM)](#massnahmen-vorschläge-um-die-situation-von-august-2021-zu-entspannen-318-8-am)
+* [Massnahmen Vorschläge um die Situation von August 2021 zu entspannen (31.8. 8 AM, Updates 11 AM)](#massnahmen-vorschläge-um-die-situation-von-august-2021-zu-entspannen-318-8-am-updates-11-am)
 * [Update zur Lageeinschätzung für den Sommer 2021](#update-zur-lageeinschätzung-für-den-sommer-2021)
 * [Corona in der Schweiz im Sommer 2021](#corona-in-der-schweiz-im-sommer-2021)
   * [Situation](#situation)
@@ -15,22 +15,23 @@ Auf dieser Seite befinden sich Einschätzungen zur Corona-Situation in der Schwe
   * [Immunität gegen SARS-CoV-2](#immunität-gegen-sars-cov-2)
 
 ---
-## Massnahmen Vorschläge um die Situation von August 2021 zu entspannen (31.8., 8 AM)
-Obwohl die Uebertragungsrate in der Schweiz selbst deutlich unter 1 ist (wenn man die importierten Fälle subtrahiert) kann sich die Situation in den Spitälern weiter zuspitzen, denn der Rückreiseverkehr ist nach wie vor sehr hoch (mehrere Flieger täglich von Pristina nach Zürich, von insgesamt von Südosteuropa 20+ Flieger täglich nach Zürich; ähnlich in Basel wo täglich oft 4 oder 5 Flieger von Pristina landen und ebenfalls viele von der Türkei und Griechenland). 
+## Massnahmen Vorschläge um die Situation von August 2021 zu entspannen (31.8. 8 AM, Updates 11 AM)
+Obwohl die Uebertragungsrate in der Schweiz selbst deutlich unter 1 ist (wenn man die importierten Fälle subtrahiert) kann sich die Situation in den Spitälern weiter zuspitzen, denn der Rückreiseverkehr ist nach wie vor sehr hoch: mehrere Flieger täglich von Pristina nach Zürich, von insgesamt von Südosteuropa 20+ Flieger täglich nach Zürich; ähnlich in Basel wo täglich oft 4 oder 5 Flieger von Pristina landen. Alles in allem täglich dutzende Flieger aus Risikogebieten in Südeuropa (ganze Balkanregion aber auch Türkei, Griechenland und einzelne Regionen in Spanien/Italien). Trotz der dramatischen Situation, sind meines Wissens derzeit nicht mal elementarste Massnahmen wie testen direkt bei Flugzeugausstieg (bevor man Superspreading in den grossen Flughafenhallen hat) oder noch besser eine effektive Kontrolle beim Abflug vorhanden.
 
 #### Situation in der Schweiz
-In der Schweiz selbst scheint die Uebertragungsrate unter Kontrolle: Gleichbleibende Anzahlfälle wovon rund ein Drittel (33%) direkt Reise-assoziiert sind, die restlichen zwei Drittel wären also lokale Infektionen was einem R Wert von 0.66 entspricht. Bei diesem R-Wert hat ein importierter Fall kumulativ rund 3 weitere Fälle zur Folge. Diese sehr rudimentäre Abschätzung deutet darauf hin, dass die meisten Fälle in der Schweiz auf importierte Fälle zurückzuführen sind.
+In der Schweiz selbst scheint die Uebertragungsrate unter Kontrolle: Gleichbleibende Anzahlfälle wovon rund ein Drittel (33%) direkt Reise-assoziiert sind, die restlichen zwei Drittel wären also lokale Infektionen was einem R Wert von 0.66 entspricht. Bei diesem R-Wert hat ein importierter Fall kumulativ rund 3 weitere Fälle zur Folge. Diese sehr rudimentäre Abschätzung deutet darauf hin, dass nahezu alle Fälle in der Schweiz auf importierte Fälle zurückzuführen sind.
 
 #### Angezeigte Analysen
-Ich denke es macht Sinn die Situation zu analysieren in Hinblick auf allfällige Massnahmen: Abgleichen der Flugnummern, Reisedaten und Wohnadressen von Hospitalisierten. Allenfalls die Viren Genome sequenzieren. 
+Es ist angebracht die Situation zu analysieren in Hinblick auf allfällige Massnahmen: Abgleichen der Flugnummern, Reisedaten und Wohnadressen von Hospitalisierten. Allenfalls die Viren Genome sequenzieren. 
 
 #### Angezeigte Massnahmen
-* Ich denke, dass der Kosovo medizinische Unterstützung benötigt und erhalten sollte. Dies einerseits um zu helfen und andererseits, dass sich die Leute sich vor Ort pflegen lassen und nicht krank und infektiös zurückreisen (was zu vielen weiteren Fällen führen kann, siehe [Update](#update-zur-lageeinschätzung-für-den-sommer-2021)).
-* Flugzeugpassagiere aus Flugzeugen mit (hospitalisierten) Covid Fällen der letzten  10 Tage testen. Bei Super Spreading allenfalls auch weitere Reisende welche zeitgleich im Flughafen waren.
+* Ich denke, dass der Kosovo medizinische Unterstützung benötigt und erhalten sollte. Dies einerseits um zu helfen und andererseits, dass sich die Leute sich vor Ort pflegen lassen und nicht krank und infektiös zurückreisen (was zu vielen weiteren Fällen führen kann, siehe [Update Lageeinschätzung](#update-zur-lageeinschätzung-für-den-sommer-2021)).
+  > Die Situation dürft ähnlich in in vielen Regionen von Südosteuropa sein und daher Unterstützung von  Zentral- und Nordeuropa) 
+* Die Impfstoffe gerechter verteilen, für die aktuellen Situation ist dies jedoch *zu spät*. Im Kosovo und in Nordmazedonien konnten sich nicht alle Risikopersonen impfen lassen, dies trifft wahrscheinlich besonders oft auf Langzeit-Aufenthalter zu welche in der Schweiz ebenfalls einen Wohnsitz haben (politisch scheint dies vergessen gegangen zu sein, da der Fokus oft darauf besteht junge Gesunde zu unsicheren Impfungen zu drängen).
+* Flugzeugpassagiere aus Flugzeugen mit (hospitalisierten) Covid Fällen der letzten  10 Tage testen. Stellt man Super Spreading im Flugzeug fest, ist es angebracht allenfalls sämtliche Reisende welche zeitgleich im Flughafen waren zu testen.
 * Da schwere Fälle oft besonders viele Viren ausatmen, allenfalls die Bewohner der Wohnhäuser von hospitalisierten Fällen bezüglich Covid zu informieren und allenfalls zu testen bzw. Antigen Schnelltests für Selbsttests auszuhändigen.
 * Den Fluggesellschaften kommunizieren, dass keine symptomatischen Personen mit fliegen sollen. Allenfalls ankommende Passagiere in der Schweiz direkt bei Ausstieg aus dem Flugzeug testen (draussen, ausserhalb der vollen Flughafengebäude).
-* Die Impfstoffe gerechter verteilen. Die aktuelle Situation ist auch darauf zu rückzuführen, dass im Kosovo und in Nordmazedonien sich Risikogruppen nicht impfen lassen konnten.
- 
+
 
 
 ## Update zur Lageeinschätzung für den Sommer 2021
