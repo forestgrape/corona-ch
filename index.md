@@ -3,8 +3,7 @@
 Auf dieser Seite befinden sich Einschätzungen zur Corona-Situation in der Schweiz. Die Seite ist eine Ergänzung zur Hauptseite <https://forestgrape.github.io/coronavirus>. Die Seite ist Open Source auf <https://github.com/forestgrape/corona-ch>.
 
 
-* [Massnahmen Vorschläge um die Situation von August 2021 zu entspannen (31.8. 8 AM, Updates 11 AM)](#massnahmen-vorschläge-um-die-situation-von-august-2021-zu-entspannen-318-8-am-updates-11-am)
-* [Update zur Lageeinschätzung für den Sommer 2021](#update-zur-lageeinschätzung-für-den-sommer-2021)
+* [Lageeinschätzung und angezeigte Massnahmen betreffend der dramatischen Covid Lage Europa](#lageeinschätzung-und-angezeigte-massnahmen-betreffend-der-dramatischen-covid-lage-europa)
 * [Corona in der Schweiz im Sommer 2021](#corona-in-der-schweiz-im-sommer-2021)
   * [Situation](#situation)
   * [Mögliche Gründe für den Anstieg der Fallzahlen](#mögliche-gründe-für-den-anstieg-der-fallzahlen)
@@ -15,31 +14,19 @@ Auf dieser Seite befinden sich Einschätzungen zur Corona-Situation in der Schwe
   * [Immunität gegen SARS-CoV-2](#immunität-gegen-sars-cov-2)
 
 ---
-## Massnahmen Vorschläge um die Situation von August 2021 zu entspannen (31.8. 8 AM, Updates 11 AM)
+
+## Lageeinschätzung und angezeigte Massnahmen betreffend der dramatischen Covid Lage Europa
+30./31.8.2021, update zur Lage Einschätzung vom 26.8.2021
+
+#### Zusammenfassung
+In Südosteuropa ist die Covid Situation dramatisch. Diese ist ausgelöst durch Touristen aus Westeuropa und der Tatsache dass Westeuropa sich darauf konzentriert junge Gesunde zu impfen und dadurch Risikopersonen in Südosteuropa vergessen gingen und sich nicht impfen lassen konnten. Aktuell führen sowohl die unkontrollierte Rückreise (welche durch Superspreading viele weitere Fälle verursacht) wie auch koordinierte Rückholaktionen dazu, dass auch in Westeuropa die Spitalbelastung sehr hoch ist.
+
+Rückreisende sollten sich testen lassen und vor Ort sollte medizinische Unterstützung gewährt werden. 
+
+> Anstatt sich auf Hilfe und adäquate Massnahmen zu konzentrieren, versuchen viele Gesundheitsbehörden und Politiker die Situation zu missbrauchen um junge Gesunde und teils sogar Kinder zum Impfen zu drängen und Ungeimpfte in Westeuropa welche nicht gereist sind und somit nichts mit der aktuellen Situation zu tun haben können an den Pranger zu stellen und zu schikanieren.
+
+#### Einleitung
 Obwohl die Uebertragungsrate in der Schweiz selbst deutlich unter 1 ist (wenn man die importierten Fälle subtrahiert) kann sich die Situation in den Spitälern weiter zuspitzen, denn der Rückreiseverkehr ist nach wie vor sehr hoch: mehrere Flieger täglich von Pristina nach Zürich, von insgesamt von Südosteuropa 20+ Flieger täglich nach Zürich; ähnlich in Basel wo täglich oft 4 oder 5 Flieger von Pristina landen. Alles in allem täglich dutzende Flieger aus Risikogebieten in Südeuropa (ganze Balkanregion aber auch Türkei, Griechenland und einzelne Regionen in Spanien/Italien). Trotz der dramatischen Situation, sind meines Wissens derzeit nicht mal elementarste Massnahmen wie testen direkt bei Flugzeugausstieg (bevor man Superspreading in den grossen Flughafenhallen hat) oder noch besser eine effektive Kontrolle beim Abflug vorhanden.
-
-#### Situation in der Schweiz
-In der Schweiz selbst scheint die Uebertragungsrate unter Kontrolle: Gleichbleibende Anzahlfälle wovon rund ein Drittel (33%) direkt Reise-assoziiert sind, die restlichen zwei Drittel wären also lokale Infektionen was einem R Wert von 0.66 entspricht. Bei diesem R-Wert hat ein importierter Fall kumulativ rund 3 weitere Fälle zur Folge. Diese sehr rudimentäre Abschätzung deutet darauf hin, dass nahezu alle Fälle in der Schweiz auf importierte Fälle zurückzuführen sind.
-
-#### Angezeigte Analysen
-Es ist angebracht die Situation zu analysieren in Hinblick auf allfällige Massnahmen: Abgleichen der Flugnummern, Reisedaten und Wohnadressen von Hospitalisierten. Allenfalls die Viren Genome sequenzieren. 
-
-#### Angezeigte Massnahmen
-* Ich denke, dass der Kosovo medizinische Unterstützung benötigt und erhalten sollte. Dies einerseits um zu helfen und andererseits, dass sich die Leute sich vor Ort pflegen lassen und nicht krank und infektiös zurückreisen (was zu vielen weiteren Fällen führen kann, siehe [Update Lageeinschätzung](#update-zur-lageeinschätzung-für-den-sommer-2021)).
-  > Die Situation dürft ähnlich in in vielen Regionen von Südosteuropa sein und daher Unterstützung von  Zentral- und Nordeuropa) 
-* Die Impfstoffe gerechter verteilen, für die aktuellen Situation ist dies jedoch *zu spät*. Im Kosovo und in Nordmazedonien konnten sich nicht alle Risikopersonen impfen lassen, dies trifft wahrscheinlich besonders oft auf Langzeit-Aufenthalter zu welche in der Schweiz ebenfalls einen Wohnsitz haben (politisch scheint dies vergessen gegangen zu sein, da der Fokus oft darauf besteht junge Gesunde zu unsicheren Impfungen zu drängen).
-* Flugzeugpassagiere aus Flugzeugen mit (hospitalisierten) Covid Fällen der letzten  10 Tage testen. Stellt man Super Spreading im Flugzeug fest, ist es angebracht allenfalls sämtliche Reisende welche zeitgleich im Flughafen waren zu testen.
-* Da schwere Fälle oft besonders viele Viren ausatmen, allenfalls die Bewohner der Wohnhäuser von hospitalisierten Fällen bezüglich Covid zu informieren und allenfalls zu testen bzw. Antigen Schnelltests für Selbsttests auszuhändigen.
-* Den Fluggesellschaften kommunizieren, dass keine symptomatischen Personen mit fliegen sollen. Allenfalls ankommende Passagiere in der Schweiz direkt bei Ausstieg aus dem Flugzeug testen (draussen, ausserhalb der vollen Flughafengebäude).
-
-
-
-## Update zur Lageeinschätzung für den Sommer 2021
-30.8.2021, update zur Lage Einschätzung vom 26.8.2021
-
-> in Arbeit
-
-Die meisten Spitaleintritte in der Schweiz sind auf Fälle in Südosteuropa zurückzuführen. 
 
 #### Situation in Südosteuropa
 Folgendes hat sich abgespielt: Die Fallzahlen waren nahe bei Null im Frühsommer bevor die Touristen ankamen. Somit wurden die Massnahmen gelockert bzw. aufgehoben. Mit den Touristen und den Partyveranstaltungen sind die Zahlen richtiggehend explodiert. Fast überall Südosteuropa sind die Fallzahlen aktuell sehr hoch oder am steigen. Weiter haben einige Länder in Südosteuropa bisher nur beschränkt Impfstoffe erhalten und daher sind viele Risikopersonen exponiert.
@@ -51,6 +38,31 @@ Der Reiseverkehr in die Schweiz ist weiterhin hoch mit über 40 Fliegern täglic
 * Eine stressige Reise ist alles andere als ideal für eine gute Prognose. Das tiefere atmen erhöht nicht nur das Risiko andere anzustecken, es bewirkt auch dass sich die Viren in der eigenen Lunge verteilen.
 
 Wenn man kürzlich per Flugzeug gereist ist es sinnvoll sich zu testen, insbesondere bei einer Reise aus einem Risikoland. Für Risiko Patienten ist ein adäquater Transport wichtig.
+
+#### Situation in der Schweiz
+* Die Uebertragungsrate ansich scheint in der Schweiz unter Kontrolle: Gleichbleibende Anzahlfälle wovon rund ein Drittel (33%) direkt Reise-assoziiert sind, die restlichen zwei Drittel wären also lokale Infektionen was einem R Wert von 0.66 entspricht. Bei diesem R-Wert hat ein importierter Fall kumulativ rund 3 weitere Fälle zur Folge. Diese sehr rudimentäre Abschätzung deutet darauf hin, dass nahezu alle Fälle in der Schweiz auf importierte Fälle zurückzuführen sind.
+* Schwere Fälle welche direkt aus dem Ausland kommen bzw. sich während der Reise oder in Wohnblöcken bei Rückkehrern angesteckt haben, führen dazu, dass die Spitäler an die Belastungsgrenzen stossen.
+
+#### Angezeigte Analysen
+Es ist angebracht die Situation zu analysieren in Hinblick auf allfällige Massnahmen: Abgleichen der Flugnummern, Reisedaten und Wohnadressen von Hospitalisierten. Allenfalls die Viren Genome sequenzieren. 
+
+#### Angezeigte Massnahmen
+* Ich denke, dass der Kosovo medizinische Unterstützung benötigt und erhalten sollte. Dies einerseits um zu helfen und andererseits, dass sich die Leute sich vor Ort pflegen lassen und nicht krank und infektiös zurückreisen (was zu vielen weiteren Fällen führen kann, siehe [Auswirkungen auf die Schweiz](#auswirkungen-auf-die-schweiz).
+  > Die Situation dürfte ähnlich in in vielen Regionen von Südosteuropa sein und daher Unterstützung von  Zentral- und Nordeuropa benötigen.
+* Die Impfstoffe gerechter verteilen, für die aktuellen Situation ist dies jedoch *zu spät*. Im Kosovo und in Nordmazedonien konnten sich nicht alle Risikopersonen impfen lassen, dies trifft wahrscheinlich besonders oft auf Langzeit-Aufenthalter zu welche in der Schweiz ebenfalls einen Wohnsitz haben (politisch scheint dies vergessen gegangen zu sein, da der Fokus oft darauf besteht junge Gesunde zu unsicheren Impfungen zu drängen).
+* Flugzeugpassagiere aus Flugzeugen mit (hospitalisierten) Covid Fällen der letzten  10 Tage testen. Stellt man Super Spreading im Flugzeug fest, ist es angebracht allenfalls sämtliche Reisende welche zeitgleich im Flughafen waren zu testen.
+* Da schwere Fälle oft besonders viele Viren ausatmen, allenfalls die Bewohner der Wohnhäuser von hospitalisierten Fällen bezüglich Covid zu informieren und allenfalls zu testen bzw. Antigen Schnelltests für Selbsttests auszuhändigen.
+* Den Fluggesellschaften kommunizieren, dass keine symptomatischen Personen mit fliegen sollen. Allenfalls ankommende Passagiere in der Schweiz direkt bei Ausstieg aus dem Flugzeug testen (draussen, ausserhalb der vollen Flughafengebäude).
+
+
+
+
+
+> in Arbeit
+
+Die meisten Spitaleintritte in der Schweiz sind auf Fälle in Südosteuropa zurückzuführen. 
+
+
 
 ## Corona in der Schweiz im Sommer 2021
 *Lageeinschätzung	per 26.8.2021*
@@ -122,7 +134,7 @@ Klimaanlagen trocknen die Luft aus. Trockene Luft erhöht die Zahl von schweren 
 ### Immunität gegen SARS-CoV-2 
 
 * Eine durchgemachte Infektion bewirkt die Bildung von B und T Zellen welche das Spike aber auch andere Bestandteile des Virus erkennen. Diese breite Pallette an Erkennungsmerkmalen erkennt fast immer auch mutierte Viren. Einige T Zellen verbleiben im Lungengewebe und können eine Infektion im gesamten Atemtrakt frühzeitig erkennen). Zum Teil erkennen solche T Zellen auch die endemischen Coronaviren. Das umgekehrte gilt ebenfalls: Manche T Zellen von endemischen Coronaviren erkennen Proteine von SARS-CoV-2, was dazu führt das manche Leute gar nicht an SARS-CoV-2 erkranken (T Zellen und B Zellen sind sehr individuell, was mit ein Grund ist, warum Covid Erkrankungen sehr individuell unterschiedlich sind).
-* Die Spike-"mRNA" und Adenovirus-mit-Spike-DNA Impfungen bewirken die Bildung von B und T Zellen die Elemente des Spike Proteins erkennen. Die T Zellen erkennen viele Elemente des Spike Proteins (genannt Epitope) und erkennen daher meist auch mutierte Viren. In den ersten Monaten nach der Impfung hat es viele aktive B Zellen welche Antikörper produzieren. Ein Teil dieser Antikörper bindet an die Viren ausserhalb der Zellen. Wenn nun ein Virus mit Antikörper eine Zelle infiziert erkennt die Zelle die Infektionen frühzeitig und die Viren vermehren sich weniger. Der nach aussen exponierte Teil der Coronavirus Spikes mutiert jedoch oft, daher  reduziert sich dieser Effekt bei Mutationen.
+* Die Spike-"mRNA" und Adenovirus-mit-Spike-DNA Impfungen bewirken die Bildung von B und T Zellen die Elemente des Spike Proteins erkennen. Die T Zellen erkennen viele Elemente des Spike Proteins (genannt Epitope) und erkennen daher meist auch mutierte Viren. In den ersten Monaten nach der Impfung hat es auch viele aktive B Zellen welche Antikörper produzieren. Ein Teil dieser Antikörper bindet an die Viren ausserhalb der Zellen. Wenn nun ein Virus mit Antikörper eine Zelle infiziert erkennt die Zelle die Infektionen frühzeitig und die Viren vermehren sich weniger. Der nach aussen exponierte Teil der Coronavirus Spikes mutiert jedoch oft, daher  reduziert sich dieser Effekt bei Mutationen und Antikörper wirken nur während wenigen Monaten (das Immun System ist auch schlau genug nur während einer begrenzten Zeit die Antikörper zu produzieren, da diese danach eh ziemlich nutzlos sind).
 
 
 ---
