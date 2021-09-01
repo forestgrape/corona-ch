@@ -3,7 +3,8 @@
 Auf dieser Seite befinden sich Einschätzungen zur Corona-Situation in der Schweiz. Die Seite ist eine Ergänzung zur Hauptseite <https://forestgrape.github.io/coronavirus>. Die Seite ist Open Source auf <https://github.com/forestgrape/corona-ch>.
 
 
-* [Lageeinschätzung und angezeigte Massnahmen betreffend der dramatischen Covid Lage Europa](#lageeinschätzung-und-angezeigte-massnahmen-betreffend-der-dramatischen-covid-lage-europa)
+* [Updates](#updates)
+* [Lageeinschätzung und möglichen Massnahmen betreffend der angespannten Covid Lage in Regionen Europas](#lageeinschätzung-und-möglichen-massnahmen-betreffend-der-angespannten-covid-lage-in-regionen-europas)
 * [Corona in der Schweiz im Sommer 2021](#corona-in-der-schweiz-im-sommer-2021)
   * [Situation](#situation)
   * [Mögliche Gründe für den Anstieg der Fallzahlen](#mögliche-gründe-für-den-anstieg-der-fallzahlen)
@@ -14,12 +15,15 @@ Auf dieser Seite befinden sich Einschätzungen zur Corona-Situation in der Schwe
   * [Immunität gegen SARS-CoV-2](#immunität-gegen-sars-cov-2)
 
 ---
+## Updates
+1.9.: Verbesserungen, Korrekturen und Anpassungen zur [Lageeinschätzung in Regionen Europas](#lageeinschätzung-und-möglichen-massnahmen-betreffend-der-angespannten-covid-lage-in-regionen-europas).
 
-## Lageeinschätzung und angezeigte Massnahmen betreffend der dramatischen Covid Lage Europa
-publiziert 30./31.8.2021 als Update zur Lage Einschätzung vom 26.8.2021
+## Lageeinschätzung und möglichen Massnahmen betreffend der angespannten Covid Lage in Regionen Europas
+
+30.8. - 1.9.2021 als Update zur Lage Einschätzung vom 26.8.2021
 
 #### Zusammenfassung
-In Südosteuropa ist die Covid Situation dramatisch. Diese ist ausgelöst durch Touristen aus Westeuropa, den permanent laufenden Klimaanlagen aufgrund der hohen Temperaturen und den aus wirtschaftlichen Interessen/Notwendigkeit sehr weitgehend gelockerten Massnahmen. Da viele Risikopersonen in Südosteuropa bisher keinen Zugang zu Impfungen hatten, gibt es eine sehr hohe Anzahl an scheren Fällen.
+In Südosteuropa ist die Covid Situation sehr angespannt. Diese ist ausgelöst durch Touristen, den permanent laufenden Klimaanlagen aufgrund der hohen Temperaturen und den aus wirtschaftlichen Interessen/Notwendigkeit sehr weitgehend gelockerten Massnahmen. Ein weiterer Grund sind tiefe Impfraten bei Risikopersonen, teils aufgrund von beschränkter Verfügbarkeit.
 
 Aktuell führen sowohl die unkontrollierte Rückreise (welche durch Superspreading viele weitere Fälle verursacht) wie auch koordinierte Rückholaktionen dazu, dass auch in Westeuropa die Spitalbelastung sehr hoch ist. Rückreisende sollten sich vor und nach der Reise testen. Idealerweise kurieren sich Infizierte  vor Ort aus und falls nötig behandeln - dazu ist medizinische Unterstützung aus der Schweiz bzw. Nord/Zentraleuropa wichtig. Eine allfällige Rückreise mit Infektion sollte keinesfalls in öffentlichen Verkehrsmitteln erfolgen und idealerweise in einem Spezialtransport.
 
@@ -34,7 +38,7 @@ Obwohl die Uebertragungsrate in der Schweiz selbst deutlich unter 1 ist (wenn ma
 #### Situation in Südosteuropa
 Folgendes hat sich abgespielt: Die Fallzahlen waren sehr tief (im Kosovo nahe bei Null) im Frühsommer bevor die Touristen ankamen. Somit wurden die Massnahmen gelockert bzw. aufgehoben. Mit den Touristen und den Partyveranstaltungen sind die Zahlen explodiert. Fast überall Südosteuropa sind die Fallzahlen aktuell sehr hoch oder am steigen. Weiter haben einige Länder in Südosteuropa bisher nur beschränkt Impfstoffe erhalten und daher sind viele Risikopersonen exponiert.
 
-> Aus praktischen Gründen liessen sich wahrscheinlich einige Touristen impfen und wähnten sich dann da die Schutzwirkung betreffend Uebertragung anfänglich überschätzt wurde in falscher Sicherheit. In vielen Fällen ist es empfehlenswert sich vor einer Reise gegen Krankheiten impfen zu lassen bei Covid trifft dies insbesondere auf Risikopersonen zu. Wichtig ist den Nutzen, die Risiken und die Limiten zu kennen: Bei Covid (und anderen Atemtraktinfektionen) ist man meist gut gegen schwere Verläufe geschützt, man kann andere jedoch weiterhin infizieren und sollte daher, insbesondere wenn symptomatisch, vorsichtig sein.
+> Aus praktischen Gründen liessen sich wahrscheinlich einige Touristen impfen und wähnten sich dann da die Schutzwirkung betreffend Uebertragung anfänglich überschätzt wurde in falscher Sicherheit. Vor Reisen ist es oft empfehlenswert sich über Krankheiten und Präventionsmöglichkeiten inklusive Impfungen zu informieren und deren Nutzen, Risiken und Limiten zu kennen. Bei Covid (und anderen Atemtraktinfektionen) ist man meist gut gegen schwere Verläufe geschützt, man kann andere jedoch weiterhin infizieren und sollte daher, insbesondere wenn symptomatisch, vorsichtig sein.
 
 #### Auswirkungen auf die Schweiz
 Die Schweiz ist mit den derzeitigen Covid Hotspots Kosovo und Nord Mazedonien personell eng verflochten. Einerseits reisen viele in der Schweiz wohnenden in den Sommerferien in das Land ihrer Vorfahren bzw. ihr Geburtland und andererseits verbringen Pensionäre oft den gesamten Sommer im Süden. Zum Ferienende sind viele zurückgereist. Momentan ist die prekäre Covid- und Spitalsituation möglicherweise ein weiterer Grund.
@@ -130,7 +134,7 @@ Klimaanlagen trocknen die Luft aus. Trockene Luft erhöht die Zahl von schweren 
 
 ### Immunität gegen SARS-CoV-2 
 
-* Eine durchgemachte Infektion bewirkt die Bildung von B und T Zellen welche das Spike aber auch andere Bestandteile des Virus erkennen. Diese breite Pallette an Erkennungsmerkmalen erkennt fast immer auch mutierte Viren. Einige T Zellen verbleiben im Lungengewebe und können eine Infektion im gesamten Atemtrakt frühzeitig erkennen). Zum Teil erkennen solche T Zellen auch die endemischen Coronaviren. Das umgekehrte gilt ebenfalls: Manche T Zellen von endemischen Coronaviren erkennen Proteine von SARS-CoV-2, was dazu führt das manche Leute gar nicht an SARS-CoV-2 erkranken (T Zellen und B Zellen sind sehr individuell, was mit ein Grund ist, warum Covid Erkrankungen sehr individuell unterschiedlich sind).
+* Eine durchgemachte Infektion bewirkt die Bildung von B und T Zellen welche das Spike aber auch andere Bestandteile des Virus erkennen. Diese breite Pallette an Erkennungsmerkmalen erkennt fast immer auch mutierte Viren. Einige T Zellen verbleiben im Lungengewebe und können eine Infektion im gesamten Atemtrakt frühzeitig erkennen). Zum Teil erkennen solche T Zellen auch die endemischen Coronaviren. Das umgekehrte gilt ebenfalls: Manche T Zellen von endemischen Coronaviren erkennen Proteine von SARS-CoV-2, was dazu führt das manche Leute gar nicht an SARS-CoV-2 erkranken (T Zellen und B Zellen sind sehr individuell, was mit ein Grund ist, dass SARS-CoV-2 Infektionen sehr unterschiedlich verlaufen).
 * Die Spike-"mRNA" und Adenovirus-mit-Spike-DNA Impfungen bewirken die Bildung von B und T Zellen die Elemente des Spike Proteins erkennen. Die T Zellen erkennen viele Elemente des Spike Proteins (genannt Epitope) und erkennen daher meist auch mutierte Viren. In den ersten Monaten nach der Impfung hat es auch viele aktive B Zellen welche Antikörper produzieren. Ein Teil dieser Antikörper bindet an die Viren ausserhalb der Zellen. Wenn nun ein Virus mit Antikörper eine Zelle infiziert erkennen viele Zellen die Infektionen frühzeitig, was bewirkt, dass sich die Viren insgesamt weniger vermehren und die Zellen das Immune System alarmieren. Der nach aussen exponierte Teil des Coronavirus Spike-Proteins mutiert jedoch oft, daher  reduziert sich dieser Effekt bei Mutationen (das Immun System ist auch schlau genug nur während einer begrenzten Zeit die Antikörper zu produzieren, da diese, insbesondere bei Viren die schnell mutieren, der Nutzen nachlässt).
 
 
