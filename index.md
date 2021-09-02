@@ -135,6 +135,8 @@ Klimaanlagen trocknen die Luft aus. Trockene Luft erhöht die Zahl von schweren 
 
 ### Immunität gegen SARS-CoV-2 
 
+> Eine detaillierte Beschreibung mit Referenzen ist in Arbeit.
+
 #### Durchgemachte Infektion
 Eine durchgemachte Infektion bewirkt unter anderem die Bildung von B und T Zellen welche das Spike aber auch andere Bestandteile des Virus erkennen. Durch diese breite Pallette an Erkennungsmerkmalen erkennen diese Zellen fast immer auch mutierte Viren. T Zellen und adaptierte Immunezellen verbleiben bzw. verteilen sich im Gewebe des Atemtrakts (inkl. Lugengewebe) und können eine Infektion im gesamten Atemtrakt frühzeitig erkennen und eindämmen). Zum Teil erkennen solche T Zellen auch die endemischen Coronaviren. Das umgekehrte gilt ebenfalls: Manche T Zellen von endemischen Coronaviren erkennen Proteine von SARS-CoV-2, was dazu führt das manche Leute gar nicht an SARS-CoV-2 erkranken (T Zellen und B Zellen sind sehr individuell, was mit ein Grund ist, dass SARS-CoV-2 Infektionen sehr unterschiedlich verlaufen).
 
