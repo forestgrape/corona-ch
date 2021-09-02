@@ -21,7 +21,7 @@ Auf dieser Seite befinden sich Einschätzungen zur Corona-Situation in der Schwe
 
 ## Lageeinschätzung und möglichen Massnahmen betreffend der angespannten Covid Lage in Regionen Europas
 
-30.8. - 1.9.2021 als Update zur Lage Einschätzung vom 26.8.2021
+30.8. - 2.9.2021 als Update zur Lage Einschätzung vom 26.8.2021
 
 #### Zusammenfassung
 In Südosteuropa ist die Covid Situation sehr angespannt. Diese ist ausgelöst durch Touristen, den permanent laufenden Klimaanlagen aufgrund der hohen Temperaturen und den aus wirtschaftlichen Interessen/Notwendigkeit sehr weitgehend gelockerten Massnahmen. Ein weiterer Grund sind tiefe Impfraten bei Risikopersonen, teils aufgrund von beschränkter Verfügbarkeit.
