@@ -1,6 +1,6 @@
 
 # Corona Lage Einschätzungen
-Auf dieser Seite befinden sich Einschätzungen zur Corona-Situation in der Schweiz. Die Seite ist eine Ergänzung zur Hauptseite <https://forestgrape.github.io/coronavirus>. Die Seite ist Open Source auf <https://github.com/forestgrape/corona-ch>.
+Auf dieser Seite befinden sich Einschätzungen zur Corona-Situation in der Schweiz und oft auch für Regionen mit ähnlichen Gegebenheiten (z.B. Regionen in Deutschland). Die Seite ist eine Ergänzung zur Hauptseite <https://forestgrape.github.io/coronavirus>. Die Seite ist Open Source auf <https://github.com/forestgrape/corona-ch>.
 
 
 * [Updates](#updates)
@@ -16,6 +16,7 @@ Auf dieser Seite befinden sich Einschätzungen zur Corona-Situation in der Schwe
 
 ---
 ## Updates
+2.9.: Ungenauigkeiten korrigiert (z.B. bei [Immunität gegen SARS-CoV-2](#immunität-gegen-sars-cov-2)). Bemerkung, dass die Lageeinschätzung nicht nur für die Schweiz sondern auch für Regionen mit ähnlichen Gegebenheiten gilt.
 1.9.: Verbesserungen, Korrekturen und Anpassungen zur [Lageeinschätzung in Regionen Europas](#lageeinschätzung-und-möglichen-massnahmen-betreffend-der-angespannten-covid-lage-in-regionen-europas).
 
 ## Lageeinschätzung und möglichen Massnahmen betreffend der angespannten Covid Lage in Regionen Europas
@@ -46,7 +47,7 @@ Der Reiseverkehr in die Schweiz ist weiterhin hoch mit über 40 Fliegern täglic
 * Im Flugzeug atmet man aufgrund der geringeren Luftdichte tiefer und die Luft ist sehr trocken. Je nach Flugzeug ist der Lüftungsstrom so eingestellt, dass die Luft von vorne nach hinten geht: ein Covid Fall kann dann problemlos duzende weitere Personen anstecken (beobachtet bei SARS-CoV-1). Bei Car-Reisen ist die lange Reisedauer eine Risikofaktor.
 * Eine stressige Reise ist alles andere als ideal für eine gute Prognose. Das tiefere atmen erhöht nicht nur das Risiko andere anzustecken, es bewirkt auch dass sich die Viren in der eigenen Lunge verteilen.
 
-=> Wenn man kürzlich per Flugzeug gereist ist es sinnvoll sich zu testen, insbesondere bei einer Reise aus einem Risikoland. Für Risiko Patienten ist eine behandlung vor Ort optimal und falls eine Rückreise notwendig ist, ist ein adäquater Transport wichtig.
+=> Wenn man kürzlich per Flugzeug gereist ist es sinnvoll sich zu testen, insbesondere bei einer Reise aus einem Risikoland. Ideal ist wenn sich Patienten vor Ort auskurieren können und falls eine Rückreise notwendig ist, ist ein adäquater Transport wichtig.
 
 #### Situation in der Schweiz
 * Die Uebertragungsrate ansich scheint in der Schweiz unter Kontrolle: Gleichbleibende Anzahlfälle wovon rund ein Drittel (33%) direkt Reise-assoziiert sind, die restlichen zwei Drittel wären also lokale Infektionen was einem R Wert von 0.66 entspricht. Bei diesem R-Wert hat ein importierter Fall kumulativ rund 2 bis 3 weitere Fälle zur Folge. Diese sehr rudimentäre Abschätzung deutet darauf hin, dass nahezu alle Fälle in der Schweiz auf importierte Fälle zurückzuführen sind.
@@ -56,7 +57,7 @@ Der Reiseverkehr in die Schweiz ist weiterhin hoch mit über 40 Fliegern täglic
 Es ist angebracht die Situation zu analysieren in Hinblick auf allfällige Massnahmen: Abgleichen der Flugnummern, Reisedaten und Wohnadressen von Hospitalisierten. Allenfalls die Viren Genome sequenzieren. 
 
 #### Mögliche Massnahmen
-* Allenfalls kann Südeuropa und insbesondere der Kosovo medizinische Unterstützung gebrauchen. Unterstützung hilft den Leuten vor Ort, was gut ist ansich und zusätzlich lassen sich die Patienten bei einer guten Leute eher vor Ort pflegen und reisen nicht krank zurück (was zu vielen weiteren Fällen führen kann, siehe [Auswirkungen auf die Schweiz](#auswirkungen-auf-die-schweiz).
+* Allenfalls kann Südeuropa und insbesondere der Kosovo medizinische Unterstützung gebrauchen. Unterstützung hilft den Leuten vor Ort, was gut ist ansich und zusätzlich lassen sich die Patienten bei einer guten Lage eher vor Ort pflegen und reisen nicht krank zurück (was zu vielen weiteren Fällen führen kann, siehe [Auswirkungen auf die Schweiz](#auswirkungen-auf-die-schweiz).
   > Die Situation dürfte ähnlich in in vielen Regionen von Südosteuropa sein und allenfalls dankbar für Unterstützung aus  Zentral- und Nordeuropa.
 * Die Impfstoffe gerechter verteilen, für die aktuellen Situation ist dies jedoch zu spät. Im Kosovo und in Nordmazedonien konnten sich nicht alle Risikopersonen impfen lassen, dies trifft wahrscheinlich besonders oft auf Langzeit-Aufenthalter zu welche in der Schweiz ebenfalls einen Wohnsitz haben (dies scheint vergessen gegangen zu sein, da der Fokus in vielen Ländern darauf lag/liegt im Land selber eine hohe Impfquote zu haben, dies obwohl der Nutzen bei jungen Gesunden nicht klar ist).
 * Flugzeugpassagiere aus Flugzeugen mit (hospitalisierten) Covid Fällen der letzten  10 Tage testen. Stellt man Super Spreading im Flugzeug fest, ist es angebracht allenfalls sämtliche Reisende welche zeitgleich im Flughafen waren zu testen.
@@ -134,8 +135,11 @@ Klimaanlagen trocknen die Luft aus. Trockene Luft erhöht die Zahl von schweren 
 
 ### Immunität gegen SARS-CoV-2 
 
-* Eine durchgemachte Infektion bewirkt die Bildung von B und T Zellen welche das Spike aber auch andere Bestandteile des Virus erkennen. Diese breite Pallette an Erkennungsmerkmalen erkennt fast immer auch mutierte Viren. Einige T Zellen verbleiben bzw. verteilen sich im Gewebe des Atemtrakts (inkl. Lugengewebe) und können eine Infektion im gesamten Atemtrakt frühzeitig erkennen und eindämmen). Zum Teil erkennen solche T Zellen auch die endemischen Coronaviren. Das umgekehrte gilt ebenfalls: Manche T Zellen von endemischen Coronaviren erkennen Proteine von SARS-CoV-2, was dazu führt das manche Leute gar nicht an SARS-CoV-2 erkranken (T Zellen und B Zellen sind sehr individuell, was mit ein Grund ist, dass SARS-CoV-2 Infektionen sehr unterschiedlich verlaufen).
-* Die Spike-"mRNA" und Adenovirus-mit-Spike-DNA Impfungen bewirken die Bildung von B und T Zellen die Elemente des Spike Proteins erkennen. Die T Zellen erkennen viele Elemente des Spike Proteins (genannt Epitope) und erkennen daher meist auch mutierte Viren. In den ersten Monaten nach der Impfung hat es auch viele aktive B Zellen welche Antikörper produzieren. Ein Teil dieser Antikörper bindet an die Viren ausserhalb der Zellen. Wenn nun ein Virus mit Antikörper eine Zelle infiziert erkennen viele Zellen die Infektionen frühzeitig, was bewirkt, dass sich die Viren insgesamt weniger vermehren und die Zellen das Immune System alarmieren. Der nach aussen exponierte Teil des Coronavirus Spike-Proteins mutiert jedoch oft, daher  reduziert sich dieser Effekt bei Mutationen (das Immun System ist auch schlau genug nur während einer begrenzten Zeit die Antikörper zu produzieren, da diese, insbesondere bei Viren die schnell mutieren, der Nutzen nachlässt).
+#### Durchgemachte Infektion
+Eine durchgemachte Infektion bewirkt unter anderem die Bildung von B und T Zellen welche das Spike aber auch andere Bestandteile des Virus erkennen. Durch diese breite Pallette an Erkennungsmerkmalen erkennen diese Zellen fast immer auch mutierte Viren. T Zellen und adaptierte Immunezellen verbleiben bzw. verteilen sich im Gewebe des Atemtrakts (inkl. Lugengewebe) und können eine Infektion im gesamten Atemtrakt frühzeitig erkennen und eindämmen). Zum Teil erkennen solche T Zellen auch die endemischen Coronaviren. Das umgekehrte gilt ebenfalls: Manche T Zellen von endemischen Coronaviren erkennen Proteine von SARS-CoV-2, was dazu führt das manche Leute gar nicht an SARS-CoV-2 erkranken (T Zellen und B Zellen sind sehr individuell, was mit ein Grund ist, dass SARS-CoV-2 Infektionen sehr unterschiedlich verlaufen).
+
+#### Impfung
+Die Spike-"mRNA" und Adenovirus-mit-Spike-DNA Impfungen bewirken die Bildung von B und T Zellen die Elemente des Spike Proteins erkennen. Die T Zellen erkennen viele Elemente des Spike Proteins (genannt Epitope) und erkennen daher meist auch mutierte Viren. In den ersten Monaten nach der Impfung hat es auch viele aktive B Zellen welche Antikörper produzieren. Ein Teil dieser Antikörper bindet an die Viren ausserhalb der Zellen. Wenn nun ein Virus mit Antikörper eine Zelle infiziert erkennen viele Zellen die Infektionen frühzeitig, was bewirkt, dass sich die Viren insgesamt weniger vermehren und die Zellen das Immune System alarmieren. Der nach aussen exponierte Teil des Coronavirus Spike-Proteins mutiert jedoch oft, daher  reduziert sich dieser Effekt bei Mutationen (das Immun System ist auch schlau genug nur während einer begrenzten Zeit die Antikörper zu produzieren, da diese, insbesondere bei Viren die schnell mutieren, der Nutzen nachlässt).
 
 
 ---
