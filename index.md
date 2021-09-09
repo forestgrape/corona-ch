@@ -16,6 +16,13 @@ Auf dieser Seite befinden sich Einschätzungen zur Corona-Situation in der Schwe
 
 ---
 ## Updates
+9.9.: Die **epidemiologische** Entwicklung in der Schweiz verbessert sich: 
+* die Spitaleinweisungen sind seit dem 23.8. stark rückläufig.
+* Die Inzidenz von Covid ist abnehmend: seit Mitte August bleibt die Anzahl der positive getesteten ungefähr gleich hoch, während die Anzahl der Tests um rund 50% zugenommen hat. Entsprechend ist die Positivitätsrate rückläufig. 
+* Die Lage auf den Intensivstationen in den Spitälern bleibt erwartungsgemäss sehr angespannt, was auf die hohe Anzahl Spitaleinweisung vor rund 2 Wochen und die Rückführung von Patienten aus Südeuropa zurückzuführen ist.
+
+> Einschätzung: Da insbesondere die Spitaleinweisungen stark zurückgehen und die Uebertragungsraten innerhalb der Schweiz selbst immer relativ niedrig waren, sind aus epidemiologischer Sicht keine flächendeckendenden Massnahmen notwendig. Nach wie vor ist es jedoch wichtig lokale Hotspots wie z.B. Superspreading in vollen Flugzeugen aus Südeuropa zu vermeiden.
+
 2.9.: Ungenauigkeiten korrigiert (z.B. bei [Immunität gegen SARS-CoV-2](#immunität-gegen-sars-cov-2)). Bemerkung, dass die Lageeinschätzung nicht nur für die Schweiz sondern auch für Regionen mit ähnlichen Gegebenheiten gilt.
 1.9.: Verbesserungen, Korrekturen und Anpassungen zur [Lageeinschätzung in Regionen Europas](#lageeinschätzung-und-möglichen-massnahmen-betreffend-der-angespannten-covid-lage-in-regionen-europas).
 
