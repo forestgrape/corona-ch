@@ -145,6 +145,7 @@ Die Massnahmen zu optimieren ist jedoch sinnvoll. Eine Möglichkeit ist dies reg
 > Die Adressaten sind mit "Damen und Herren" anonymisiert
 
 """
+
 Covid-19 Situation Schweiz: Schätzung 8000 Fälle vor 4 Wochen (Betreff)
 
 Sehr gehrte Damen und Herren
