@@ -140,10 +140,12 @@ Die Massnahmen zu optimieren ist jedoch sinnvoll. Eine Möglichkeit ist dies reg
 
 
 ## Einschätzung im Herbst 2020
-> ursprünglich am 31.10.20 als Email gesendet. Per 28.11.21 12.30 online gestellt. // Die Adressaten sind mit "Damen und Herren" anonymisiert
+> ursprünglich per 31.10.20 als Email gesendet. Per 28.11.21 12.30 online gestellt. 
+> 
+> Die Adressaten sind mit "Damen und Herren" anonymisiert
 
 """
-Covid-19 Situation Schweiz: Schätzung 8000 Fälle vor 4 Wochen //Betreff
+Covid-19 Situation Schweiz: Schätzung 8000 Fälle vor 4 Wochen (Betreff)
 
 Sehr gehrte Damen und Herren
 
