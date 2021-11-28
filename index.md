@@ -159,7 +159,7 @@ Wito Traub
 
 
 ### Dunkelziffer
-1. Die Todesfälle waren letzte Woche durchschnittlich bei knapp 20 Fällen und diese Woche höher. Unter meiner Ansicht realistischen Annahmen ergibt dies, dass vor 3-4 Wochen die Schweiz täglich rund 8000 Neuinfektionen hatte.  Annahmen: 1. die Sterblichkeitsrate ist 0.25%, also einem Todesfall pro 400 Infizierte. 2. Die Todesfälle haben sich vor mindestens 20 Tagen infiziert. 3. Die Covid-Rate bei den Risikogruppen ist gleich hoch wie in der Gesamtbevölkerung (hoffentlich geringer, da die Risikogruppe vorsichtiger sind).
+ 1. Die Todesfälle waren letzte Woche durchschnittlich bei knapp 20 Fällen und diese Woche höher. Unter meiner Ansicht realistischen Annahmen ergibt dies, dass vor 3-4 Wochen die Schweiz täglich rund 8000 Neuinfektionen hatte.  Annahmen: 1. die Sterblichkeitsrate ist 0.25%, also einem Todesfall pro 400 Infizierte. 2. Die Todesfälle haben sich vor mindestens 20 Tagen infiziert. 3. Die Covid-Rate bei den Risikogruppen ist gleich hoch wie in der Gesamtbevölkerung (hoffentlich geringer, da die Risikogruppe vorsichtiger sind).
 
 
 """
