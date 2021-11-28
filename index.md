@@ -3,19 +3,30 @@
 Auf dieser Seite befinden sich Einschätzungen zur Corona-Situation in der Schweiz und oft auch für Regionen mit ähnlichen Gegebenheiten (z.B. Regionen in Deutschland). Die Seite ist eine Ergänzung zur Hauptseite <https://forestgrape.github.io/coronavirus>. Die Seite ist Open Source auf <https://github.com/forestgrape/corona-ch>.
 
 
-* [Updates](#updates)
+* [Einschätzung 28.11., 12.45 Uhr](#einschätzung-2811-1245-uhr)
+* [Kommentar 9.9.](#kommentar-99)
+* [Updates 1./2.9.](#updates-129)
 * [Lageeinschätzung und möglichen Massnahmen betreffend der angespannten Covid Lage in Regionen Europas](#lageeinschätzung-und-möglichen-massnahmen-betreffend-der-angespannten-covid-lage-in-regionen-europas)
 * [Corona in der Schweiz im Sommer 2021](#corona-in-der-schweiz-im-sommer-2021)
   * [Situation](#situation)
   * [Mögliche Gründe für den Anstieg der Fallzahlen](#mögliche-gründe-für-den-anstieg-der-fallzahlen)
   * [Einschätzung und Ausblick](#einschätzung-und-ausblick)
   * [Ideen für Anpassungen](#ideen-für-anpassungen)
+* [Einschätzung im Herbst 2020](#einschätzung-im-herbst-2020)
+  * [Dunkelziffer](#dunkelziffer)
 * [Appendix](#appendix)
   * [Übertragung von SARS-CoV-2 in trockener Luft](#übertragung-von-sars-cov-2-in-trockener-luft)
   * [Immunität gegen SARS-CoV-2](#immunität-gegen-sars-cov-2)
 
 ---
-## Updates
+## Einschätzung 28.11., 12.45 Uhr
+
+Die Covid zahlen steigen derzeit in der Schweiz. Ein paar (Empfehlungen für) Massnahmen wie Masken bei grösseren Veranstaltungen in Innenräumen, allenfalls Antigentests (für alle), eine gute Lüftung gewährleisten und alle (alle!) zur Vorsicht zu mahnen sind jedoch angebracht nach meiner Einschätzung. In diesem Zusammenhang ist eine rückwirkend veröffentlichte [Situationeinschätzung vom 29. Oktober 2020](#einschätzung-im-herbst-2020) relevant da die Massnahmen nach wie vor Superspreading zu wenig berücksichtigen und keine Stichproben gemacht/veröffentlicht werden (Stichproben bei Rekruten wurden mal in Aussicht gestellt jedoch meines Wissens nicht veröffentlicht. An den Schweizer Universitäten wären Stichproben ebenfalls angebracht im Sinne der "Wissenschaft"). 
+
+> Die Schweizer Bundesbehörden machen jedoch derzeit in erster Linie Wahlkampf und dies erst noch mit teils unfairen Verhalten z.B. wird eine sehr hohe Wirksamkeit der Impfungen publiziert anstatt dies zu untersuchen/zu publizieren und die Impfquote wird ohne nachvollziehbare Begründung mit hohen Fallzahlen in Verbindung gebracht. Auch wird Werbung für die Impfung gemacht z.B. mit dem Plakatkampangen oder mit Konzerten für Jungeliche anstatt ehrlich und neutral über die Klarheiten und Unklarheiten betreffend Wirksamkeit und Unwirksamkeit und mögliche (inkl. lebenslanger) Nebenwirkungen zu informieren.
+
+
+## Kommentar 9.9.
 9.9.: Die **epidemiologische** Entwicklung in der Schweiz verbessert sich: 
 * die Spitaleinweisungen sind seit dem 23.8. stark rückläufig.
 * Die Inzidenz von Covid ist abnehmend: seit Mitte August bleibt die Anzahl der positive getesteten ungefähr gleich hoch, während die Anzahl der Tests um rund 50% zugenommen hat. Entsprechend ist die Positivitätsrate rückläufig. 
@@ -23,6 +34,7 @@ Auf dieser Seite befinden sich Einschätzungen zur Corona-Situation in der Schwe
 
 > Einschätzung: Da insbesondere die Spitaleinweisungen stark zurückgehen und die Uebertragungsraten innerhalb der Schweiz selbst immer relativ niedrig waren, sind aus epidemiologischer Sicht keine flächendeckendenden Massnahmen notwendig. Nach wie vor ist es jedoch wichtig lokale Hotspots wie z.B. Superspreading in vollen Flugzeugen aus Südeuropa zu vermeiden.
 
+## Updates 1./2.9.
 2.9.: Ungenauigkeiten korrigiert (z.B. bei [Immunität gegen SARS-CoV-2](#immunität-gegen-sars-cov-2)). Bemerkung, dass die Lageeinschätzung nicht nur für die Schweiz sondern auch für Regionen mit ähnlichen Gegebenheiten gilt.
 1.9.: Verbesserungen, Korrekturen und Anpassungen zur [Lageeinschätzung in Regionen Europas](#lageeinschätzung-und-möglichen-massnahmen-betreffend-der-angespannten-covid-lage-in-regionen-europas).
 
@@ -124,6 +136,30 @@ Die Massnahmen zu optimieren ist jedoch sinnvoll. Eine Möglichkeit ist dies reg
 
 - Allenfalls Zusatzmassnahmen beim Nachleben und Großveranstaltungen um (Super-)Spreading zu reduzieren (CO2 Sensoren, *alle* testen, eine frühere Schliessung z.B. um 1 AM). Massnahmen die das Nachtleben reduzieren, halfen im Spätsommer 2020  in Spanien und Griechenland und diesen Sommer in Holland.
 
+
+
+## Einschätzung im Herbst 2020
+> ursprünglich am 31.10.20 als Email gesendet. Per 28.11.21 12.30 online gestellt. // Die Adressaten sind mit "Damen und Herren" anonymisiert
+
+"""
+Covid-19 Situation Schweiz: Schätzung 8000 Fälle vor 4 Wochen //Betreff
+
+Sehr gehrte Damen und Herren
+
+Ich habe den Eindruck, dass man die Covid-19 Situation in der Schweiz zu wenig genau kennt (u.a. sind mir keine repräsentativen Stichproben bekannt, welche die Covid-Häufigkeit bestimmen, idealerweise in allen Kantonen). Sie haben jedoch detailliertere Informationen als ich und können die Situation daher besser beurteilen. Allenfalls wäre es angebracht, Innenräume ein paar Tage zu meiden, bis man ein genaues Bild der Situation hat, da:
+1. die Dunkelziffer (Begründung ganz unten) wahrscheinlich um ein vielfaches höher ist als gedacht und die aktuellen Massnahmen (u.a. Contact Tracing) darauf basieren, dass die Dunkelziffer eher klein ist. Die meisten Massnahmen reduzieren die Infektionen nur und verhindern diese nicht, was nur funktioniert wenn ein Grossteil der Infizierten sich nicht in Menschenansammlungen aufhält. 
+2. Die Aerosolübertragung wahrscheinlich eine viel bedeutendere Rolle spielt als gedacht und die aktuellen Massnahmen (Distanz, Plexiglas, Stoffmasken) primär Tröpfcheninfektionen verhindern. 
+3. Ich den Eindruck habe, dass es an Eishockeymatches diverse Super-Spreader-Ereignisse (Begründung in Arbeit. Skizziert: starke Zunahme der Fallzahlen in den Gebieten mit Eishockeystadien und auffällig viele Eishockeyspieler sind infiziert.) gab und ev. auch teils an Fussballspielen (u.a. in Sion und Genf, da diverse Spieler infiziert sind). Sollten sich die Infektionen auf das private Umfeld zurückfahren lassen entfällt dieser Teil der Begründung.  
+
+Zu mir: Ich widme mich seit ende Januar soweit möglich Vollzeit Sars-Cov-2 und veröffentliche meine Erkenntnisse auf github: GitHub: https://github.com/forestgrape/coronavirus/blob/master/index.md. Die Seite ist experimentell, umgangssprachlich und oft nicht riguros. Ich habe ausgesprochen viel Zeit investiert, um Sars-Cov-2 zu verstehen versuchen, daher fand ich, dass ich Ihnen meine aktuelle Beurteilung mitteilen “darf”/“kann”. 
+
+Vielen Dank für die Aufmerksamkeit und viele Grüsse
+Wito Traub
+
+
+### Dunkelziffer
+1. Die Todesfälle waren letzte Woche durchschnittlich bei knapp 20 Fällen und diese Woche höher. Unter meiner Ansicht realistischen Annahmen ergibt dies, dass vor 3-4 Wochen die Schweiz täglich rund 8000 Neuinfektionen hatte.  Annahmen: 1. die Sterblichkeitsrate ist 0.25%, also einem Todesfall pro 400 Infizierte. 2. Die Todesfälle haben sich vor mindestens 20 Tagen infiziert. 3. Die Covid-Rate bei den Risikogruppen ist gleich hoch wie in der Gesamtbevölkerung (hoffentlich geringer, da die Risikogruppe vorsichtiger sind).
+"""
 
 ## Appendix
 
