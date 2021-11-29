@@ -25,7 +25,7 @@ Auf dieser Seite befinden sich Einschätzungen zur Corona-Situation in der Schwe
 > 29.11.2021
 > Mir in keine Abstimmung in der Schweiz bekannt, wo der Wahlkampf dermassen unfair abgelaufen ist:
 > * Die "Gegner" des Gesetzes wurden bereits rund 10 Wochen vor der Abstimmung willkürlich (Kommentar 9.9.) an der Teilhabe des öffentlichen Lebens schikaniert und teils ausgeschlossen (Tests sind nicht überall allzeit verfügbar). So konnten die "Gegner" nicht mit gleich langen Hebeln auf politische (Stammtisch)Diskussionen Einfluss nehmen.
-> * Die "Befürworter" hatten die Datenhoheit und veröffentliche nur jene Daten die ihnen gerade passten und teils erst noch geschönt (siehe Einschätzung unten). //Jeder Buchhalter müsste dafür (als Sündenbock) gehen.
+> * Die "Befürworter" hatten die Datenhoheit und veröffentliche nur jene Daten die ihnen gerade passten und teils erst noch geschönt (siehe Einschätzung unten). //Jeder Buchhalter erhielte dafür (als Sündenbock) einen Rüffel.
 > 
 > Die Abstimmung selbst ist jedoch nach meinen Eindruck korrekt verlaufen. Aufgrund des ungleichen Wahlkampfes, werden allenfalls Gerichte eine Wiederholung der Abstimmung unter fairen Voraussetzungen anordnen (Gerichte!). Bis dahin muss man sich wohl oder übel mit dem Ergebnis abfinden. // moralisch bin ich dagegen medizinisch sehe ich Vorteile
 
