@@ -25,10 +25,10 @@ Auf dieser Seite befinden sich Einschätzungen zur Corona-Situation in der Schwe
 
 ## Subjektiver Kommentar zur Abstimmung über das Covid Gesetz und Einsatz für eine wissenschaftlich Umsetzung
 29.11.2021
-> Mir in keine Abstimmung in der Schweiz bekannt, wo der Wahlkampf dermassen unausgeglichen war:
+> Mir in keine Abstimmung in der Schweiz bekannt, wo der Wahlkampf so unausgeglichen war:
 > * Die "Gegner" des Gesetzes wurden bereits rund 10 Wochen vor der Abstimmung willkürlich (Kommentar 9.9.) an der Teilhabe des öffentlichen Lebens schikaniert und teils ausgeschlossen (Tests sind nicht überall allzeit verfügbar). So konnten die "Gegner" nicht mit gleich langen Hebeln an politische (Stammtisch)Diskussionen teilnehmen.
-> * Die "Befürworter" hatten die Datenhoheit und veröffentlichen jene Daten die ihnen gerade passten und teils erst noch geschönt (Einschätzung 28.11.). //Jeder Buchhalter erhielte dafür einen Rüffel.
-> 
+> * Die "Befürworter" hatten die Datenhoheit und veröffentlichen jene Daten die ihnen gerade passten und teils erst noch geschönt (Einschätzung 28.11.). // Jeder Buchhalter erhielte dafür einen Rüffel.
+>
 > Die Abstimmung selbst ist jedoch nach meinen Eindruck korrekt verlaufen. Aufgrund des ungleichen Wahlkampfes, werden allenfalls Gerichte eine Wiederholung der Abstimmung unter fairen Voraussetzungen anordnen (Gerichte!). Bis dahin muss man sich wohl oder übel mit dem Ergebnis anfreunden. // auch wenn ich moralisch dagegen war, so sehe ich aus medizinischer Sicht Vorteile.
 
 Wichtig ist, dass man das Zertifikat dem aktuellen Wissensstand anpasst. Die aktuelle Anwendung hält einer wissenschaftlichen Prüfung nicht stand und somit werden Leute aufgrund ihrer Einstellung ungleich behandelt. 
@@ -37,15 +37,16 @@ Wichtig ist, dass man das Zertifikat dem aktuellen Wissensstand anpasst. Die akt
 
 
 ## Einschätzung mittags 28.11.
-28.11., 12.45 Uhr
+28.11., 12.45 Uhr (29.11. einige Formulierungen angepasst)
 Die Covid zahlen steigen derzeit in der Schweiz. Ein paar (Empfehlungen für) Massnahmen wie Masken bei grösseren Veranstaltungen in Innenräumen, allenfalls Antigentests (für alle), eine gute Lüftung gewährleisten und alle (alle!) zur Vorsicht zu mahnen sind jedoch angebracht nach meiner Einschätzung. In diesem Zusammenhang ist eine rückwirkend veröffentlichte [Situationeinschätzung vom 29. Oktober 2020](#einschätzung-im-herbst-2020) relevant da die Massnahmen nach wie vor Superspreading zu wenig berücksichtigen und keine Stichproben gemacht bzw. veröffentlicht werden (Stichproben bei Rekruten wurden mal in Aussicht gestellt jedoch meines Wissens nicht veröffentlicht. An den Schweizer Universitäten wären Stichproben ebenfalls angebracht im Sinne der "Wissenschaft"). 
 
-> Die Schweizer Bundesbehörden mach(t)en jedoch in erster Linie Wahlkampf und dies erst noch mit teils unfairen Verhalten z.B. wird eine sehr hohe Wirksamkeit der Impfungen publiziert anstatt dies zu untersuchen/zu publizieren und die eigentlich sehr hohe Impfquote wird als tief dargestellt und ohne stichhaltige Begründung mit hohen Fallzahlen in Verbindung gebracht (z.B. in Portugal kommt/kam der Winter einfach später). Auch wird Werbung für die Impfung gemacht z.B. mit dem Plakatkampangen oder mit Konzerten für Jungeliche anstatt ehrlich und neutral über die Bekannten und Unbekannten betreffend die (Un)Wirksamkeit und mögliche (inklusive lebenslange) unerwünschte Wirkungen zu informieren.
+> Teils rückte das Fachliche in den Hintergrund beim den nicht ganz lupenreinen Diskussionen um Impfquoten und Zertifikate z.B. wird eine sehr hohe Wirksamkeit der Impfungen publiziert und die eigentlich sehr hohe Impfquote wird als tief dargestellt und ohne stichhaltige Begründung mit hohen Fallzahlen in Verbindung gebracht (z.B. in Portugal kommt/kam der Winter einfach später). Auch wird Werbung für die Impfung gemacht z.B. mit dem Plakatkampangen oder mit Konzerten. Eine ehrliche und neutrale Diskussion über die Bekannten und Unbekannten betreffend die (Un)Wirksamkeit und mögliche (inklusive lebenslange) unerwünschte Wirkungen fehlt jedoch weitgehend.
 
 
 ## Kommentar 9.9.
 9.9.: Die epidemiologische Entwicklung in der Schweiz verbessert sich: 
-* Die Spitaleinweisungen sind seit dem 23.8. stark rückläufig.
+* Die Spitaleinweisungen sind seit dem 23.8. stark rückläufig. 
+    > Anmerkung 29.11.21: Dass die Spitaleinweisungen ab dem 23.8.21 abgenommen haben und danach auch die Auslastung der Intensivstation zurück ging ist auf eine gute Arbeit und Koordination zwischen den Bundesbehörden (BAG, Rega, ...) und den Kantonalen Behörden (Spitäler, Gesundheitsämter, ... ) zurückzuführen.
 * Die Inzidenz von Covid ist abnehmend: Seit Mitte August bleibt die Anzahl der positiven Tests ungefähr gleich hoch, während die Anzahl der Tests um rund 50% zugenommen hat. Entsprechend ist die Positivitätsrate und die Inzidenz rückläufig.
 
 * Die Lage auf den Intensivstationen in den Spitälern bleibt erwartungsgemäss sehr angespannt, was auf die hohe Anzahl Spitaleinweisung vor rund 2 Wochen und die Rückführung von Patienten aus Südeuropa zurückzuführen ist.
