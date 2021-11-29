@@ -3,6 +3,7 @@
 Auf dieser Seite befinden sich Einschätzungen zur Corona-Situation in der Schweiz und oft auch für Regionen mit ähnlichen Gegebenheiten (z.B. Regionen in Deutschland). Die Seite ist eine Ergänzung zur Hauptseite <https://forestgrape.github.io/coronavirus>. Die Seite ist Open Source auf <https://github.com/forestgrape/corona-ch>.
 
 
+* [29.11. Subjektiver Kommentar zur Abstimmung über das Covid Gesetz und Einsatz für eine wissenschaftlich Umsetzung](#2911-subjektiver-kommentar-zur-abstimmung-über-das-covid-gesetz-und-einsatz-für-eine-wissenschaftlich-umsetzung)
 * [Einschätzung 28.11., 12.45 Uhr](#einschätzung-2811-1245-uhr)
 * [Kommentar 9.9.](#kommentar-99)
 * [Updates 1./2.9.](#updates-129)
@@ -19,6 +20,17 @@ Auf dieser Seite befinden sich Einschätzungen zur Corona-Situation in der Schwe
   * [Immunität gegen SARS-CoV-2](#immunität-gegen-sars-cov-2)
 
 ---
+
+## 29.11. Subjektiver Kommentar zur Abstimmung über das Covid Gesetz und Einsatz für eine wissenschaftlich Umsetzung
+> Mir in keine Abstimmung in der Schweiz bekannt, wo der Wahlkampf dermassen unfair abgelaufen ist:
+> * Die "Gegner" des Gesetzes wurden bereits rund 10 Wochen vor der Abstimmung willkürlich an der Teilhabe des öffentlichen Lebens schikaniert und teils ausgeschlossen (Tests sind nicht überall allzeit verfügbar). So konnten die "Gegner" nicht mit gleich langen Hebeln auf politische (Stammtisch)Diskussionen Einfluss nehmen.
+> * Die "Befürworter" hatten die Datenhoheit und veröffentliche nur jene Daten die ihnen gerade passten und teils erst noch geschönt (siehe Einschätzung unten). //Jeder Buchhalter müsste dafür (als Sündenbock) gehen.
+> 
+> Die Abstimmung selbst ist jedoch nach meinen Eindruck korrekt verlaufen. Aufgrund des ungleichen Wahlkampfes, werden allenfalls Gerichte eine Wiederholung der Abstimmung unter fairen Voraussetzungen anordnen (Gerichte!). Bis dahin muss man sich wohl oder übel mit dem Ergebnis abfinden. // moralisch bin ich dagegen medizinisch sehe ich Vorteile
+
+Ich werde mich dafür einsetzen, dass man das Zertifikat immerhin auf einer wissenschaftlich-medizinischer Basis umgesetzt wird. // Die Daten deuten darauf hin, dass ein Alter über 30 Jahren viel entscheidender ist, als der Impfstatus sowohl betreffend Uebertragung wie auch betreffend Spitaleinweisung. Ob dies im Sinne der älteren Semester ist, die das Gesetz mit grosser Mehrheit annahmen? Naja die meisten wollten es so und aus medizinischer Sicht ist es vorteilhaft, wenn sich die älteren Semester regelmässig testen, denn so kann man frühzeitig eine passende Behandlung einleiten!
+
+
 ## Einschätzung 28.11., 12.45 Uhr
 
 Die Covid zahlen steigen derzeit in der Schweiz. Ein paar (Empfehlungen für) Massnahmen wie Masken bei grösseren Veranstaltungen in Innenräumen, allenfalls Antigentests (für alle), eine gute Lüftung gewährleisten und alle (alle!) zur Vorsicht zu mahnen sind jedoch angebracht nach meiner Einschätzung. In diesem Zusammenhang ist eine rückwirkend veröffentlichte [Situationeinschätzung vom 29. Oktober 2020](#einschätzung-im-herbst-2020) relevant da die Massnahmen nach wie vor Superspreading zu wenig berücksichtigen und keine Stichproben gemacht bzw. veröffentlicht werden (Stichproben bei Rekruten wurden mal in Aussicht gestellt jedoch meines Wissens nicht veröffentlicht. An den Schweizer Universitäten wären Stichproben ebenfalls angebracht im Sinne der "Wissenschaft"). 
