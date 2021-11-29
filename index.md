@@ -27,7 +27,7 @@ Auf dieser Seite befinden sich Einschätzungen zur Corona-Situation in der Schwe
 29.11.2021
 > Mir in keine Abstimmung in der Schweiz bekannt, wo der Wahlkampf so unausgeglichen war:
 > * Die "Gegner" des Gesetzes wurden bereits rund 10 Wochen vor der Abstimmung mehr oder weniger willkürlich (Kommentar 9.9.) an der Teilhabe des öffentlichen Lebens eingeschränkt und teils ausgeschlossen (Tests sind nicht überall allzeit verfügbar). So konnten die "Gegner" nicht mit gleich langen Hebeln an politische (Stammtisch)Diskussionen teilnehmen.
-> * Die "Befürworter" hatten die Datenhoheit und veröffentlichen jene Daten gerade passten und teils erst noch geschönt (Einschätzung 28.11.). // Ob die Buchhalter dies künftig auch so handhaben können?
+> * Die "Befürworter" hatten die Datenhoheit und veröffentlichen jene Daten gerade passten und teils erst noch geschönt (Einschätzung 28.11.). // Ob Buchhalter dies künftig auch so handhaben können?
 >
 > Die Abstimmung selbst ist jedoch nach meinen Eindruck korrekt verlaufen. Aufgrund des ungleichen Wahlkampfes, werden allenfalls Gerichte eine Wiederholung der Abstimmung unter fairen Voraussetzungen anordnen (Gerichte!). Bis dahin muss man sich wohl oder übel mit dem Ergebnis anfreunden. // auch wenn ich moralisch dagegen war, so gibt es aus medizinischer Sicht Vorteile.
 
