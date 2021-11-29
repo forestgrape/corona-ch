@@ -26,10 +26,10 @@ Auf dieser Seite befinden sich Einschätzungen zur Corona-Situation in der Schwe
 ## Subjektiver Kommentar zur Abstimmung über das Covid Gesetz und Einsatz für eine wissenschaftlich Umsetzung
 29.11.2021
 > Mir in keine Abstimmung in der Schweiz bekannt, wo der Wahlkampf so unausgeglichen war:
-> * Die "Gegner" des Gesetzes wurden bereits rund 10 Wochen vor der Abstimmung mehr oder weniger willkürlich (Kommentar 9.9.) an der Teilhabe des öffentlichen Lebens eingeschränkt und teils ausgeschlossen (Tests sind nicht überall allzeit verfügbar). So konnten die "Gegner" nicht mit gleich langen Hebeln an politische (Stammtisch)Diskussionen teilnehmen.
-> * Die "Befürworter" hatten die Datenhoheit und veröffentlichen jene Daten gerade passten und teils erst noch geschönt (Einschätzung 28.11.). // Ob Buchhalter dies künftig auch so handhaben können?
+> * Die "Gegner" des Gesetzes wurden bereits rund 10 Wochen vor der Abstimmung mehr oder weniger willkürlich (Kommentar 9.9.) an der Teilhabe des öffentlichen Lebens eingeschränkt. So konnten die "Gegner" nicht mit gleich langen Hebeln an politische (Stammtisch)Diskussionen ihre Argumente einbringen.
+> * Die "Befürworter" hatten die Datenhoheit und veröffentlichen jene Daten die gerade passten und teils erst noch geschönt (Einschätzung 28.11.). // Ob Buchhalter dies künftig auch so handhaben können?
 >
-> Die Abstimmung selbst ist jedoch nach meinen Eindruck korrekt verlaufen. Aufgrund des ungleichen Wahlkampfes, werden allenfalls Gerichte eine Wiederholung der Abstimmung unter fairen Voraussetzungen anordnen (Gerichte!). Bis dahin muss man sich wohl oder übel mit dem Ergebnis anfreunden. // auch wenn ich moralisch dagegen war, so gibt es aus medizinischer Sicht Vorteile.
+> Die Abstimmung selbst ist jedoch nach meinen Eindruck korrekt verlaufen. Aufgrund des ungleichen Wahlkampfes, könnten allenfalls Gerichte (!) eine Wiederholung der Abstimmung unter fairen Voraussetzungen anordnen. Bis dahin muss man sich wohl oder übel mit dem Ergebnis anfreunden. // auch wenn moralisch dagegen, so sehe ich aus medizinischer Sicht Vorteile.
 
 Wichtig ist, dass man das Zertifikat dem aktuellen Wissensstand anpasst. Die aktuelle Anwendung hält einer wissenschaftlichen Prüfung nicht stand und somit werden Leute aufgrund ihrer Einstellung ungleich behandelt. Eine Umsetzung so dass alle mitmachen ist ebenfalls wichtig.
 
@@ -37,10 +37,10 @@ Wichtig ist, dass man das Zertifikat dem aktuellen Wissensstand anpasst. Die akt
 
 
 ## Einschätzung mittags 28.11.
-28.11., 12.45 Uhr (29.11. einige Formulierungen angepasst, da teils übers Ziels hinausgeschossen; geschrieben als ich mich über das sich abzeichnende deutliche Ja zum Covidgesetz aufregte.)
+28.11., 12.45 Uhr (29.11. einige Formulierungen angepasst, da teils übers Ziels hinausgeschossen; geschrieben als ich mich über das sich abzeichnende deutliche Ja zum Covidgesetz und über Umfragen für 2G und Impflichten für Berufe aufregte.
 Die Covid zahlen steigen derzeit in der Schweiz. Ein paar (Empfehlungen für) Massnahmen wie Masken bei grösseren Veranstaltungen in Innenräumen, allenfalls Antigentests (für alle), eine gute Lüftung gewährleisten und alle (alle!) zur Vorsicht zu mahnen sind jedoch angebracht nach meiner Einschätzung. In diesem Zusammenhang ist eine rückwirkend veröffentlichte [Situationeinschätzung vom 29. Oktober 2020](#einschätzung-im-herbst-2020) relevant da die Massnahmen nach wie vor Superspreading zu wenig berücksichtigen und keine Stichproben gemacht bzw. veröffentlicht werden (Stichproben bei Rekruten wurden mal in Aussicht gestellt jedoch meines Wissens nicht veröffentlicht. An den Schweizer Universitäten wären Stichproben ebenfalls angebracht im Sinne der "Wissenschaft"). 
 
-> Teils rückte das Fachliche in den Hintergrund beim den nicht ganz lupenreinen Diskussionen um Impfquoten und Zertifikate z.B. wird eine sehr hohe Wirksamkeit der Impfungen publiziert und die eigentlich sehr hohe Impfquote wird als tief dargestellt und ohne stichhaltige Begründung mit hohen Fallzahlen in Verbindung gebracht (z.B. in Portugal kommt/kam der Winter einfach später). Auch wird Werbung für die Impfung gemacht z.B. mit dem Plakatkampangen oder mit Konzerten. Eine ehrliche und neutrale Diskussion über die Bekannten und Unbekannten betreffend die (Un)Wirksamkeit und mögliche (inklusive lebenslange) unerwünschte Wirkungen fehlt jedoch weitgehend.
+> Teils rückte das Fachliche in den Hintergrund bei hitzigen Diskussionen um Impfquoten und Zertifikate z.B. wird eine auffallend hohe Wirksamkeit der Impfungen publiziert und die eigentlich sehr hohe Impfquote wird als tief dargestellt und ohne stichhaltige Begründung mit hohen Fallzahlen in Verbindung gebracht (z.B. in Portugal oder Spanien kommt/kam der Winter einfach später). Die "Impf-Werbung" steht oft im Fokus und neutrale Diskussionen über die Bekannten und Unbekannten betreffend die (Un)Wirksamkeit und mögliche (inklusive lebenslange) unerwünschte Wirkungen kommen zu kurz.
 
 
 ## Kommentar 9.9.
