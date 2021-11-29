@@ -23,7 +23,7 @@ Auf dieser Seite befinden sich Einschätzungen zur Corona-Situation in der Schwe
 
 ## Subjektiver Kommentar zur Abstimmung über das Covid Gesetz und Einsatz für eine wissenschaftlich Umsetzung
 > 29.11.2021
-> Mir in keine Abstimmung in der Schweiz bekannt, wo der Wahlkampf dermassen unfair abgelaufen ist:
+> Mir in keine Abstimmung in der Schweiz bekannt, wo der Wahlkampf dermassen unausgeglichen war:
 > * Die "Gegner" des Gesetzes wurden bereits rund 10 Wochen vor der Abstimmung willkürlich (Kommentar 9.9.) an der Teilhabe des öffentlichen Lebens schikaniert und teils ausgeschlossen (Tests sind nicht überall allzeit verfügbar). So konnten die "Gegner" nicht mit gleich langen Hebeln auf politische (Stammtisch)Diskussionen Einfluss nehmen.
 > * Die "Befürworter" hatten die Datenhoheit und veröffentliche nur jene Daten die ihnen gerade passten und teils erst noch geschönt (siehe Einschätzung unten). //Jeder Buchhalter erhielte dafür (als Sündenbock) einen Rüffel.
 > 
