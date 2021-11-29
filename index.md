@@ -4,7 +4,7 @@ Auf dieser Seite befinden sich Einschätzungen zur Corona-Situation in der Schwe
 
 
 * [Subjektiver Kommentar zur Abstimmung über das Covid Gesetz und Einsatz für eine wissenschaftlich Umsetzung](#subjektiver-kommentar-zur-abstimmung-über-das-covid-gesetz-und-einsatz-für-eine-wissenschaftlich-umsetzung)
-* [Einschätzung 28.11., 12.45 Uhr](#einschätzung-2811-1245-uhr)
+* [Einschätzung mittags 28.11.](#einschätzung-mittags-2811)
 * [Kommentar 9.9.](#kommentar-99)
 * [Updates 1./2.9.](#updates-129)
 * [Lageeinschätzung und möglichen Massnahmen betreffend der angespannten Covid Lage in Regionen Europas](#lageeinschätzung-und-möglichen-massnahmen-betreffend-der-angespannten-covid-lage-in-regionen-europas)
@@ -32,8 +32,8 @@ Auf dieser Seite befinden sich Einschätzungen zur Corona-Situation in der Schwe
 Ich werde mich dafür einsetzen, dass man das Zertifikat immerhin auf einer wissenschaftlich-medizinischer Basis umgesetzt wird. // Die Daten deuten darauf hin, dass ein Alter über 30 Jahren viel entscheidender ist, als der Immunstatus (insbesondere wie eine Impfung vor ein paar Monaten) sowohl betreffend Uebertragung wie auch betreffend Spitaleinweisung. Ob dies im Sinne der älteren Semester ist, die das Gesetz mit grosser Mehrheit annahmen? Naja die meisten wollten es so und aus medizinischer Sicht ist es vorteilhaft, wenn sich die älteren Semester regelmässig testen, denn so kann man frühzeitig eine passende Behandlung einleiten!
 
 
-## Einschätzung 28.11., 12.45 Uhr
-
+## Einschätzung mittags 28.11.
+28.11., 12.45 Uhr
 Die Covid zahlen steigen derzeit in der Schweiz. Ein paar (Empfehlungen für) Massnahmen wie Masken bei grösseren Veranstaltungen in Innenräumen, allenfalls Antigentests (für alle), eine gute Lüftung gewährleisten und alle (alle!) zur Vorsicht zu mahnen sind jedoch angebracht nach meiner Einschätzung. In diesem Zusammenhang ist eine rückwirkend veröffentlichte [Situationeinschätzung vom 29. Oktober 2020](#einschätzung-im-herbst-2020) relevant da die Massnahmen nach wie vor Superspreading zu wenig berücksichtigen und keine Stichproben gemacht bzw. veröffentlicht werden (Stichproben bei Rekruten wurden mal in Aussicht gestellt jedoch meines Wissens nicht veröffentlicht. An den Schweizer Universitäten wären Stichproben ebenfalls angebracht im Sinne der "Wissenschaft"). 
 
 > Die Schweizer Bundesbehörden mach(t)en jedoch in erster Linie Wahlkampf und dies erst noch mit teils unfairen Verhalten z.B. wird eine sehr hohe Wirksamkeit der Impfungen publiziert anstatt dies zu untersuchen/zu publizieren und die eigenltich sehr hohe Impfquote wird als tief dargestellt und ohne stichhaltige Begründung mit hohen Fallzahlen in Verbindung gebracht (z.B. in Portugal kommt/kam der Winter einfach später). Auch wird Werbung für die Impfung gemacht z.B. mit dem Plakatkampangen oder mit Konzerten für Jungeliche anstatt ehrlich und neutral über die Bekannten und Unbekannten betreffend die (Un)Wirksamkeit und mögliche (inkl. lebenslange) unerwünschte Wirkungen zu informieren.
