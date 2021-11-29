@@ -33,7 +33,7 @@ Auf dieser Seite befinden sich Einschätzungen zur Corona-Situation in der Schwe
 
 Wichtig ist, dass man das Zertifikat dem aktuellen Wissensstand anpasst. Die aktuelle Anwendung hält einer wissenschaftlichen Prüfung nicht stand und somit werden Leute aufgrund ihrer Einstellung ungleich behandelt. Eine Umsetzung so dass alle mitmachen ist ebenfalls wichtig.
 
-> Die Daten deuten darauf hin, dass ein Alter über 30 Jahren viel entscheidender ist, als der Immunstatus (insbesondere wie eine Impfung vor ein paar Monaten) sowohl betreffend Uebertragung wie auch betreffend Spitaleinweisung. Ob dies im Sinne der älteren Semester ist, die das Gesetz mit grosser Mehrheit annahmen? Naja die meisten wollten es so und aus medizinischer Sicht ist es vorteilhaft, wenn sich die älteren Semester sich regelmässig testen (z.B. mit Spucktests für zu Hause), denn so kann man frühzeitig eine passende Behandlung einleiten. Erleichterungen für die unter 25 Jährigen sollten möglich sein. 
+> Die Daten deuten darauf hin, dass ein Alter von einiges über 30 Jahren viel entscheidender ist, als der Immunstatus (insbesondere wie eine Impfung vor ein paar Monaten) sowohl betreffend Uebertragung wie auch betreffend Spitaleinweisung. Regelmässiges testen (z.B. mit Spucktests für zu Hause) wären eine Option, denn so könnte man Covid Erkrankungen frühzeitig erkennen und die Behandlung einleiten. Die Akzeptanz könnte vorhanden sein denn solche Tests wären ja zum Vorteil der eigenen Gesundheit und der Ja-Anteil korreliert mit dem Alter. Erleichterungen für die unter 25 Jährigen sollten möglich sein. 
 
 
 ## Einschätzung mittags 28.11.
