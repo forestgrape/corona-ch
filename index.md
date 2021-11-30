@@ -15,7 +15,6 @@ Auf dieser Seite befinden sich Einschätzungen zur Corona-Situation in der Schwe
   * [Mögliche Gründe für den Anstieg der Fallzahlen](#mögliche-gründe-für-den-anstieg-der-fallzahlen)
   * [Einschätzung und Ausblick](#einschätzung-und-ausblick)
   * [Ideen für Anpassungen](#ideen-für-anpassungen)
-* [Einschätzung im Herbst 2020](#einschätzung-im-herbst-2020)
   * [Dunkelziffer](#dunkelziffer)
 * [Appendix](#appendix)
   * [Übertragung von SARS-CoV-2 in trockener Luft](#übertragung-von-sars-cov-2-in-trockener-luft)
@@ -37,8 +36,14 @@ Wichtig ist, dass man das Zertifikat dem aktuellen Wissensstand anpasst. Die akt
 
 
 ## Einschätzung mittags 28.11.
-28.11., 12.45 Uhr (29.11. einige Formulierungen angepasst, da teils übers Ziels hinausgeschossen; geschrieben als ich mich über das sich abzeichnende deutliche Ja zum Covidgesetz und über Umfragen für 2G und Impflichten für Berufe aufregte.
-Die Covid zahlen steigen derzeit in der Schweiz. Ein paar (Empfehlungen für) Massnahmen wie Masken bei grösseren Veranstaltungen in Innenräumen, allenfalls Antigentests (für alle), eine gute Lüftung gewährleisten und alle (alle!) zur Vorsicht zu mahnen sind jedoch angebracht nach meiner Einschätzung. In diesem Zusammenhang ist eine rückwirkend veröffentlichte [Situationeinschätzung vom 29. Oktober 2020](#einschätzung-im-herbst-2020) relevant da die Massnahmen nach wie vor Superspreading zu wenig berücksichtigen und keine Stichproben gemacht bzw. veröffentlicht werden (Stichproben bei Rekruten wurden mal in Aussicht gestellt jedoch meines Wissens nicht veröffentlicht. An den Schweizer Universitäten wären Stichproben ebenfalls angebracht im Sinne der "Wissenschaft"). 
+28.11., 12.45 Uhr (29.11. einige Formulierungen angepasst, da teils übers Ziels hinausgeschossen; geschrieben als ich mich über das sich abzeichnende deutliche Ja zum Covidgesetz und über Umfragen für 2G und Impflichten für Berufe aufregte. 30.11. Einschätzung vom 31.10. zu zitieren geändert)
+Die Covid zahlen steigen derzeit in der Schweiz. Ein paar (Empfehlungen für) Massnahmen wie Masken bei grösseren Veranstaltungen in Innenräumen, allenfalls Antigentests (für alle), eine gute Lüftung gewährleisten und alle (alle!) zur Vorsicht zu mahnen sind jedoch angebracht nach meiner Einschätzung. In diesem Zusammenhang ist sind Zitate aus einer Situationeinschätzung vom 31. Oktober 2020 relevant:
+
+* "..., dass man die Covid-19 Situation in der Schweiz zu wenig genau kennt (u.a. sind mir keine repräsentativen Stichproben bekannt, welche die Covid-Häufigkeit bestimmen, idealerweise in allen Kantonen)."
+* "Die Aerosolübertragung wahrscheinlich eine viel bedeutendere Rolle spielt als gedacht und die aktuellen Massnahmen (Distanz, Plexiglas, Stoffmasken) primär Tröpfcheninfektionen verhindern."
+* "..., dass es an Eishockeymatches diverse Super-Spreader-Ereignisse ... Skizziert: starke Zunahme der Fallzahlen in den Gebieten mit Eishockeystadien und auffällig viele Eishockeyspieler sind infiziert.) gab und ev. auch teils an Fussballspielen (u.a. in Sion und Genf, da diverse Spieler infiziert sind). ..." 
+
+da die Massnahmen nach wie vor Superspreading zu wenig berücksichtigen und keine Stichproben gemacht bzw. veröffentlicht werden (Stichproben bei Rekruten wurden mal in Aussicht gestellt jedoch meines Wissens nicht veröffentlicht. An den Schweizer Universitäten wären Stichproben ebenfalls angebracht im Sinne der "Wissenschaft"). 
 
 > Teils rückte das Fachliche in den Hintergrund bei hitzigen Diskussionen um Impfquoten und Zertifikate z.B. wird eine auffallend hohe Wirksamkeit der Impfungen publiziert und die eigentlich sehr hohe Impfquote wird als tief dargestellt und ohne stichhaltige Begründung mit hohen Fallzahlen in Verbindung gebracht (z.B. in Portugal oder Spanien kommt/kam der Winter einfach später). Die "Impf-Werbung" steht oft im Fokus und neutrale Diskussionen über die Bekannten und Unbekannten betreffend die (Un)Wirksamkeit und mögliche (inklusive lebenslange) unerwünschte Wirkungen kommen zu kurz.
 
@@ -157,33 +162,10 @@ Die Massnahmen zu optimieren ist jedoch sinnvoll. Eine Möglichkeit ist dies reg
 
 
 
-## Einschätzung im Herbst 2020
-> ursprünglich per 31.10.20 als Email gesendet. Per 28.11.21 12.30 online gestellt. 
-> 
-> Die Adressaten sind mit "Damen und Herren" anonymisiert
-
-"""
-
-Covid-19 Situation Schweiz: Schätzung 8000 Fälle vor 4 Wochen (Betreff)
-
-Sehr gehrte Damen und Herren
-
-Ich habe den Eindruck, dass man die Covid-19 Situation in der Schweiz zu wenig genau kennt (u.a. sind mir keine repräsentativen Stichproben bekannt, welche die Covid-Häufigkeit bestimmen, idealerweise in allen Kantonen). Sie haben jedoch detailliertere Informationen als ich und können die Situation daher besser beurteilen. Allenfalls wäre es angebracht, Innenräume ein paar Tage zu meiden, bis man ein genaues Bild der Situation hat, da:
-1. die Dunkelziffer (Begründung ganz unten) wahrscheinlich um ein vielfaches höher ist als gedacht und die aktuellen Massnahmen (u.a. Contact Tracing) darauf basieren, dass die Dunkelziffer eher klein ist. Die meisten Massnahmen reduzieren die Infektionen nur und verhindern diese nicht, was nur funktioniert wenn ein Grossteil der Infizierten sich nicht in Menschenansammlungen aufhält. 
-2. Die Aerosolübertragung wahrscheinlich eine viel bedeutendere Rolle spielt als gedacht und die aktuellen Massnahmen (Distanz, Plexiglas, Stoffmasken) primär Tröpfcheninfektionen verhindern. 
-3. Ich den Eindruck habe, dass es an Eishockeymatches diverse Super-Spreader-Ereignisse (Begründung in Arbeit. Skizziert: starke Zunahme der Fallzahlen in den Gebieten mit Eishockeystadien und auffällig viele Eishockeyspieler sind infiziert.) gab und ev. auch teils an Fussballspielen (u.a. in Sion und Genf, da diverse Spieler infiziert sind). Sollten sich die Infektionen auf das private Umfeld zurückfahren lassen entfällt dieser Teil der Begründung.  
-
-Zu mir: Ich widme mich seit ende Januar soweit möglich Vollzeit Sars-Cov-2 und veröffentliche meine Erkenntnisse auf github: GitHub: https://github.com/forestgrape/coronavirus/blob/master/index.md. Die Seite ist experimentell, umgangssprachlich und oft nicht riguros. Ich habe ausgesprochen viel Zeit investiert, um Sars-Cov-2 zu verstehen versuchen, daher fand ich, dass ich Ihnen meine aktuelle Beurteilung mitteilen “darf”/“kann”. 
-
-Vielen Dank für die Aufmerksamkeit und viele Grüsse
-Wito Traub
-
-
 ### Dunkelziffer
 Die Todesfälle waren letzte Woche durchschnittlich bei knapp 20 Fällen und diese Woche höher. Unter meiner Ansicht realistischen Annahmen ergibt dies, dass vor 3-4 Wochen die Schweiz täglich rund 8000 Neuinfektionen hatte.  Annahmen: 1. die Sterblichkeitsrate ist 0.25%, also einem Todesfall pro 400 Infizierte. 2. Die Todesfälle haben sich vor mindestens 20 Tagen infiziert. 3. Die Covid-Rate bei den Risikogruppen ist gleich hoch wie in der Gesamtbevölkerung (hoffentlich geringer, da die Risikogruppe vorsichtiger sind).
 
 
-"""
 
 ## Appendix
 
