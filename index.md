@@ -24,7 +24,7 @@ Auf dieser Seite befinden sich Einschätzungen zur Corona-Situation in der Schwe
 ---
 
 ## Subjektiver Kommentar zur Abstimmung über das Covid Gesetz und Einsatz für eine wissenschaftlich Umsetzung
-29.11.2021 (30.11. 2 Korrekturen kursiv markiert im Text)
+29.11.2021 (30.11. 2 Korrekturen kursiv markiert im Text: 1) Viele Geimpfte und Genese waren ebenfalls gegen die (aktuelle Umsetzung der) Zertifikatspflicht. 2) Das Zertifikat kann medizinisch hilfreich sein, wenn korrekt umgesetzt.)
 > Mir in keine Abstimmung in der Schweiz bekannt, wo der Wahlkampf so unausgeglichen war:
 > * ~~Die "Gegner"~~ *Viele jener die Nachteile aufgrund der aktuellen und möglichen künftigen Umsetzung des Gesetzes haben*, wurden bereits rund 10 Wochen vor der Abstimmung mehr oder weniger willkürlich an der Teilhabe des öffentlichen Lebens eingeschränkt. So konnten die "Gegner" nicht mit gleich langen Hebeln an politische (Stammtisch)Diskussionen ihre Argumente einbringen.
 > * Die "Befürworter" hatten die Datenhoheit und veröffentlichen jene Daten die gerade passten und teils erst noch geschönt. // Ob Buchhalter dies künftig auch so handhaben können?
