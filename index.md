@@ -36,7 +36,7 @@ Wichtig ist, dass man das Zertifikat dem aktuellen Wissensstand anpasst. Die akt
 
 
 ## Einschätzung mittags 28.11.
-28.11., 12.45 Uhr (29.11. einige Formulierungen angepasst, da teils übers Ziels hinausgeschossen; geschrieben als ich mich über das sich abzeichnende deutliche Ja zum Covidgesetz und über Umfragen für 2G und Impflichten für Berufe aufregte. 30.11. Einschätzung vom 31.10. zu zitieren geändert)
+28.11., 12.45 Uhr (29.11. einige Formulierungen angepasst, da teils übers Ziels hinausgeschossen; die 1. Version hatte ich geschrieben als ich mich über das sich abzeichnende deutliche Ja zum Covidgesetz und über Umfragen für 2G und Impflichten für Berufe aufregte. 30.11. Einschätzung vom 31.10. zu zitieren geändert)
 Die Covid zahlen steigen derzeit in der Schweiz. Ein paar (Empfehlungen für) Massnahmen wie Masken bei grösseren Veranstaltungen in Innenräumen, allenfalls Antigentests (für alle), eine gute Lüftung gewährleisten und alle (alle!) zur Vorsicht zu mahnen sind jedoch angebracht nach meiner Einschätzung. In diesem Zusammenhang ist sind Zitate aus einer Situationeinschätzung vom 31. Oktober 2020 relevant:
 
 * "..., dass man die Covid-19 Situation in der Schweiz zu wenig genau kennt (u.a. sind mir keine repräsentativen Stichproben bekannt, welche die Covid-Häufigkeit bestimmen, idealerweise in allen Kantonen)."
