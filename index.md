@@ -24,12 +24,12 @@ Auf dieser Seite befinden sich Einschätzungen zur Corona-Situation in der Schwe
 ---
 
 ## Subjektiver Kommentar zur Abstimmung über das Covid Gesetz und Einsatz für eine wissenschaftlich Umsetzung
-29.11.2021
+29.11.2021 (30.11. 2 Korrekturen kursiv markiert im Text)
 > Mir in keine Abstimmung in der Schweiz bekannt, wo der Wahlkampf so unausgeglichen war:
-> * Die "Gegner" des Gesetzes wurden bereits rund 10 Wochen vor der Abstimmung mehr oder weniger willkürlich (Kommentar 9.9.) an der Teilhabe des öffentlichen Lebens eingeschränkt. So konnten die "Gegner" nicht mit gleich langen Hebeln an politische (Stammtisch)Diskussionen ihre Argumente einbringen.
-> * Die "Befürworter" hatten die Datenhoheit und veröffentlichen jene Daten die gerade passten und teils erst noch geschönt (Einschätzung 28.11.). // Ob Buchhalter dies künftig auch so handhaben können?
+> * ~~Die "Gegner"~~ *Viele jener die Nachteile aufgrund der aktuellen und möglichen künftigen Umsetzung des Gesetzes haben*, wurden bereits rund 10 Wochen vor der Abstimmung mehr oder weniger willkürlich an der Teilhabe des öffentlichen Lebens eingeschränkt. So konnten die "Gegner" nicht mit gleich langen Hebeln an politische (Stammtisch)Diskussionen ihre Argumente einbringen.
+> * Die "Befürworter" hatten die Datenhoheit und veröffentlichen jene Daten die gerade passten und teils erst noch geschönt. // Ob Buchhalter dies künftig auch so handhaben können?
 >
-> Die Abstimmung selbst ist jedoch nach meinen Eindruck korrekt verlaufen. Aufgrund des ungleichen Wahlkampfes, könnten allenfalls Gerichte (!) eine Wiederholung der Abstimmung unter fairen Voraussetzungen anordnen. Bis dahin muss man sich wohl oder übel mit dem Ergebnis anfreunden. // auch wenn moralisch dagegen, so sehe ich aus medizinischer Sicht Vorteile.
+> Die Abstimmung selbst ist jedoch nach meinen Eindruck korrekt verlaufen. Aufgrund des ungleichen Wahlkampfes, könnten allenfalls Gerichte (!) eine Wiederholung der Abstimmung unter fairen Voraussetzungen anordnen. Bis dahin muss man sich wohl oder übel mit dem Ergebnis anfreunden. // auch wenn moralisch dagegen, so sehe ich aus medizinischer Sicht Vorteile *wenn denn medizinisch korrekt umgesetzt*.
 
 Wichtig ist, dass man das Zertifikat dem aktuellen Wissensstand anpasst. Die aktuelle Anwendung hält einer wissenschaftlichen Prüfung nicht stand und somit werden Leute aufgrund ihrer Einstellung ungleich behandelt. Eine Umsetzung so dass alle mitmachen ist ebenfalls wichtig.
 
