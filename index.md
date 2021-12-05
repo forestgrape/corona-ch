@@ -17,6 +17,7 @@ Auf dieser Seite befinden sich Einschätzungen zur Corona-Situation in der Schwe
   * [Mögliche Gründe für den Anstieg der Fallzahlen](#mögliche-gründe-für-den-anstieg-der-fallzahlen)
   * [Einschätzung und Ausblick](#einschätzung-und-ausblick)
   * [Ideen für Anpassungen](#ideen-für-anpassungen)
+* [Einschätzung im Herbst 2020](#einschätzung-im-herbst-2020)
   * [Dunkelziffer](#dunkelziffer)
 * [Appendix](#appendix)
   * [Übertragung von SARS-CoV-2 in trockener Luft](#übertragung-von-sars-cov-2-in-trockener-luft)
@@ -25,29 +26,23 @@ Auf dieser Seite befinden sich Einschätzungen zur Corona-Situation in der Schwe
 ---
 
 ## Subjektiver Kommentar zur Abstimmung über das Covid Gesetz und Einsatz für eine wissenschaftlich Umsetzung
-29.11.2021 (30.11./1.12. 3 Korrekturen kursiv markiert im Text: 1) Viele Geimpfte und Genese waren ebenfalls gegen die (aktuelle Umsetzung der) Zertifikatspflicht. 2) Das Zertifikat kann medizinisch hilfreich sein, wenn medizinisch korrekt umgesetzt. 3) Die Umsetzung des Zertifikats sollte nicht zu Diskriminierungen führen.)
+29.11.2021 (kleinere Anpassungen 30.11./1./4.12. 
 
 > Mir in keine Abstimmung in der Schweiz bekannt, wo der Wahlkampf so unausgeglichen war:
-> * *Viele der Gegner (wegen möglichen Nachteile oder weil man das Gesetz nicht mag)*, wurden bereits rund 10 Wochen vor der Abstimmung mehr oder weniger willkürlich an der Teilhabe des öffentlichen Lebens eingeschränkt. So hatten die "Gegner" nicht die gleich langen Hebel um bei politischen (Stammtisch)Diskussionen ihre Argumente einbringen.
-> * Die "Befürworter" hatten die Datenhoheit und veröffentlichen jene Daten die gerade passten und teils erst noch geschönt. Ob Buchhalter dies künftig auch so handhaben können? // Bei Rekruten und Schülern wurden wahrscheinlich Stichproben gemacht und festgestellt, ob die Impfung gegen eine Infektion schützt oder nicht. Da die meisten im Juni geimpft wurden war die Wirkung vermutlich verpufft, daher hat man die Zahlen dann nicht veröffentlicht. (hinzugefügt am 2.12.)
+> * Viele der Gegner (ohne Zertifikat bzw. wenn dieses nicht brauchen möchte) wurden bereits rund 10 Wochen vor der Abstimmung mehr oder weniger willkürlich ([Kommentar 9.9](#kommentar-99)) an der Teilhabe des öffentlichen Lebens eingeschränkt. So hatten die "Gegner" nicht die gleich langen Hebel um bei politischen (Stammtisch)Diskussionen ihre Argumente einbringen.
+> * Die "Befürworter" hatten die Datenhoheit und veröffentlichen jene Daten die gerade passten und teils erst noch geschönt. Ob Buchhalter dies künftig auch so handhaben können? // Bei Rekruten und Schülern wurden mutmasslich Stichproben gemacht und auch festgestellt, ob die Impfung gegen eine Infektion schützt oder nicht. Da die meisten im Juni geimpft wurden war die Wirkung vermutlich grösstenteils verpufft (insbesondere bei Biontech), daher hat man die Zahlen dann nicht veröffentlicht.
 >
 > Die Abstimmung selbst ist jedoch nach meinen Eindruck korrekt verlaufen. Aufgrund des ungleichen Wahlkampfes, könnten allenfalls Gerichte (!) eine Wiederholung der Abstimmung unter fairen Voraussetzungen anordnen. Bis dahin muss man sich wohl oder übel mit dem Ergebnis anfreunden. // auch wenn moralisch dagegen, so sehe ich aus medizinischer Sicht Vorteile *wenn denn medizinisch korrekt umgesetzt*.
 
-Wichtig ist, dass man das Zertifikat dem aktuellen Wissensstand anpasst. Die aktuelle Anwendung hält einer wissenschaftlichen Prüfung nicht stand und somit werden Leute aufgrund ihrer Einstellung ungleich behandelt. Eine Umsetzung so dass alle mitmachen ist ebenfalls wichtig *und dass sich Leute diskriminiert fühlen sollte ebenfalls vermieden werden.*
+Wichtig ist, dass man das Zertifikat dem aktuellen Wissensstand anpasst. Die aktuelle Anwendung hält einer wissenschaftlichen Prüfung nicht stand und somit werden Leute aufgrund ihrer Einstellung ungleich behandelt. Eine Umsetzung so dass alle mitmachen ist ebenfalls wichtig und dass sich *Leute diskriminiert fühlen sollte ebenfalls vermieden werden.*
 
-> Die Daten deuten darauf hin, dass ein Alter von einiges über 30 Jahren viel entscheidender ist, als der Immunstatus (insbesondere wie eine Impfung vor ein paar Monaten) sowohl betreffend Uebertragung wie auch betreffend Spitaleinweisung. Regelmässiges testen (z.B. morgendliche Spucktests für zu Hause, ohne es mit kontrollieren zu übertreiben) wäre eine Option, denn so könnte man Covid Erkrankungen frühzeitig erkennen und die Behandlung einleiten. Die Akzeptanz könnte vorhanden sein denn solche Tests wären ja zum Vorteil der eigenen Gesundheit und der Ja-Anteil korreliert mit dem Alter. Erleichterungen für die unter 25 Jährigen sollten möglich sein. 
+> Die Daten deuten darauf hin, dass ein Alter von einiges über 30 Jahren viel entscheidender ist, als der Immunstatus (insbesondere wie eine Impfung vor ein paar Monaten) sowohl betreffend Übertragung wie auch betreffend Spitaleinweisung. Regelmässiges testen (z.B. morgendliche Spucktests für zu Hause, ohne es mit kontrollieren zu übertreiben) für Risiko Personen wäre eine Option, denn so könnte man Covid Erkrankungen frühzeitig erkennen und die Behandlung einleiten. Die Akzeptanz könnte vorhanden sein denn solche Tests wären ja zum Vorteil der eigenen Gesundheit und der Ja-Anteil korreliert mit dem Alter. Erleichterungen für die unter 25 Jährigen sollten möglich sein.
 
 
 ## Einschätzung mittags 28.11.
-> 28.11., 12.45 Uhr (29.11. einige Formulierungen angepasst, da teils übers Ziels hinausgeschossen. Die 1. Version hatte ich geschrieben als ich mich über das sich abzeichnende deutliche Ja zum Covidgesetz und über Umfragen für 2G und Impflichten für Berufe aufregte. 30.11.: Einschätzung vom 31.10. in Zitate geändert)
+> 28.11., mittags (29.11. einige Formulierungen angepasst, da teils übers Ziels hinausgeschossen. Die 1. Version hatte ich geschrieben als ich mich über das sich abzeichnende deutliche Ja zum Covid=Gesetz und über Umfragen für 2G und Impflichten für Berufe aufregte. 30.11.: Einschätzung vom 31.10. in Zitate geändert)
 
-Die Covid zahlen steigen derzeit in der Schweiz. Ein paar (Empfehlungen für) Massnahmen wie Masken bei grösseren Veranstaltungen in Innenräumen, allenfalls Antigentests (für alle), eine gute Lüftung gewährleisten und alle (alle!) zur Vorsicht zu mahnen sind jedoch angebracht nach meiner Einschätzung. In diesem Zusammenhang ist sind Zitate aus einer Situationeinschätzung vom 31. Oktober 2020 relevant:
-
-* "..., dass man die Covid-19 Situation in der Schweiz zu wenig genau kennt (u.a. sind mir keine repräsentativen Stichproben bekannt, welche die Covid-Häufigkeit bestimmen, idealerweise in allen Kantonen)."
-* "Die Aerosolübertragung wahrscheinlich eine viel bedeutendere Rolle spielt als gedacht und die aktuellen Massnahmen (Distanz, Plexiglas, Stoffmasken) primär Tröpfcheninfektionen verhindern."
-* "..., dass es an Eishockeymatches diverse Super-Spreader-Ereignisse ... Skizziert: starke Zunahme der Fallzahlen in den Gebieten mit Eishockeystadien und auffällig viele Eishockeyspieler sind infiziert.) gab und ev. auch teils an Fussballspielen (u.a. in Sion und Genf, da diverse Spieler infiziert sind). ..." 
-
-da die Massnahmen nach wie vor Superspreading zu wenig berücksichtigen und keine Stichproben gemacht bzw. veröffentlicht werden (Stichproben bei Rekruten wurden mal in Aussicht gestellt jedoch meines Wissens nicht veröffentlicht. An den Schweizer Universitäten wären Stichproben ebenfalls angebracht im Sinne der "Wissenschaft"). 
+Die Covid zahlen steigen derzeit in der Schweiz. Ein paar (Empfehlungen für) Massnahmen wie Masken bei grösseren Veranstaltungen in Innenräumen, allenfalls Antigentests (für alle), eine gute Lüftung gewährleisten und alle (alle!) zur Vorsicht zu mahnen sind jedoch angebracht nach meiner Einschätzung. In diesem Zusammenhang ist eine rückwirkend veröffentlichte [Situationeinschätzung vom 31. Oktober 2020](#einschätzung-im-herbst-2020) relevant da die Massnahmen nach wie vor Superspreading zu wenig berücksichtigen und keine Stichproben gemacht bzw. veröffentlicht werden (Stichproben bei Rekruten wurden mal in Aussicht gestellt jedoch meines Wissens nicht veröffentlicht. An den Schweizer Universitäten wären Stichproben ebenfalls angebracht im Sinne der "Wissenschaft"). 
 
 > Teils rückte das Fachliche in den Hintergrund bei hitzigen Diskussionen um Zertifikate und *um angeblich nützliche hohe Impfquoten zu erreichen* z.B. wird eine auffallend hohe Wirksamkeit der Impfungen publiziert und die Impfquote wird als tief dargestellt und ohne stichhaltige Begründung mit hohen Fallzahlen in Verbindung gebracht (z.B. in Portugal oder Spanien kommt/kam der Winter einfach später). Die "Impf-Werbung" steht oft im Fokus und neutrale Diskussionen über die Bekannten und Unbekannten betreffend die (Un)Wirksamkeit und mögliche kurz- und langfristige unerwünschte Wirkungen kommen zu kurz. (am 1.12. ein paar Formulierungen angepasst)
 
@@ -166,9 +161,34 @@ Die Massnahmen zu optimieren ist jedoch sinnvoll. Eine Möglichkeit ist dies reg
 
 
 
+
+
+
+ 
+## Einschätzung im Herbst 2020
+> ursprünglich per 31.10.2020 als Email gesendet. Per 28.11.21/4.12. online gestellt. 
+> 
+> Die Namen sind mit "Damen und Herren" anonymisiert. Die Adressaten waren unter anderem mehrere Mitglieder in leitenden Position der Schweizer Covid Taskforce.
+
+"""
+Covid-19 Situation Schweiz: Schätzung 8000 Fälle vor 4 Wochen (Betreff)
+
+Sehr gehrte Damen und Herren
+
+Ich habe den Eindruck, dass man die Covid-19 Situation in der Schweiz zu wenig genau kennt (u.a. sind mir keine repräsentativen Stichproben bekannt, welche die Covid-Häufigkeit bestimmen, idealerweise in allen Kantonen). Sie haben jedoch detailliertere Informationen als ich und können die Situation daher besser beurteilen. Allenfalls wäre es angebracht, Innenräume ein paar Tage zu meiden, bis man ein genaues Bild der Situation hat, da:
+1. die Dunkelziffer (Begründung ganz unten) wahrscheinlich um ein vielfaches höher ist als gedacht und die aktuellen Massnahmen (u.a. Contact Tracing) darauf basieren, dass die Dunkelziffer eher klein ist. Die meisten Massnahmen reduzieren die Infektionen nur und verhindern diese nicht, was nur funktioniert wenn ein Grossteil der Infizierten sich nicht in Menschenansammlungen aufhält. 
+2. Die Aerosolübertragung wahrscheinlich eine viel bedeutendere Rolle spielt als gedacht und die aktuellen Massnahmen (Distanz, Plexiglas, Stoffmasken) primär Tröpfcheninfektionen verhindern. 
+3. Ich den Eindruck habe, dass es an Eishockeymatches diverse Super-Spreader-Ereignisse (Begründung in Arbeit. Skizziert: starke Zunahme der Fallzahlen in den Gebieten mit Eishockeystadien und auffällig viele Eishockeyspieler sind infiziert.) gab und ev. auch teils an Fussballspielen (u.a. in Sion und Genf, da diverse Spieler infiziert sind). Sollten sich die Infektionen auf das private Umfeld zurückfahren lassen entfällt dieser Teil der Begründung.  
+
+Zu mir: Ich widme mich seit ende Januar soweit möglich Vollzeit Sars-Cov-2 und veröffentliche meine Erkenntnisse auf github: GitHub: https://github.com/forestgrape/coronavirus/blob/master/index.md. Die Seite ist experimentell, umgangssprachlich und oft nicht riguros. Ich habe ausgesprochen viel Zeit investiert, um Sars-Cov-2 zu verstehen versuchen, daher fand ich, dass ich Ihnen meine aktuelle Beurteilung mitteilen “darf”/“kann”. 
+
+Vielen Dank für die Aufmerksamkeit und viele Grüsse
+Wito Traub
+
+
 ### Dunkelziffer
 Die Todesfälle waren letzte Woche durchschnittlich bei knapp 20 Fällen und diese Woche höher. Unter meiner Ansicht realistischen Annahmen ergibt dies, dass vor 3-4 Wochen die Schweiz täglich rund 8000 Neuinfektionen hatte.  Annahmen: 1. die Sterblichkeitsrate ist 0.25%, also einem Todesfall pro 400 Infizierte. 2. Die Todesfälle haben sich vor mindestens 20 Tagen infiziert. 3. Die Covid-Rate bei den Risikogruppen ist gleich hoch wie in der Gesamtbevölkerung (hoffentlich geringer, da die Risikogruppe vorsichtiger sind).
-
+"""
 
 
 ## Appendix
@@ -179,7 +199,7 @@ Die Todesfälle waren letzte Woche durchschnittlich bei knapp 20 Fällen und die
 - Weltweit steigen die Spitaleintritte im Sommer in Regionen wo Klimaanlagen verbreitet sind (US Südstaaten, Südeuropa, teils Asien; im tropischen Afrika gibt es hingegen zwar viele Fälle jedoch fast keine schweren Fälle).
 - Die Fallzahlen sind in der Schweiz momentan tendenziell da hoch, wo die Temperaturen hoch sind (eher tiefe Fallzahlen in den Berggebieten). Eine Analyse auf Gemeinde Ebene unter Berücksichtigung der Reisetätigkeit könnte Klarheit bringen.
 
-#### Hypothese: Mechanismus
+#### Wahrscheinlicher Mechanismus
 Klimaanlagen trocknen die Luft aus. Trockene Luft erhöht die Zahl von schweren Fällen da:
 - Coronaviren übertragen sich besser in trockener Luft, da die Viren länger überlegen. 
 - In trockener Luft ist es wahrscheinlicher, dass die Viren tiefer in der Lunge adsorbiert werden, was wiederum bewirkt, dass die Infektion tiefer in der Lunge startet. Tief in Lunge ist die Wahrscheinlichkeit einer schweren Infektion erhöht: Der Atemtrakt besteht vor allem aus Immune Zellen, welche vor Dreck und Pathogenen schützen und nur in den Lungenblässchen findet der Luftaustausch (O2/CO2/H2O) Austausch statt und hier ist die Lunge besonders anfällig für schwere Infektionen und Lungenentzündungen. Wenn die Infektionen weiter oben im Atemtrakt startet hat das Immun System oft bereits erste Antikörper und T Zellen gebildet bis die Infektion in die Alveoli vordringt. Startet die Infektion hingegen direkt in den Alveoli ist dies nicht der Fall was schlecht für die Prognose ist.
