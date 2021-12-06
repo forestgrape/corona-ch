@@ -18,19 +18,19 @@ Auf dieser Seite befinden sich Einschätzungen zur Corona-Situation in der Schwe
   * [Einschätzung und Ausblick](#einschätzung-und-ausblick)
   * [Ideen für Anpassungen](#ideen-für-anpassungen)
 * [Einschätzung im Herbst 2020](#einschätzung-im-herbst-2020)
-  * [Dunkelziffer](#dunkelziffer)
 * [Appendix](#appendix)
   * [Übertragung von SARS-CoV-2 in trockener Luft](#übertragung-von-sars-cov-2-in-trockener-luft)
   * [Immunität gegen SARS-CoV-2](#immunität-gegen-sars-cov-2)
 
 ---
 
+
 ## Subjektiver Kommentar zur Abstimmung über das Covid Gesetz und Einsatz für eine wissenschaftlich Umsetzung
 29.11.2021 (kleinere Anpassungen 30.11./1./4.12. 
 
 > Mir in keine Abstimmung in der Schweiz bekannt, wo der Wahlkampf so unausgeglichen war:
-> * Viele der Gegner (ohne Zertifikat bzw. wenn dieses nicht brauchen möchte) wurden bereits rund 10 Wochen vor der Abstimmung mehr oder weniger willkürlich ([Kommentar 9.9](#kommentar-99)) an der Teilhabe des öffentlichen Lebens eingeschränkt. So hatten die "Gegner" nicht die gleich langen Hebel um bei politischen (Stammtisch)Diskussionen ihre Argumente einbringen.
-> * Die "Befürworter" hatten die Datenhoheit und veröffentlichen jene Daten die gerade passten und teils erst noch geschönt. Ob Buchhalter dies künftig auch so handhaben können? // Bei Rekruten und Schülern wurden mutmasslich Stichproben gemacht und auch festgestellt, ob die Impfung gegen eine Infektion schützt oder nicht. Da die meisten im Juni geimpft wurden war die Wirkung vermutlich grösstenteils verpufft (insbesondere bei Biontech), daher hat man die Zahlen dann nicht veröffentlicht.
+> * Viele der Gegner (ohne Zertifikat bzw. wenn man dieses nicht brauchen möchte) wurden bereits rund 10 Wochen vor der Abstimmung mehr oder weniger willkürlich ([Kommentar 9.9](#kommentar-99)) an der Teilhabe des öffentlichen Lebens eingeschränkt. So hatten die "Gegner" nicht die gleich langen Hebel um bei politischen (Stammtisch)Diskussionen ihre Argumente einzubringen.
+> * Die "Befürworter" hatten die Datenhoheit und veröffentlichen jene Daten die gerade passten und teils erst noch geschönt. Ob Buchhalter dies künftig auch so handhaben können? // Bei Rekruten und Schülern wurden mutmasslich Stichproben gemacht und auch festgestellt, ob die Impfung gegen eine Infektion schützt oder nicht. Da die meisten im Juni geimpft wurden, war die Wirkung vermutlich grösstenteils verpufft (insbesondere bei Biontech), daher hat man die Zahlen dann nicht veröffentlicht.
 >
 > Die Abstimmung selbst ist jedoch nach meinen Eindruck korrekt verlaufen. Aufgrund des ungleichen Wahlkampfes, könnten allenfalls Gerichte (!) eine Wiederholung der Abstimmung unter fairen Voraussetzungen anordnen. Bis dahin muss man sich wohl oder übel mit dem Ergebnis anfreunden. // auch wenn moralisch dagegen, so sehe ich aus medizinischer Sicht Vorteile *wenn denn medizinisch korrekt umgesetzt*.
 
@@ -39,12 +39,14 @@ Wichtig ist, dass man das Zertifikat dem aktuellen Wissensstand anpasst. Die akt
 > Die Daten deuten darauf hin, dass ein Alter von einiges über 30 Jahren viel entscheidender ist, als der Immunstatus (insbesondere wie eine Impfung vor ein paar Monaten) sowohl betreffend Übertragung wie auch betreffend Spitaleinweisung. Regelmässiges testen (z.B. morgendliche Spucktests für zu Hause, ohne es mit kontrollieren zu übertreiben) für Risiko Personen wäre eine Option, denn so könnte man Covid Erkrankungen frühzeitig erkennen und die Behandlung einleiten. Die Akzeptanz könnte vorhanden sein denn solche Tests wären ja zum Vorteil der eigenen Gesundheit und der Ja-Anteil korreliert mit dem Alter. Erleichterungen für die unter 25 Jährigen sollten möglich sein.
 
 
+
 ## Einschätzung mittags 28.11.
 > 28.11., mittags (29.11. einige Formulierungen angepasst, da teils übers Ziels hinausgeschossen. Die 1. Version hatte ich geschrieben als ich mich über das sich abzeichnende deutliche Ja zum Covid=Gesetz und über Umfragen für 2G und Impflichten für Berufe aufregte. 30.11.: Einschätzung vom 31.10. in Zitate geändert)
 
 Die Covid zahlen steigen derzeit in der Schweiz. Ein paar (Empfehlungen für) Massnahmen wie Masken bei grösseren Veranstaltungen in Innenräumen, allenfalls Antigentests (für alle), eine gute Lüftung gewährleisten und alle (alle!) zur Vorsicht zu mahnen sind jedoch angebracht nach meiner Einschätzung. In diesem Zusammenhang ist eine rückwirkend veröffentlichte [Situationeinschätzung vom 31. Oktober 2020](#einschätzung-im-herbst-2020) relevant da die Massnahmen nach wie vor Superspreading zu wenig berücksichtigen und keine Stichproben gemacht bzw. veröffentlicht werden (Stichproben bei Rekruten wurden mal in Aussicht gestellt jedoch meines Wissens nicht veröffentlicht. An den Schweizer Universitäten wären Stichproben ebenfalls angebracht im Sinne der "Wissenschaft"). 
 
 > Teils rückte das Fachliche in den Hintergrund bei hitzigen Diskussionen um Zertifikate und *um angeblich nützliche hohe Impfquoten zu erreichen* z.B. wird eine auffallend hohe Wirksamkeit der Impfungen publiziert und die Impfquote wird als tief dargestellt und ohne stichhaltige Begründung mit hohen Fallzahlen in Verbindung gebracht (z.B. in Portugal oder Spanien kommt/kam der Winter einfach später). Die "Impf-Werbung" steht oft im Fokus und neutrale Diskussionen über die Bekannten und Unbekannten betreffend die (Un)Wirksamkeit und mögliche kurz- und langfristige unerwünschte Wirkungen kommen zu kurz. (am 1.12. ein paar Formulierungen angepasst)
+
 
 
 ## Kommentar 9.9.
@@ -57,9 +59,11 @@ Die Covid zahlen steigen derzeit in der Schweiz. Ein paar (Empfehlungen für) Ma
 
 > Einschätzung: Da insbesondere die Spitaleinweisungen stark zurückgehen und die Uebertragungsraten innerhalb der Schweiz selbst immer relativ niedrig waren, sind aus epidemiologischer Sicht keine flächendeckendenden Massnahmen notwendig. Nach wie vor ist es jedoch wichtig lokale Hotspots wie z.B. Superspreading in vollen Flugzeugen aus Südeuropa zu vermeiden.
 
+
 ## Updates 1./2.9.
 2.9.: Ungenauigkeiten korrigiert (z.B. bei [Immunität gegen SARS-CoV-2](#immunität-gegen-sars-cov-2)). Bemerkung, dass die Lageeinschätzung nicht nur für die Schweiz sondern auch für Regionen mit ähnlichen Gegebenheiten gilt.
 1.9.: Verbesserungen, Korrekturen und Anpassungen zur [Lageeinschätzung in Regionen Europas](#lageeinschätzung-und-möglichen-massnahmen-betreffend-der-angespannten-covid-lage-in-regionen-europas).
+
 
 ## Lageeinschätzung und möglichen Massnahmen betreffend der angespannten Covid Lage in Regionen Europas
 
@@ -105,6 +109,7 @@ Es ist angebracht die Situation zu analysieren in Hinblick auf allfällige Massn
 * Flugzeugpassagiere aus Flugzeugen mit (hospitalisierten) Covid Fällen der letzten  10 Tage testen. Stellt man Super Spreading im Flugzeug fest, ist es angebracht allenfalls sämtliche Reisende welche zeitgleich im Flughafen waren zu testen.
 * Da schwere Fälle oft besonders viele Viren ausatmen, allenfalls die Bewohner der Wohnhäuser von hospitalisierten Fällen bezüglich Covid zu informieren und allenfalls Antigen Schnelltests für Selbsttests auszuhändigen.
 * Den Fluggesellschaften kommunizieren, dass keine symptomatischen Personen mitfliegen sollen. Allenfalls ankommende Passagiere in der Schweiz direkt bei Ausstieg aus dem Flugzeug testen (draussen, ausserhalb der  Flughafengebäude).
+
 
 
 
@@ -162,8 +167,6 @@ Die Massnahmen zu optimieren ist jedoch sinnvoll. Eine Möglichkeit ist dies reg
 
 
 
-
-
  
 ## Einschätzung im Herbst 2020
 > ursprünglich per 31.10.2020 als Email gesendet. Per 28.11.21/4.12. online gestellt. 
@@ -186,9 +189,11 @@ Vielen Dank für die Aufmerksamkeit und viele Grüsse
 Wito Traub
 
 
-### Dunkelziffer
+Dunkelziffer:
 Die Todesfälle waren letzte Woche durchschnittlich bei knapp 20 Fällen und diese Woche höher. Unter meiner Ansicht realistischen Annahmen ergibt dies, dass vor 3-4 Wochen die Schweiz täglich rund 8000 Neuinfektionen hatte.  Annahmen: 1. die Sterblichkeitsrate ist 0.25%, also einem Todesfall pro 400 Infizierte. 2. Die Todesfälle haben sich vor mindestens 20 Tagen infiziert. 3. Die Covid-Rate bei den Risikogruppen ist gleich hoch wie in der Gesamtbevölkerung (hoffentlich geringer, da die Risikogruppe vorsichtiger sind).
 """
+
+
 
 
 ## Appendix
