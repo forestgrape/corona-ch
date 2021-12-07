@@ -2,10 +2,14 @@
 # Corona Lage Einschätzungen
 Auf dieser Seite befinden sich Einschätzungen zur Corona-Situation in der Schweiz und oft auch für Regionen mit ähnlichen Gegebenheiten (z.B. Regionen in Deutschland). Die Seite ist eine Ergänzung zur Hauptseite <https://forestgrape.github.io/coronavirus>. Die Seite ist Open Source auf <https://github.com/forestgrape/corona-ch>.
 
+
+Hinweise:
+
 > Subjektive Anmerkungen sind so formatiert. 
 
 // Ergänzende Kommentare beginnen wie dieser mit zwei "//".
 
+Der Inhalt ist chronologisch wobei die neusten Kapitel zu oberst sind.
 
 * [Mail an Schweizer Medien](#mail-an-schweizer-medien)
 * [Subjektiver Kommentar zur Abstimmung über das Covid Gesetz und Einsatz für eine wissenschaftlich Umsetzung](#subjektiver-kommentar-zur-abstimmung-über-das-covid-gesetz-und-einsatz-für-eine-wissenschaftlich-umsetzung)
