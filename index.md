@@ -75,7 +75,7 @@ Mich fasziniert die Natur und ich erkunde gerne neue Gebiete. Oft alleine, denn 
 
 Ich hätte dennoch früher öffentlich gehen sollen. Die Crowd-Intelligence hätte so gut wie sicher geholfen.
 
-Denn die Mächtigen, die Wissenschaftler, die Firmen - sie verstanden nicht was sie tun. Sie wissen nun mehr. Einige eurer Chefs ebenfalls. Ja sie wissen mehr. Aber verstehen tun sie es immer noch nicht. Kein Mensch versteht es.
+Denn die Mächtigen, die Wissenschaftler, die Firmen - sie verstanden nicht was sie tun. Sie wissen nun mehr. Aber verstehen tun sie es immer noch nicht. Kein Mensch versteht es.
 
 Mit freundlichen Grüssen
 Wito Traub
