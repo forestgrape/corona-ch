@@ -33,8 +33,6 @@ Der Inhalt ist chronologisch wobei die neusten Kapitel zu oberst sind.
 
 ---
 
-> Weitere Updates werden in den nächsten Tagen folgen, ich möchte jedoch anstehende Entscheide miteinbeziehen um die Situation besser einschätzen zu können.
-
 
 ## Einschätzung Epidemiologische Situation
 7.12.21
