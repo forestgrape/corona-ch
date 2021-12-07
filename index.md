@@ -29,6 +29,8 @@ Der Inhalt ist chronologisch wobei die neusten Kapitel zu oberst sind.
 
 ---
 
+> Updates werden folgen, ich möchte jedoch anstehende Entscheide miteinbeziehen um die Situation besser beurteilen zu können. 
+
 ## Mail an Schweizer Medien
 > gesendet am 6.12.2021 (in der hier publizierten Version sind einige Formulierungen angepasst)
 
