@@ -62,7 +62,7 @@ Werte Medienschaffende, Werte Journalisten, Werte Damen und Herren
 Ich bin ein sprichwörtlicher (sprichwörtlicher, nicht typischer) ewiger Student und habe ganz ganz viel, wirklich ganz ganz ganz viel auf Corona gearbeitet und ne Homepage erstellt:
 https://forestgrape.github.io/coronavirus/
 
-Anfangs, habe ich mein Seite dann bekannten Wissenschaftlern geschickt. Weil ja weil manchmal finde ich, ich habe gute Ideen, aber ganz so sicher war ich mir dann doch nicht, aber die Wissenschaftler können dies dann ja beurteilen. 
+Anfangs, habe ich mein Seite dann Wissenschaftlern geschickt. Weil ja weil manchmal finde ich, ich habe gute Ideen, aber ganz so sicher war ich mir dann doch nicht, aber die Wissenschaftler können dies dann ja beurteilen. 
 
 Ende Oktober 2020 fand ich mal die Fallzahlen sind ein Bisschen hoch. Das muss nach Bern! und ich wollte eh da arbeiten. 
 
