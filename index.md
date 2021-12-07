@@ -51,7 +51,7 @@ Aus epidemiologischer Sicht ist das Hauptrisiko derzeit das Auftauchen von neuen
 ### Die Einführung von 2G seitens der Behörden
 > 2G wurde vermutlich so hastig eingeführt, da der Wellenberg an vielen Orten überschritten ist. So kann man dann sagen 2G hätte gewirkt und dieses aufrechterhalten bzw. sogar ausdehnen um eine höhere Impfquote zu erreichen. 
 
-> Nach meiner Einschätzung, bringt aus epidemiologischer Sicht eine höhere Impfquote bei Jungen unter Berücksichtigung von neuen Erkenntnissen nichts. Bei den älteren Semester ist eine höhere Impfquote ebenfalls nicht notwendig, da sich herausgestellt hat, dass mit frühzeitig eingesetzten Interferonen eine effektive Behandlung zur Verfügung steht. Eine hohe Impfquote ist wie erwähnt auch mit Risiken für Fluchtmutationen verbunden insbesondere, da solche Fluchtmutation bereits im Umlauf zu sein scheinen mit der Omikron Variante.
+> Nach meiner Einschätzung, bringt aus epidemiologischer Sicht eine höhere Impfquote bei Jungen unter Berücksichtigung von neuen Meta-Analysen nichts. Bei den älteren Semester ist eine höhere Impfquote ebenfalls nicht notwendig, da sich herauskristallisiert, dass mit frühzeitig eingesetzten Interferonen eine effektive Behandlung zur Verfügung steht. Eine hohe Impfquote ist wie erwähnt auch mit Risiken für die Entstehung und Verbreitung von Fluchtmutationen verbunden, dies insbesondere, da solche Fluchtmutation bereits im Umlauf zu sein scheinen unter anderem die Omikron Variante.
 
 
 ## Mail an Schweizer Medien
