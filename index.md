@@ -7,6 +7,7 @@ Auf dieser Seite befinden sich Einschätzungen zur Corona-Situation in der Schwe
 // Ergänzende Kommentare beginnen wie dieser mit zwei "//".
 
 
+* [Mail an Schweizer Medien](#mail-an-schweizer-medien)
 * [Subjektiver Kommentar zur Abstimmung über das Covid Gesetz und Einsatz für eine wissenschaftlich Umsetzung](#subjektiver-kommentar-zur-abstimmung-über-das-covid-gesetz-und-einsatz-für-eine-wissenschaftlich-umsetzung)
 * [Einschätzung mittags 28.11.](#einschätzung-mittags-2811)
 * [Kommentar 9.9.](#kommentar-99)
@@ -23,6 +24,33 @@ Auf dieser Seite befinden sich Einschätzungen zur Corona-Situation in der Schwe
   * [Immunität gegen SARS-CoV-2](#immunität-gegen-sars-cov-2)
 
 ---
+
+## Mail an Schweizer Medien
+> gesendet am 6.12.2021 (in der hier publizierten Version sind einige Formulierungen angepasst)
+
+Werte Medienschaffende, Werte Journalisten, Werte Damen und Herren
+
+Ich bin ein sprichwörtlicher (sprichwörtlicher, nicht typischer) ewiger Student und habe ganz ganz viel, wirklich ganz ganz ganz viel auf Corona gearbeitet und ne Homepage erstellt:
+https://forestgrape.github.io/coronavirus/
+
+Anfangs, habe ich mein Seite dann bekannten Wissenschaftlern geschickt. Weil ja weil manchmal finde ich, ich habe gute Ideen, aber ganz so sicher war ich mir dann doch nicht, aber die Wissenschaftler können dies dann ja beurteilen. 
+
+Ende Oktober 2020 fand ich mal die Fallzahlen sind ein Bisschen hoch. Das muss nach Bern! und ich wollte eh da arbeiten. 
+
+Ende August 2021 fand ich die Zertifikatspflicht unnötig und war auch beleidigt und enttäuscht, dass mir fast niemand antwortete, auch nicht  die Mitglieder des BAG und der Taskforce. Naja zwei Antworten erhielt ich, die Sorgen der Bürger werden ernst genommen. So erstellte ich aufgeregt, wütend und besorgt nochmal ne Seite:
+https://forestgrape.github.io/corona-ch/
+
+Antworten erhielt ich inzwischen. In ein paar Punkte wünschte ich, ich wäre falsch gelegen.
+
+Mich fasziniert die Natur und ich erkunde gerne neue Gebiete. Oft alleine, denn so kann ich mich gut konzentrieren. Jetzt ist jedoch vom Fachlichen her der Zeitpunkt gekommen nach aussen zu gehen. Corona kennt man und man kann Covid zuverlässig behandeln. Interferone rechtzeitig verabreicht haben eine Wirksamkeit von über 80 %.
+
+Ich hätte dennoch früher öffentlich gehen sollen. Die Crowd-Intelligence hätte so gut wie sicher geholfen.
+
+Denn die Mächtigen, die Wissenschaftler, die Firmen - sie verstanden nicht was sie tun. Sie wissen nun mehr. Einige eurer Chefs ebenfalls. Ja sie wissen mehr. Aber verstehen tun sie es immer noch nicht. Kein Mensch versteht es.
+
+Mit freundlichen Grüssen
+Wito Traub
+
 
 
 ## Subjektiver Kommentar zur Abstimmung über das Covid Gesetz und Einsatz für eine wissenschaftlich Umsetzung
