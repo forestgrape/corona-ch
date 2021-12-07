@@ -11,6 +11,10 @@ Hinweise:
 
 Der Inhalt ist chronologisch wobei die neusten Kapitel zu oberst sind.
 
+* [Einschätzung Epidemiologische Situation](#einschätzung-epidemiologische-situation)
+  * [Mögliche Zusatz-Massnahmen um die Zahl der schweren Fälle zu reduzieren](#mögliche-zusatz-massnahmen-um-die-zahl-der-schweren-fälle-zu-reduzieren)
+  * [Mögliche Risiken](#mögliche-risiken)
+  * [Die Einführung von 2G seitens der Behörden](#die-einführung-von-2g-seitens-der-behörden)
 * [Mail an Schweizer Medien](#mail-an-schweizer-medien)
 * [Subjektiver Kommentar zur Abstimmung über das Covid Gesetz und Einsatz für eine wissenschaftlich Umsetzung](#subjektiver-kommentar-zur-abstimmung-über-das-covid-gesetz-und-einsatz-für-eine-wissenschaftlich-umsetzung)
 * [Einschätzung mittags 28.11.](#einschätzung-mittags-2811)
@@ -29,7 +33,26 @@ Der Inhalt ist chronologisch wobei die neusten Kapitel zu oberst sind.
 
 ---
 
-> Updates werden folgen, ich möchte jedoch anstehende Entscheide miteinbeziehen um die Situation besser beurteilen zu können. 
+> Weitere Updates werden folgen, ich möchte jedoch anstehende Entscheide miteinbeziehen um die Situation besser beurteilen zu können.
+
+
+## Einschätzung Epidemiologische Situation
+7.12.21
+Die Covid Fallzahlen sind gestiegen in den letzten Wochen. Beruhigenderweise nahmen bzw. nehmen die Spitaleinweisungen jedoch nur langsam zu und bewegen sich im Vergleich zum Herbst 2020 auf einem sehr tiefen Niveau und die nationale Spitalauslastung ist *weit entfernt von einem kritischen Niveau*. In einigen Spitälern und Intensivstationen sind temporäre Engpässe jedoch möglich bzw. schon vorhanden. In erster Linie um die Anzahl der schweren Fälle zu reduzieren und auch damit man die nationale Situation weiterhin unkritisch bleibt bzw. man das Infektionsgeschehen in Hinblick auf die Weihnachts- und Ferienzeit schneller beruhigen kann sind Masken bei Grossveranstaltungen sinnvoll. Statt der Quarantäne, Tests vor und nach Ankunft für Flugreisende ist eine gute Anpassung und man sollte die Quarantänen generell abschaffen. Die Spitaleinweisungen sind relativ tief, da im Herbst 2020 und im Sommer 2021 eine gute Immunität aufgebaut wurde (viel näher bei Schweden und England als bei Deutschland und Österreich, da letztere im Sommer 2021 2/3G Regeln hatten) und der Moderna Impfstoff gut und lange gegen schwere Infektionen schützt. Bei mit Biontech geimpften Altersheimen dürfte es einige Ausbrüche geben, da der Schutz bei Biotech stärker zurückgeht wie bei Moderna und bereits im Januar 2020 viele Impfungen durchgeführt wurden. Hier sind Reihentests vom Personal und den Bewohnern angebracht um die Übertragungen zu reduzieren und Fälle frühzeitig zu behandeln. So wie die Situation ausschaut ist der Höhepunkt der Welle bald überschritten: 10'000 gezählte Fälle pro Tag, wenn man nun berücksichtigt, dass sich grösstenteils nur jene testen die müssen (Risikogruppe oder für Zertifikat), kann man gut und gerne davon ausgehen, dass die tatsächlichen Fallzahlen bei weit über 100'000 pro Tag sind (höher wie im November 2020). Die Behörden kennen die Situation aufgrund der (nicht publizierten) Stichproben genauer. Wenn schätzungsweise eins bis zwei Million Menschen (nicht alle Personengruppen tragen gleich viel zur Verbreitung bei) die Immunität aufgefrischt haben, werden die Zahlen zurückgehen. Der nationale Rückgang dürfte bald eintreten, insbesondere mit den paar zusätzlichen Masken an Grossveranstaltungen und da Wellen der Delta Variante generell schnell vorüber gehen. In einigen Kantonen der Ostschweiz wie Thurgau, St. Gallen und Graubünden scheint der Rückgang bereits eingesetzt zu haben sowohl bei den Spitaleinweisungen und bei den Fallzahlen (die Welle geht diesmal von Osten nach Westen). 
+
+Die Fallzahlen sind aufgrund der kontinuierlich verschärften Tests nicht sehr aussagekräftig. Am Wochenende vom 4./5. gingen zudem sehr viele die testen müssen nochmals in den Ausgang. Die Latte für die Spitaleinweisungen scheint in einigen Kantonen ebenfalls nach unten korrigiert worden zu sein. Am verlässlichsten sind die Belegungen der Intensivstationen und hier hat sich die Lage seit einiger Zeit stabilisiert bzw. in einigen Kantonen ist der Rückgang bereits eingetreten.
+
+### Mögliche Zusatz-Massnahmen um die Zahl der schweren Fälle zu reduzieren
+Wichtig ist und bleibt das Individuelle Verhalten von allen. Um Leben zu retten und die Spitaleinweisungen zu reduzieren sind regelmässige morgendliche PCR Speicheltests bei Risikopersonen angebracht (falls weder Genesenen noch mit Moderna geimpft noch erst kürzlich geimpft). Unter anderem mit Interferon kann man frühzeitig erkannte Infektionen gut behandeln. Das nationale Infektionsgeschehen könnte man, wenn gewollt mit Antigentests bei Grossveranstaltungen (insbesondere wo viele ältere Semester dabei sind) effektiv und zügig reduzieren bzw. den Rückgang der Welle beschleunigen. In einigen Kantonen wo die Welle sich noch aufbaut, könnte diese auch noch ein Bisschen abgeflacht jedoch nicht aufgehalten werden, was aus Sicht der nationalen Spitalbelegung derzeit nicht notwendig ist. Sollten die Spitaleinweisungen regional wider Erwarten stark zunehmen kann man die Antigentests auch kurzfristig einführen, da die Infrastruktur vorhanden ist.
+
+### Mögliche Risiken
+Aus epidemiologischer Sicht ist das Hauptrisiko derzeit das Auftauchen von neuen Varianten insbesondere, da sich die Hinweise erhärten, dass die hohe Durchimpfungsrate das Entstehen und die Verbreitung von Fluchtmutation verschiedenster Art begünstigen. Um dem vorzubeugen ist es sinnvoll Masken bei Grossveranstaltungen und in grossen Unternehmen zu tragen.
+
+### Die Einführung von 2G seitens der Behörden
+> 2G wurde vermutlich so hastig eingeführt, da der Wellenberg an vielen Orten überschritten ist. So kann man dann sagen 2G hätte gewirkt und dieses aufrechterhalten bzw. sogar ausdehnen um eine höhere Impfquote zu erreichen. 
+
+> Nach meiner Einschätzung, bringt aus epidemiologischer Sicht eine höhere Impfquote bei Jungen unter Berücksichtigung von neuen Erkenntnissen nichts. Bei den älteren Semester ist eine höhere Impfquote ebenfalls nicht notwendig, da sich herausgestellt hat, dass mit frühzeitig eingesetzten Interferonen eine effektive Behandlung zur Verfügung steht. Eine hohe Impfquote ist wie erwähnt auch mit Risiken für Fluchtmutationen verbunden insbesondere, da solche Fluchtmutation bereits im Umlauf zu sein scheinen mit der Omikron Variante.
+
 
 ## Mail an Schweizer Medien
 > gesendet am 6.12.2021 (in der hier publizierten Version sind einige Formulierungen angepasst)
