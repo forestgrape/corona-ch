@@ -55,7 +55,7 @@ Aus epidemiologischer Sicht ist das Hauptrisiko derzeit das Auftauchen von neuen
 
 
 ## Mail an Schweizer Medien
-> gesendet am 6.12.2021 (in der hier publizierten Version sind einige Formulierungen angepasst)
+> gesendet am 6.12.2021 (in der hier publizierten Version sind einige Formulierungen ein paarmal angepasst)
 
 Werte Medienschaffende, Werte Journalisten, Werte Damen und Herren
 
@@ -69,13 +69,11 @@ Ende Oktober 2020 fand ich mal die Fallzahlen sind ein Bisschen hoch. Das muss n
 Ende August 2021 fand ich die Zertifikatspflicht unnötig und war auch beleidigt und enttäuscht, dass mir fast niemand antwortete, auch nicht  die Mitglieder des BAG und der Taskforce. Naja zwei Antworten erhielt ich, die Sorgen der Bürger werden ernst genommen. So erstellte ich aufgeregt, wütend und besorgt nochmal ne Seite:
 https://forestgrape.github.io/corona-ch/
 
-Antworten erhielt ich inzwischen. In ein paar Punkte wünschte ich, ich wäre falsch gelegen.
+Antworten erhielt ich inzwischen. In ein paar Punkte wünschte/hoffe ich, ich wäre/bin falsch gelegen.
 
-Mich fasziniert die Natur und ich erkunde gerne neue Gebiete. Oft alleine, denn so kann ich mich gut konzentrieren. Jetzt ist jedoch vom Fachlichen her der Zeitpunkt gekommen nach aussen zu gehen. Corona kennt man und man kann Covid zuverlässig behandeln. Interferone rechtzeitig verabreicht haben eine Wirksamkeit von über 80 %.
+Mich fasziniert die Natur und ich erkunde gerne neue Gebiete. Oft alleine, denn so kann ich mich gut konzentrieren. Feedback, Ideen Austausch und offene und transparente Diskussionen ermögliche viel nützlichere Wissenschaft. Die Crowd-Intelligence und wie viel es hilft, wenn alle selbständig und aktiv mitdenken wird immer fort unterschätzt - denke ich, ihr?
 
-Ich hätte dennoch früher öffentlich gehen sollen. Die Crowd-Intelligence hätte so gut wie sicher geholfen.
-
-Denn die Mächtigen, die Wissenschaftler, die Firmen - sie verstanden nicht was sie tun. Sie wissen nun mehr. Aber verstehen tun sie es immer noch nicht. Kein Mensch versteht es.
+Errare humanum est - man scheint nicht verstanden zu haben was man tut. Man scheint nun mehr zu wissen. Ob man es versteht? Vermutlich versteht es kein Mensch.
 
 Mit freundlichen Grüssen
 Wito Traub
