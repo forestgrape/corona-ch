@@ -47,9 +47,9 @@ Wichtig ist und bleibt das Individuelle Verhalten von allen. Um Leben zu retten 
 Aus epidemiologischer Sicht ist das Hauptrisiko derzeit das Auftauchen von neuen Varianten insbesondere, da sich die Hinweise erhärten, dass die hohe Durchimpfungsrate das Entstehen und die Verbreitung von Fluchtmutation verschiedenster Art begünstigt. Um dem vorzubeugen ist es sinnvoll Masken bei Grossveranstaltungen und in grossen Unternehmen zu tragen.
 
 ### Die Einführung von 2G seitens der Behörden
-> 2G wurde vermutlich so hastig eingeführt, da der Wellenberg an vielen Orten überschritten ist. So kann man dann sagen 2G hätte gewirkt und dieses aufrechterhalten bzw. sogar ausdehnen um eine höhere Impfquote zu erreichen. 
+> 2G wurde vermutlich so hastig eingeführt, da der Wellenberg an vielen Orten auf dem Höhepunkt ist bzw. bereits überschritten ist. So kann man dann sagen 2G hätte gewirkt und dieses aufrechterhalten bzw. sogar ausdehnen um eine höhere Impfquote zu erreichen.
 
-> Nach meiner Einschätzung, bringt aus epidemiologischer Sicht eine höhere Impfquote bei Jungen unter Berücksichtigung von neuen Meta-Analysen nichts. Bei den älteren Semester ist eine höhere Impfquote ebenfalls nicht notwendig, da sich herauskristallisiert, dass frühzeitig eingesetzte Interferonen eine effektive Behandlung ist. Eine hohe Impfquote ist wie erwähnt auch mit Risiken für die Entstehung und die Verbreitung von Fluchtmutationen verbunden, dies insbesondere, da solche Fluchtmutation bereits im Umlauf zu sein scheinen, unter anderem die Omikron Variante.
+> Nach meiner Einschätzung, bringt aus epidemiologischer Sicht eine höhere Impfquote bei Jungen unter Berücksichtigung von neuen Studien und Meta-Analysen nichts. Bei den älteren Semester ist eine höhere Impfquote ebenfalls nicht zwingend, da sich herauskristallisiert, dass frühzeitig eingesetzte Interferone eine effektive Behandlung sind. Eine hohe Impfquote ist wie erwähnt auch mit Risiken für die Entstehung und die Verbreitung von Fluchtmutationen verbunden, dies insbesondere, da solche Fluchtmutation bereits im Umlauf zu sein scheinen, unter anderem die Omikron Variante.
 
 
 ## Mail an Schweizer Medien
