@@ -25,14 +25,18 @@ Der Inhalt ist chronologisch wobei die neusten Kapitel zu oberst sind.
 ---
 
 ## Einschätzung Omikron und Fehleinschätzung per Einschätzung 7.12.
-> Die Einschätzung vom 7.12. war eine Fehleinschätzung, da ich die Omikron Variante dramatisch unterschätzt hatte - ich dachte, dass diese eventuell mal in einigen Wochen einen relevanten Einfluss auf die Fallzahlen hat. Dem ist nicht so, die Fallzahlen bei der Omikron Variante explodieren richtiggehend. Der Anstieg der Omikron Variante scheint bereits den Rückgang der Deltawelle zu kompensieren. Da die Omikron Variante bald dominant sein dürfte, muss man mit einem starken Anstieg rechnen: 
-* In Südafrika, obwohl eigentlich vom Klima her nicht unbedingt Corona-Saison ist, sieht man den stärksten Anstieg aller bisherigen Wellen. 
+> Die Einschätzung vom 7.12. war eine Fehleinschätzung, da ich die Omikron Variante dramatisch unterschätzt hatte - ich dachte, dass diese eventuell mal in einigen Wochen einen relevanten Einfluss auf die Fallzahlen hat. Dem ist nicht so, die Fallzahlen bei der Omikron Variante explodieren richtiggehend. Der Anstieg der Omikron Variante scheint bereits den Rückgang der Deltawelle zu kompensieren. Da die Omikron Variante bald dominant sein dürfte, muss man mit einem starken Anstieg rechnen. 
+
+Folgende Beobachtungen deuten auf eine sehr hohe Übertragungsrate hin:
+* In Südafrika, obwohl eigentlich vom Klima her nicht unbedingt Corona-Saison ist, sieht man den stärksten Anstieg aller bisherigen Wellen. Ersichtlich z.B. von <https://www.economist.com/graphic-detail/2021/12/11/early-data-on-omicron-show-surging-cases-but-milder-symptoms> 
 * In Schottland scheinen sich die Zahlen alle 2 bis 3 Tage zu verdoppeln. 
-* Die Attack-Raten im Haushalt und bei sozialen Events scheinen bei Omikron viel höher zu sein wie bei den bisherigen Varianten. 
+  * <https://www.gov.scot/publications/omicron-scotland-evidence-paper/> 
+  * <https://www.bbc.com/news/uk-scotland-59610582>
+* Die Attack-Raten im Haushalt und bei sozialen Events scheinen bei Omikron viel höher zu sein wie bei den bisherigen Varianten.
+* Schätzung für die Schweiz im Tagesanzeiger: <https://www.tagesanzeiger.ch/omikron-duerfte-schon-in-wenigen-tagen-dominant-sein-in-der-schweiz-311492772289> (hinter Pay/Register-Wall jedoch sehr empfehlenswert und hat dieses vorzeitig Update motiviert.)
 
-Die erworbene Immunität scheint für Omikron kein Hindernis zu sein.
 
-> Erläuterungen zur Omikron Variante sind für die englische Hauptseite geplant.
+> Erläuterungen zur Omikron Variante sind für die englische Hauptseite geplant. Unter anderem scheint die erworbene Immunität scheint für Omikron kein Hindernis zu sein.
 
 
 
