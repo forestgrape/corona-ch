@@ -2,7 +2,7 @@
 # Corona Lage Einschätzungen
 Auf dieser Seite befinden sich Einschätzungen zur Corona-Situation in der Schweiz und oft auch für Regionen mit ähnlichen Gegebenheiten (z.B. Regionen in Deutschland). Die Seite ist eine Ergänzung zur Hauptseite <https://forestgrape.github.io/coronavirus>. Die Seite ist Open Source auf <https://github.com/forestgrape/corona-ch>.
 
-*Diese Seite wird bald entfernt werden. Ursprünglich war die Seite gedacht um gegen die Zertifikatspflicht zu argumentieren, was ein Fehler war da es sich als kontra-produktiv herausgestellt hat.*
+*Diese Seite wird bald entfernt werden. Ursprünglich war die Seite gedacht um gegen die Zertifikatspflicht zu argumentieren, was nichtsnutzig bzw. allenfalls sogar kontra-produktiv herausgestellt war.*
 
 *Ein paar Updates zur Omikron Variante werden noch aktualisiert.*
 
@@ -90,7 +90,6 @@ Eine durchgemachte Infektion bewirkt unter anderem die Bildung von B und T Zelle
 Die Spike-"mRNA" und Adenovirus-mit-Spike-DNA Impfungen bewirken die Bildung von B und T Zellen die Elemente des Spike Proteins erkennen. Die T Zellen erkennen viele Elemente des Spike Proteins (genannt Epitope) und erkennen daher meist auch mutierte Viren. In den ersten Monaten nach der Impfung hat es auch viele aktive B Zellen welche Antikörper produzieren. Ein Teil dieser Antikörper bindet an die Viren ausserhalb der Zellen. Wenn nun ein Virus mit Antikörper eine Zelle infiziert erkennen viele Zellen die Infektionen frühzeitig, was bewirkt, dass sich die Viren insgesamt weniger vermehren und die Zellen das Immune System alarmieren. Der nach aussen exponierte Teil des Coronavirus Spike-Proteins mutiert jedoch oft, daher  reduziert sich dieser Effekt bei Mutationen. Das Immun System produziert meist nur während einer begrenzten Zeit die Antikörper. Bei einem erneuten Pathogen Kontakt wird die Antikörperproduktion meist schnell wieder hochgefahren.
 
 
-> Alter Inhalt ist unter Github im File archiviert.md .
 
 
 ---
