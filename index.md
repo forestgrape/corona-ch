@@ -15,7 +15,7 @@ Hinweise:
 
 Der Inhalt ist chronologisch wobei die neusten Kapitel zu oberst sind.
 
-* [Einschätzung Omikron und Fehleinschätzung per Einschätzung 7.12.](#einschätzung-omikron-und-fehleinschätzung-per-einschätzung-712)
+* [Einschätzung Omikron und *Fehleinschätzung* per 7.12.](#einschätzung-omikron-und-fehleinschätzung-per-712)
 * [Einschätzung Epidemiologische Situation](#einschätzung-epidemiologische-situation)
   * [Mögliche Zusatz-Massnahmen um die Zahl der schweren Fälle zu reduzieren](#mögliche-zusatz-massnahmen-um-die-zahl-der-schweren-fälle-zu-reduzieren)
   * [Mögliche Risiken](#mögliche-risiken)
@@ -26,10 +26,10 @@ Der Inhalt ist chronologisch wobei die neusten Kapitel zu oberst sind.
 
 ---
 
-## Einschätzung Omikron und Fehleinschätzung per Einschätzung 7.12.
+## Einschätzung Omikron und *Fehleinschätzung* per 7.12.
 > Die Einschätzung vom 7.12. war eine Fehleinschätzung, da ich die Omikron Variante dramatisch unterschätzt hatte - ich dachte, dass diese eventuell mal in einigen Wochen einen relevanten Einfluss auf die Fallzahlen hat. Dem ist nicht so, die Fallzahlen bei der Omikron Variante explodieren richtiggehend. Der Anstieg der Omikron Variante scheint bereits den Rückgang der Deltawelle zu kompensieren. Da die Omikron Variante bald dominant sein dürfte, muss man mit einem starken Anstieg rechnen. 
 
-Folgende Beobachtungen deuten auf eine sehr hohe Übertragungsrate hin:
+Folgende Beobachtungen deuten auf eine sehr hohe Übertragungsrate der Omikron Variante hin:
 * In Südafrika, obwohl eigentlich vom Klima her nicht unbedingt Corona-Saison ist, sieht man den stärksten Anstieg aller bisherigen Wellen. Ersichtlich z.B. von <https://www.economist.com/graphic-detail/2021/12/11/early-data-on-omicron-show-surging-cases-but-milder-symptoms> 
 * In Schottland scheinen sich die Zahlen alle 2 bis 3 Tage zu verdoppeln. 
   * <https://www.gov.scot/publications/omicron-scotland-evidence-paper/> 
@@ -43,7 +43,7 @@ Folgende Beobachtungen deuten auf eine sehr hohe Übertragungsrate hin:
 
 
 ## Einschätzung Epidemiologische Situation
-7.12.21 (Einige Anpassung per 8.12.)
+7.12.21 (Einige Anpassung per 8.12.) // 11.12. Die Einschätzung unten ist *in wesentlichen Punkten falsch*, siehe [Einschätzung Omikron](#einschätzung-omikron-und-fehleinschätzung-per-712).
 Die Covid Fallzahlen sind gestiegen in den letzten Wochen. Beruhigenderweise nahmen bzw. nehmen die Spitaleinweisungen jedoch nicht sehr stark zu und bewegen sich auf einem tieferen Niveau wie Herbst 2020 und die nationale Spitalauslastung ist *nicht auf einem kritischen Niveau*. In einigen Spitälern und Intensivstationen sind temporäre Engpässe jedoch möglich bzw. schon vorhanden. In erster Linie um die Anzahl der schweren Fälle zu reduzieren und auch damit man die nationale Situation weiterhin unkritisch bleibt bzw. man das Infektionsgeschehen in Hinblick auf die Weihnachts- und Ferienzeit schneller beruhigen kann sind Masken bei Grossveranstaltungen sinnvoll. Statt der Quarantäne, Tests vor und nach Ankunft für Flugreisende ist eine gute Anpassung und man sollte die Quarantänen generell abschaffen. Die Spitaleinweisungen sind relativ tief, da im Herbst 2020 und im Sommer 2021 eine gute Immunität aufgebaut wurde (viel näher bei Schweden und England als bei Deutschland und Österreich, da letztere im Sommer 2021 2/3G Regeln hatten) und der Moderna Impfstoff gut und lange gegen schwere Infektionen schützt. Bei mit Biontech geimpften Altersheimen dürfte es einige Ausbrüche geben, da der Schutz bei Biotech stärker zurückgeht wie bei Moderna und bereits im Januar 2020 viele Impfungen durchgeführt wurden. Hier sind Reihentests vom Personal und den Bewohnern angebracht um die Übertragungen zu reduzieren und Fälle frühzeitig zu behandeln. So wie die Situation ausschaut ist der Höhepunkt der Welle bald überschritten: 10'000 gezählte Fälle pro Tag, wenn man nun berücksichtigt, dass sich grösstenteils nur jene testen die müssen (Risikogruppe oder für Zertifikat), kann man gut und gerne davon ausgehen, dass die tatsächlichen Fallzahlen weiter höher sind, es könnten 100'000 Fälle pro Tag oder mehr sein (höher wie im November 2020). Die Behörden kennen die Situation aufgrund der (nicht publizierten) Stichproben genauer. Wenn schätzungsweise eins bis zwei Million Menschen (nicht alle Personengruppen tragen gleich viel zur Verbreitung bei) die Immunität aufgefrischt haben, werden die Zahlen zurückgehen. Der nationale Rückgang dürfte bald eintreten, insbesondere mit zusätzlichen Masken an Grossveranstaltungen und da Wellen der Delta Variante generell schneller vorüber gehen. In einigen Kantonen der Ostschweiz wie Thurgau, St. Gallen und Graubünden scheint der Rückgang bereits eingesetzt zu haben sowohl bei den Spitaleinweisungen und bei den Fallzahlen (die Welle erreichte die Schweiz via Österreich und geht daher diesmal von Osten nach Westen). 
 
 Die Fallzahlen sind aufgrund der kontinuierlich verschärften Tests nicht sehr aussagekräftig. Am Wochenende vom 4./5. gingen zudem sehr viele die testen müssen nochmals in den Ausgang. Die Latte für die Spitaleinweisungen scheint in einigen Kantonen ebenfalls nach unten korrigiert worden zu sein. Am verlässlichsten sind die Belegungen der Intensivstationen und hier hat sich die Lage seit einiger Zeit stabilisiert bzw. in einigen Kantonen ist der Rückgang bereits eingetreten. Die Lage auf den Intensivstation ist nicht dramatisch jedoch in vielen Spitälern angespannt, auch da die Belegung seit über einem Jahr kontinuierlich hoch ist.
