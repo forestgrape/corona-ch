@@ -2,7 +2,9 @@
 # Corona Lage Einschätzungen
 Auf dieser Seite befinden sich Einschätzungen zur Corona-Situation in der Schweiz und oft auch für Regionen mit ähnlichen Gegebenheiten (z.B. Regionen in Deutschland). Die Seite ist eine Ergänzung zur Hauptseite <https://forestgrape.github.io/coronavirus>. Die Seite ist Open Source auf <https://github.com/forestgrape/corona-ch>.
 
-**Diese Seite wird bald entfernt werden. Ursprünglich war die Seite gedacht um gegen die Zertifikatspflicht zu argumentieren, was ein Fehler war da es sich als kontra-produktiv herausgestellt hat.**
+*Diese Seite wird bald entfernt werden. Ursprünglich war die Seite gedacht um gegen die Zertifikatspflicht zu argumentieren, was ein Fehler war da es sich als kontra-produktiv herausgestellt hat.*
+
+*Ein paar Updates zur Omikron Variante werden noch aktualisiert.*
 
 
 Hinweise:
