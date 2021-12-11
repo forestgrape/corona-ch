@@ -35,7 +35,7 @@ Folgende Beobachtungen deuten auf eine sehr hohe Übertragungsrate hin:
   * <https://www.gov.scot/publications/omicron-scotland-evidence-paper/> 
   * <https://www.bbc.com/news/uk-scotland-59610582>
 * Die Attack-Raten im Haushalt und bei sozialen Events scheinen bei Omikron viel höher zu sein wie bei den bisherigen Varianten. In Norwegen infizierten sich bei einem Weihnachtsessen wahrscheinlich über 70% der Teilnehmer (<https://www.fhi.no/en/news/2021/preliminary-findings-from-outbreak-investigation-after-christmas-party-in-o/>).
-* Schätzung für die Schweiz im Tagesanzeiger: <https://www.tagesanzeiger.ch/omikron-duerfte-schon-in-wenigen-tagen-dominant-sein-in-der-schweiz-311492772289> (hinter Pay/Register-Wall jedoch sehr empfehlenswert und hat dieses vorzeitig Update motiviert.)
+* Schätzung für die Schweiz im Tagesanzeiger: <https://www.tagesanzeiger.ch/omikron-duerfte-schon-in-wenigen-tagen-dominant-sein-in-der-schweiz-311492772289> (hinter Pay/Register-Wall jedoch sehr lesenswert und hat dieses vorzeitig Update motiviert.)
 
 
 > Erläuterungen zur Omikron Variante sind für die englische Hauptseite geplant. Unter anderem scheint die erworbene Immunität scheint für Omikron kein Hindernis zu sein.
