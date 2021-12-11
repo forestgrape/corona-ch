@@ -25,7 +25,14 @@ Der Inhalt ist chronologisch wobei die neusten Kapitel zu oberst sind.
 ---
 
 ## Einschätzung Omikron und Fehleinschätzung per Einschätzung 7.12.
-> Die Einschätzung vom 7.12. war eine Fehleinschätzung, da ich die Omikron Variante dramatisch unterschätzt hatte - ich dachte, dass diese eventuell mal in einigen Wochen einen relevanten Einfluss auf die Fallzahlen hat. Dem ist nicht so, die Fallzahlen bei der Omikron Variante explodieren richtiggehend. Der Anstieg der Omikron Variante scheint bereits den Rückgang der Deltawelle zu kompensieren. Da die Omikron Variante bald dominant sein dürfte, muss man mit einem extrem starken Anstieg rechnen, denn die erworbene Immunität scheint für Omikron kein Hindernis zu sein. In Südafrika, obwohl eigentlich vom Klima her nicht unbedingt Corona-Saison ist, sieht man den stärksten Anstieg aller bisherigen Wellen. In Schottland scheinen sich die Zahlen alle 2 bis 3 Tage zu verdoppeln. Die Attack-Raten im Haushalt und bei sozialen Events scheinen bei Omikron viel höher zu sein wie bei den bisherigen Varianten. [Erläuterungen zur Omikron Variante sind für die englische Hauptseite geplant]
+> Die Einschätzung vom 7.12. war eine Fehleinschätzung, da ich die Omikron Variante dramatisch unterschätzt hatte - ich dachte, dass diese eventuell mal in einigen Wochen einen relevanten Einfluss auf die Fallzahlen hat. Dem ist nicht so, die Fallzahlen bei der Omikron Variante explodieren richtiggehend. Der Anstieg der Omikron Variante scheint bereits den Rückgang der Deltawelle zu kompensieren. Da die Omikron Variante bald dominant sein dürfte, muss man mit einem starken Anstieg rechnen: 
+* In Südafrika, obwohl eigentlich vom Klima her nicht unbedingt Corona-Saison ist, sieht man den stärksten Anstieg aller bisherigen Wellen. 
+* In Schottland scheinen sich die Zahlen alle 2 bis 3 Tage zu verdoppeln. 
+* Die Attack-Raten im Haushalt und bei sozialen Events scheinen bei Omikron viel höher zu sein wie bei den bisherigen Varianten. 
+
+Die erworbene Immunität scheint für Omikron kein Hindernis zu sein.
+
+> Erläuterungen zur Omikron Variante sind für die englische Hauptseite geplant.
 
 
 
