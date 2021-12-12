@@ -23,6 +23,7 @@ Der Inhalt ist chronologisch wobei die neusten Kapitel zu oberst sind.
 * [Appendix](#appendix)
   * [Übertragung von SARS-CoV-2 in trockener Luft](#übertragung-von-sars-cov-2-in-trockener-luft)
   * [Immunität gegen SARS-CoV-2](#immunität-gegen-sars-cov-2)
+  * [Alter Inhalt](#alter-inhalt)
 
 ---
 
@@ -88,6 +89,10 @@ Eine durchgemachte Infektion bewirkt unter anderem die Bildung von B und T Zelle
 
 #### Impfung
 Die Spike-"mRNA" und Adenovirus-mit-Spike-DNA Impfungen bewirken die Bildung von B und T Zellen die Elemente des Spike Proteins erkennen. Die T Zellen erkennen viele Elemente des Spike Proteins (genannt Epitope) und erkennen daher meist auch mutierte Viren. In den ersten Monaten nach der Impfung hat es auch viele aktive B Zellen welche Antikörper produzieren. Ein Teil dieser Antikörper bindet an die Viren ausserhalb der Zellen. Wenn nun ein Virus mit Antikörper eine Zelle infiziert erkennen viele Zellen die Infektionen frühzeitig, was bewirkt, dass sich die Viren insgesamt weniger vermehren und die Zellen das Immune System alarmieren. Der nach aussen exponierte Teil des Coronavirus Spike-Proteins mutiert jedoch oft, daher  reduziert sich dieser Effekt bei Mutationen. Das Immun System produziert meist nur während einer begrenzten Zeit die Antikörper. Bei einem erneuten Pathogen Kontakt wird die Antikörperproduktion meist schnell wieder hochgefahren.
+
+
+### Alter Inhalt
+[Archivierter Inhalt](archiviert.md)
 
 
 
