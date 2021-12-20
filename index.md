@@ -14,7 +14,7 @@ Hinweise:
 
 Der Inhalt ist chronologisch wobei die neusten Kapitel zu oberst sind.
 
-* [Kommentar 20.12.21](#kommentar-201221)
+* [Update zu Omikron](#update-zu-omikron)
 * [Einschätzung zu Omikron und Korrektur der Einschätzung vom 7.12.](#einschätzung-zu-omikron-und-korrektur-der-einschätzung-vom-712)
 * [Einschätzung Epidemiologische Situation](#einschätzung-epidemiologische-situation)
   * [Mögliche Zusatz-Massnahmen um die Zahl der schweren Fälle zu reduzieren](#mögliche-zusatz-massnahmen-um-die-zahl-der-schweren-fälle-zu-reduzieren)
@@ -26,7 +26,8 @@ Der Inhalt ist chronologisch wobei die neusten Kapitel zu oberst sind.
   * [Alter Inhalt](#alter-inhalt)
 
 ---
-## Kommentar 20.12.21
+## Update zu Omikron 
+> 20.12.21
 Auf der englischen Hauptseite ist ein Kapitel zur Omikron Variante online: <https://forestgrape.github.io/coronavirus/2_biological/omicron.html>
 
 Zusammengefasst: Omikron scheint in wesentlichen Punkten anders zu sein als die bisherigen Varianten. Omikron infiziert schneller und teils andere Orte im Atemtrakt (mehr die Bronchien; weniger die Lungen und die Geruchs/Geschmackszellen).<br>
