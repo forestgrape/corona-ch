@@ -85,14 +85,14 @@ Aktuell führen sowohl eine teilweise unkoordinierte Rückreise (welche weitere 
 Obwohl die Uebertragungsrate in der Schweiz selbst deutlich unter 1 ist (wenn man die importierten Fälle subtrahiert) kann sich die Situation in den Spitälern zuspitzen, denn der Rückreiseverkehr ist nach wie vor hoch: täglich mehrere Dutzend Flieger aus Risikogebieten in Südeuropa (ganze Balkanregion aber auch Türkei, Griechenland und einzelne Regionen in Spanien/Italien) davon etwa ein Dutzend aus Nordmazedonien und Kosovo). Linderung bringen kann eine Unterstützung vor Ort und allenfalls das Testen von ankommenden direkt bei Flugzeugausstieg (ausserhalb der Flughafenhallen) bzw beim Abflug. Eine Empfehlung für Reisende sich ein paar Tage nach Ankunft per Antigen Schnelltest zu testen (und bei einem positiven Test entsprechend vorsichtig zu sein) kann ebenfalls helfen.
 
 #### Situation in Südosteuropa
-Folgendes hat sich abgespielt: Die Fallzahlen waren sehr tief (im Kosovo nahe bei Null) im Frühsommer bevor die Touristen ankamen. Somit wurden die Massnahmen gelockert bzw. aufgehoben. Mit den Touristen und den Partyveranstaltungen sind die Zahlen explodiert. Fast überall Südosteuropa sind die Fallzahlen aktuell sehr hoch oder am steigen. Weiter haben einige Länder in Südosteuropa bisher nur beschränkt Impfstoffe erhalten und daher sind viele Risikopersonen exponiert.
+Folgendes hat sich abgespielt: Die Fallzahlen waren sehr tief (im Kosovo nahe bei Null) im Frühsommer bevor die Touristen ankamen. Somit wurden die Massnahmen gelockert bzw. aufgehoben. Mit den Touristen und den vielen sozialen Anlässen sind die Zahlen explodiert. Fast überall Südosteuropa sind die Fallzahlen aktuell sehr hoch oder am steigen. Weiter haben einige Länder in Südosteuropa bisher nur beschränkt Impfstoffe erhalten und daher sind viele Risikopersonen exponiert.
 
 > Aus praktischen Gründen liessen sich wahrscheinlich einige Touristen impfen und wähnten sich dann da die Schutzwirkung betreffend Uebertragung anfänglich überschätzt wurde in falscher Sicherheit. Vor Reisen ist es empfehlenswert sich über Krankheiten und Präventionsmöglichkeiten inklusive Impfungen zu informieren/beraten zu lassen und deren Nutzen, Risiken und Limiten zu kennen. Bei den Covid "mRNA"/Adenovirus Impfungen ist man gut gegen schwere Verläufe geschützt, man kann andere jedoch weiterhin infizieren und sollte daher, insbesondere wenn symptomatisch, vorsichtig sein.
 
 #### Auswirkungen auf die Schweiz
-Die Schweiz ist mit den derzeitigen Covid Hotspots Kosovo und Nord Mazedonien personell eng verflochten. Einerseits reisen viele in der Schweiz wohnenden in den Sommerferien in das Land ihrer Vorfahren bzw. ihr Geburtland und andererseits verbringen Pensionäre oft den gesamten Sommer im Süden. Zum Ferienende sind viele zurückgereist. Momentan ist die prekäre Covid- und Spitalsituation möglicherweise ein weiterer Grund.
+Die Schweiz ist mit den derzeitigen Covid Hotspots Kosovo und Nord Mazedonien personell eng verflochten. Einerseits reisen viele in der Schweiz wohnenden in den Sommerferien in das Land ihrer Vorfahren bzw. ihr Geburtsland und andererseits verbringen Pensionäre oft den gesamten Sommer im Süden. Zum Ferienende sind viele zurückgereist. Momentan ist die prekäre Covid- und Spitalsituation möglicherweise ein weiterer Grund.
 Der Reiseverkehr in die Schweiz ist weiterhin hoch mit über 40 Fliegern täglich (ähnliche Situation wahrscheinlich in andere Zentral/Nordeuropäische Länder). Reisen mit einer Covid Infektion sind ein Risiko da: 
-* Im Flugzeug atmet man aufgrund der geringeren Luftdichte tiefer und die Luft ist sehr trocken. Je nach Flugzeug ist der Lüftungsstrom so eingestellt, dass die Luft von vorne nach hinten geht: ein Covid Fall kann dann problemlos duzende weitere Personen anstecken (beobachtet bei SARS-CoV-1). Bei Car-Reisen ist die lange Reisedauer eine Risikofaktor.
+* Im Flugzeug atmet man aufgrund der geringeren Luftdichte tiefer und die Luft ist sehr trocken. Je nach Flugzeug ist der Lüftungsstrom so eingestellt, dass die Luft von vorne nach hinten geht: ein Covid Fall kann dann problemlos Dutzende weitere Personen anstecken (beobachtet bei SARS-CoV-1). Bei Car-Reisen ist die lange Reisedauer eine Risikofaktor.
 * Eine stressige Reise ist alles andere als ideal für eine gute Prognose. Das tiefere atmen erhöht nicht nur das Risiko andere anzustecken, es bewirkt auch dass sich die Viren in der eigenen Lunge verteilen.
 
 => Wenn man kürzlich per Flugzeug gereist ist es sinnvoll sich zu testen, insbesondere bei einer Reise aus einem Risikoland. Ideal ist wenn sich Patienten vor Ort auskurieren können und falls eine Rückreise notwendig ist, ist ein adäquater Transport wichtig.
@@ -173,7 +173,7 @@ Die Massnahmen zu optimieren ist jedoch sinnvoll. Eine Möglichkeit ist dies reg
 ## Einschätzung im Herbst 2020
 > ursprünglich per 31.10.2020 als Email gesendet. Per 28.11.21/4.12. online gestellt. 
 > 
-> Die Namen sind mit "Damen und Herren" anonymisiert. Die Adressaten waren unter anderem mehrere Mitglieder in leitenden Position der Schweizer Covid Taskforce.
+> Die Namen sind mit "Damen und Herren" anonymisiert.
 
 """
 Covid-19 Situation Schweiz: Schätzung 8000 Fälle vor 4 Wochen (Betreff)
