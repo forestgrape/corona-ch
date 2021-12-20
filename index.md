@@ -14,7 +14,8 @@ Hinweise:
 
 Der Inhalt ist chronologisch wobei die neusten Kapitel zu oberst sind.
 
-* [Einschätzung Omikron und *Fehleinschätzung* per 7.12.](#einschätzung-omikron-und-fehleinschätzung-per-712)
+* [Kommentar 20.12.21](#kommentar-201221)
+* [Einschätzung zu Omikron und Korrektur der Einschätzung vom 7.12.](#einschätzung-zu-omikron-und-korrektur-der-einschätzung-vom-712)
 * [Einschätzung Epidemiologische Situation](#einschätzung-epidemiologische-situation)
   * [Mögliche Zusatz-Massnahmen um die Zahl der schweren Fälle zu reduzieren](#mögliche-zusatz-massnahmen-um-die-zahl-der-schweren-fälle-zu-reduzieren)
   * [Mögliche Risiken](#mögliche-risiken)
@@ -25,8 +26,19 @@ Der Inhalt ist chronologisch wobei die neusten Kapitel zu oberst sind.
   * [Alter Inhalt](#alter-inhalt)
 
 ---
+## Kommentar 20.12.21
+Auf der englischen Hauptseite ist ein Kapitel zur Omikron Variante online: <https://forestgrape.github.io/coronavirus/2_biological/omicron.html>
 
-## Einschätzung Omikron und *Fehleinschätzung* per 7.12.
+Zusammengefasst: Omikron scheint in wesentlichen Punkten anders zu sein als die bisherigen Varianten. Omikron infiziert schneller und teils andere Orte im Atemtrakt (mehr die Bronchien; schlechter die Lungen und die Geruchs/Geschmackszellen).<br>
+Spekulativ denkbar ist, dass Omikron vermehrt Zellen des Immunsystems infiziert. Wenn dies der Fall wäre, könnten Antikörper gegen das Spike-Protein die Wahrscheinlichkeit erhöhen, dass man sich infiziert denn diese erhöhen die Chance das Fresszellen die Viren aufnehmen. Dies könnte auch die ausserordentlich  Übertragungsraten erklären: Normalerweise kann ein Virus nur infizieren, wenn es zufällig an eine zu passende Zelle trifft - etwa so wie wenn man Bälle ungezielt wirft und hofft das einer mals ins Tor geht. Hingegen wenn ein Virus Fresszellen infizieren kann, ist die Infektionswahrscheinlichkeit viel höher, denn Fresszellen patrouillieren den Atemtrakt und nehmen die Viren auf - dass das Virus sich nicht selbständig bewegen kann ist dann egal denn die Immunzellen bewegen sich und nehmen gezielt Viren auf. Sozusagen ist jeder aufsammelte Ball ein Treffer.
+
+Während obige Theorie mit dem infizieren von Immunzellen Spekulation ist, ist die bessere Übertragung inzwischen gut belegt und auch dass Omikron gut Personen mit Antikörpern infizieren kann. Wiederum unklar hingegen ist, ob Omikron weniger Lungenentzündungen macht und wie gut der Impfschutz gegen schwere Erkrankungen ist (ein Immunschutz gegen Lungenentzündungen dürfte vorhanden sein). Die höhere Übertragungsrate von Omikron kann jedoch selbst dann zu vielen schweren Krankheitsfällen führen wenn Omikron individuell betrachtet weniger virulent ist. Denn eine höhere Übertragungsrate führt zu einem exponentiellen Anstieg an Fällen, während leichtere Erkrankungen nur zu einer lineare Reduktion führen. Dies wird in folgendem Artikel der NZZ gut erklärt: "Warnung vor Denkfehler bei der Omikron-Variante: Die Kombination von schnellerer Verbreitung und tieferer Spitalquote belastet das Gesundheitswesen stark – dafür sorgt die Mathematik" <https://www.nzz.ch/schweiz/warnung-vor-denkfehler-zur-omikron-variante-die-kombination-von-schnellerer-verbreitung-und-tieferer-spitalquote-belastet-das-gesundheitswesen-stark-dafuer-sorgt-die-mathematik-ld.1659985>
+
+
+
+
+## Einschätzung zu Omikron und Korrektur der Einschätzung vom 7.12.
+11./12.12.2021
 > Die Einschätzung vom 7.12., dass die Fallzahlen sinken werden, war eine Fehleinschätzung, da ich die Omikron Variante dramatisch unterschätzt hatte - ich dachte, dass diese eventuell mal in einigen Wochen einen relevanten Einfluss auf die Fallzahlen hat. Dem ist nicht so, die Fallzahlen bei der Omikron Variante explodieren richtiggehend. Der Anstieg der Omikron Variante scheint bereits den Rückgang der Deltawelle zu kompensieren. Da die Omikron Variante bald dominant sein dürfte, muss man mit einem starken Anstieg rechnen. 
 
 Folgende Beobachtungen deuten auf eine sehr hohe Übertragungsrate der Omikron Variante hin:
@@ -35,7 +47,7 @@ Folgende Beobachtungen deuten auf eine sehr hohe Übertragungsrate der Omikron V
   * <https://www.gov.scot/publications/omicron-scotland-evidence-paper/> 
   * <https://www.bbc.com/news/uk-scotland-59610582>
 * Die Attack-Raten im Haushalt und bei sozialen Events scheinen bei Omikron viel höher zu sein wie bei den bisherigen Varianten. In Norwegen infizierten sich bei einem Weihnachtsessen wahrscheinlich über 70% der Teilnehmer (<https://www.fhi.no/en/news/2021/preliminary-findings-from-outbreak-investigation-after-christmas-party-in-o/>).
-* Schätzung für die Schweiz im Tagesanzeiger: <https://www.tagesanzeiger.ch/omikron-duerfte-schon-in-wenigen-tagen-dominant-sein-in-der-schweiz-311492772289> (hinter Pay/Register-Wall jedoch sehr lesenswert und hat dieses vorzeitig Update motiviert.)
+* Schätzung für die Schweiz im Tagesanzeiger: <https://www.tagesanzeiger.ch/omikron-duerfte-schon-in-wenigen-tagen-dominant-sein-in-der-schweiz-311492772289> (hinter Pay/Register-Wall jedoch lesenswert und hat dieses vorzeitige Update mit motiviert.)
 
 
 > Erläuterungen zur Omikron Variante sind für die englische Hauptseite geplant. Unter anderem scheint die erworbene Immunität scheint für Omikron kein Hindernis zu sein.
@@ -87,7 +99,7 @@ Klimaanlagen trocknen die Luft aus. Trockene Luft erhöht die Zahl von schweren 
 Eine durchgemachte Infektion bewirkt unter anderem die Bildung von B und T Zellen welche das Spike und viele weitere Bestandteile des Virus erkennen. Durch diese breite Pallette an Erkennungsmerkmalen erkennen einige der Zellen - insbesondere einige der T Zellen - nahezu immer auch mutierte Viren. T Zellen verbleiben bzw. verteilen sich im Gewebe des Atemtrakts (inkl. Lugengewebe) und können eine Infektion im gesamten Atemtrakt meist frühzeitig erkennen und eindämmen. T Zellen die lokal im Gewebe sind heissen in der Fachliteratur "Tissue resident T cells". Zum Teil erkennen T Zellen auch die endemischen Coronaviren. Das umgekehrte gilt ebenfalls: Manche T Zellen von endemischen Coronaviren erkennen Proteine von SARS-CoV-2, was dazu führt das manche Leute gar nicht an SARS-CoV-2 erkranken (Das Erkennen von Pathogenen von T Zellen und B Zellen ist sehr individuell, was mit ein Grund ist, dass SARS-CoV-2 Infektionen sehr unterschiedlich verlaufen).
 
 #### Impfung
-Die Spike-"mRNA" und Adenovirus-mit-Spike-DNA Impfungen bewirken die Bildung von B und T Zellen die Elemente des Spike Proteins erkennen. Die T Zellen erkennen viele Elemente des Spike Proteins (genannt Epitope) und erkennen daher meist auch mutierte Viren. In den ersten Monaten nach der Impfung hat es auch viele aktive B Zellen welche Antikörper produzieren. Ein Teil dieser Antikörper bindet an die Viren ausserhalb der Zellen. Wenn nun ein Virus mit Antikörper eine Zelle infiziert erkennen viele Zellen die Infektionen frühzeitig, was bewirkt, dass sich die Viren insgesamt weniger vermehren und die Zellen das Immune System alarmieren. Der nach aussen exponierte Teil des Coronavirus Spike-Proteins mutiert jedoch oft, daher  reduziert sich dieser Effekt bei Mutationen. Das Immun System produziert meist nur während einer begrenzten Zeit die Antikörper. Bei einem erneuten Pathogen Kontakt wird die Antikörperproduktion meist schnell wieder hochgefahren.
+Die Spike-"mRNA" und Adenovirus-mit-Spike-DNA Impfungen bewirken die Bildung von B und T Zellen die Elemente des Spike Proteins erkennen. Die T Zellen erkennen viele Elemente des Spike Proteins (genannt Epitope) und erkennen daher meist auch mutierte Viren. In den ersten Monaten nach der Impfung hat es auch viele aktive B Zellen welche Antikörper produzieren. Ein Teil dieser Antikörper bindet an die Viren ausserhalb der Zellen. Wenn nun ein Virus mit Antikörper eine Zelle infiziert erkennen viele Zellen die Infektionen frühzeitig, was bewirkt, dass sich die Viren insgesamt weniger vermehren und die Zellen das Immune System alarmieren. Der nach aussen exponierte Teil des Coronavirus Spike-Proteins mutiert jedoch oft, daher  reduziert sich dieser Effekt bei Mutationen. Das Immun System produziert meist nur während einer begrenzten Zeit die Antikörper. Bei einem erneuten Pathogen Kontakt wird die Antikörperproduktion meist schnell wieder hochgefahren - die Wirkungen, hängen davon ab, wie sich die Viren in der Zwischenzeit mutiert haben.
 
 
 ### Alter Inhalt
