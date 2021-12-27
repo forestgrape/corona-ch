@@ -14,6 +14,7 @@ Hinweise:
 
 Der Inhalt ist chronologisch wobei die neusten Kapitel zu oberst sind.
 
+* [Entschuldigung und Baff](#entschuldigung-und-baff)
 * [Update zu Omikron](#update-zu-omikron)
 * [Einschätzung zu Omikron und Korrektur der Einschätzung vom 7.12. zu einer Fehleinschätzung](#einschätzung-zu-omikron-und-korrektur-der-einschätzung-vom-712-zu-einer-fehleinschätzung)
 * [Einschätzung Epidemiologische Situation](#einschätzung-epidemiologische-situation)
@@ -26,6 +27,18 @@ Der Inhalt ist chronologisch wobei die neusten Kapitel zu oberst sind.
   * [Immunität gegen SARS-CoV-2](#immunität-gegen-sars-cov-2)
 
 ---
+## Entschuldigung und Baff
+>27.12.
+
+> Vor rund 3 Wochen machte ich diese Seite mehr bekannt. Ich möchte mich für die Art und Weise entschuldigen. Mit ein wenig Distanz, bin ich inzwischen selbst baff darüber, insbesondere über ein Mail an einige Medien(schaffende). Ich schrieb aus dem Bauch heraus, was ich fand tönt gut und zugleich ein Bisschen verrückt. Ein Bisschen verrückt fand ich ganz gut, denn dann nimmt man nicht alles für bare Münze sondern hinterfragt es. Denn kritisch hinterfragen finde ich gut und insbesondere bei dieser Seite über Corona.
+> 
+> Ich war damals in einem Schockzustand aufgrund der Coronapolitik in der Schweiz. Denn die ursprünglich Einführung von 2G in Bereichen, welche vor allem Junge betreffen, ergab/ergibt aus (meiner) epidemiologischer Sicht keinen Sinn. Wie man Junge zur Impfung drängen wollte/will bzw. ausschliesst und wie man die Gesselschaft nach dem Impfstatus einteilt hatte mich schockiert. Auch dass die Spitalsituation von offizieller Seite verzerrt und viel zu dramatisch dargestellt wurde, hätte ich so nicht erwartet.
+
+> Ich möchte mich noch entschuldigen, dass Spekulationen über Impfnebenwirkungen auf der englischen Hauptseite viel zu dramatisch formuliert waren. Diese waren zwar als Spekulationen gekennzeichnet, jedoch hat der Kommentar "ich wünschte ich wäre falsch gelegen" auf dieser Seite dies gleich wieder relativiert. Dieser Kommentar bezog sich zwar auf die Impfungen, denn es scheint nach meinem Eindruck mehr unerwünschte Wirkungen zu geben, wie ursprünglich gedacht und auch wie derzeit von offizieller Seite publiziert sind. *Nichtsdestotrotz waren die Formulierungen insbesondere in dieser Kombination viel zu dramatisch.* Es gibt so vieles im Leben, das Risiko reicher ist ... Ich hätte mir dies besser überlegen müssen. Auf der englischen Hauptseite sind einige Korrekturen bzw. weitere Ausführungen schon vorhanden bzw. kommen noch.
+
+> Feedback, Verbesserungsvorschläge sowie weitere Hilfe ist immer willkommen(witotraub@gmail.com).
+
+
 ## Update zu Omikron 
 > 20.12.21 (25.12. hinzugefügt dass Laborexperimente die bestimmen welche Zellen Omikron infiziert ermöglichen die Krankheitsverläufe besser zu verstehen.)
 Auf der englischen Hauptseite ist ein Kapitel zur Omikron Variante online: <https://forestgrape.github.io/coronavirus/2_biological/omicron.html>
