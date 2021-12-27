@@ -1,22 +1,20 @@
 
 ## Mail an Schweizer Medien
-> gesendet am 6.12.2021 (in der hier publizierten Version sind einige Formulierungen ein paarmal angepasst)
+> gesendet am 6.12.2021 (in der hier publizierten Version sind einige Formulierungen ein mehrmals angepasst. 27.12. die ursprünglichen hatte ich ohne viel Nachdenken in einem Schockzustand über die Schweizer Covid Politik geschrieben. Inzwischen bin ich selbst baff darüber. Den genauen Zusammenhang von Formulierungen kenne ich teils erst inzwischen ...)
 
 Werte Medienschaffende, Werte Journalisten, Werte Damen und Herren
 
 Ich bin ein sprichwörtlicher (sprichwörtlicher, nicht typischer) ewiger Student und habe ganz ganz viel, wirklich ganz ganz ganz viel auf Corona gearbeitet und ne Homepage erstellt:
 https://forestgrape.github.io/coronavirus/
 
-Anfangs, habe ich mein Seite dann Wissenschaftlern geschickt. Weil ja weil manchmal finde ich, ich habe gute Ideen, aber ganz so sicher war ich mir dann doch nicht, aber die Wissenschaftler können dies dann ja beurteilen. 
+Anfangs, habe ich mein Seite dann Wissenschaftlern geschickt. Wei ich war mir ziemlich sicher dass Covid "trocken" in der Luft übertragen wird, aber ganz so sicher war ich mir dann doch nicht, aber die Wissenschaftler können dies dann ja beurteilen. 
 
 Ende Oktober 2020 fand ich mal die Fallzahlen sind ein Bisschen hoch. Das muss nach Bern! und ich wollte eh da arbeiten. 
 
-Ende August 2021 fand ich die Zertifikatspflicht unnötig, besorgt dass junge Personen zum Impfen gedrängt werden und auch beleidigt und enttäuscht, dass mir fast niemand der Behörden antwortete. Naja zwei Antworten erhielt ich, die Sorgen der Bürger werden ernst genommen. So erstellte ich aufgeregt, wütend und besorgt nochmal ne Seite:
+Ende August 2021 fand ich die Zertifikatspflicht unnötig, besorgt dass junge Personen zum Impfen gedrängt werden und auch beleidigt und enttäuscht, dass mir fast niemand der Behörden antwortete. Naja zwei Antworten erhielt ich, die Sorgen der Bürger werden ernst genommen. So erstellte ich aufgeregt und besorgt nochmal ne Seite:
 https://forestgrape.github.io/corona-ch/
 
 > Im Nachhinein habe ich mich jedoch im Kommunizieren in vielerlei Hinsicht saudumm angestellt z.B. anstatt obige Seite zur erstellen, hätte ich vielleicht mehr nachhaken sollen.
-
-Antworten erhielt ich inzwischen. In ein paar Punkte wünschte/hoffe ich, ich wäre/bin falsch.
 
 Mich fasziniert die Natur und ich erkunde gerne neue Gebiete. Oft alleine, denn so kann ich mich gut konzentrieren. Feedback, Ideen Austausch und offene und transparente Diskussionen sind jedoch essentiell für ne nützliche Wissenschaft. Die Crowd-Intelligence - also wie viel es hilft, wenn alle selbständig und aktiv mitdenken - wird immer fort unterschätzt - denke ich, ihr?
 
