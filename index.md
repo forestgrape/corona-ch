@@ -30,7 +30,7 @@ Der Inhalt ist chronologisch wobei die neusten Kapitel zu oberst sind.
 ## Entschuldigung und Baff
 >27.12.
 
-> Vor rund 3 Wochen machte ich diese Seite mehr bekannt. Ich möchte mich für die Art und Weise entschuldigen. Mit ein wenig Distanz, bin ich inzwischen selbst baff darüber, insbesondere über ein Mail an einige Medien(schaffende). Ich schrieb aus dem Bauch heraus, was ich fand tönt gut und zugleich ein Bisschen verrückt. Ein Bisschen verrückt fand ich ganz gut, denn dann nimmt man nicht alles für bare Münze sondern hinterfragt es. Denn kritisch hinterfragen finde ich gut und insbesondere bei dieser Seite über Corona.
+> Vor rund 3 Wochen machte ich diese Seite mehr bekannt. Ich möchte mich für die Art und Weise entschuldigen. Mit ein wenig Distanz, bin ich inzwischen selbst baff darüber, insbesondere über ein Mail an einige Medien(schaffende) - einiges ist mir erst in den letzten Tagen bewusst geworden. Ich schrieb aus dem Bauch heraus, was ich fand tönt gut und zugleich ein Bisschen verrückt. Ein Bisschen verrückt fand ich ganz gut, denn dann nimmt man nicht alles für bare Münze sondern hinterfragt es. Denn kritisch hinterfragen finde ich gut und insbesondere bei dieser Seite über Corona.
 > 
 > Ich war damals in einem Schockzustand aufgrund der Coronapolitik in der Schweiz. Denn die damalige Einführung von 2G in Bereichen, welche vor allem Junge betreffen, ergab/ergibt aus (meiner) epidemiologischer Sicht keinen Sinn. Wie man Junge zur Impfung drängen wollte/will bzw. ausschliesst und wie man die Gesselschaft nach dem Impfstatus einteilt hatte mich schockiert. Auch dass die Spitalsituation von offizieller Seite verzerrt und viel zu dramatisch dargestellt wurde, hätte ich so nicht erwartet.
 
