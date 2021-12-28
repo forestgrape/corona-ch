@@ -31,7 +31,7 @@ Feedback, Verbesserungsvorschläge sowie weitere Hilfe ist immer willkommen.
 ---
 
 ## Entschuldigung und Baff
->27.12.
+>27./28.12.
 
 > Vor rund 3 Wochen machte ich diese Seite mehr bekannt. Viele Formulierungen waren nicht adäquat und ich entschuldige. Mit ein wenig Distanz, bin ich inzwischen selbst baff darüber. Ich schrieb aus dem Bauch heraus, was ich fand tönt gut und zugleich ein Bisschen verrückt. Ein Bisschen verrückt fand ich ganz gut, denn dann nimmt man nicht alles für bare Münze sondern hinterfragt es. Denn kritisch hinterfragen finde ich gut - insbesondere bei dieser Seite über Corona.
 >
