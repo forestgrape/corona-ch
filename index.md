@@ -14,6 +14,8 @@ Hinweise:
 
 Der Inhalt ist chronologisch wobei die neusten Kapitel zu oberst sind.
 
+Feedback, Verbesserungsvorschläge sowie weitere Hilfe ist immer willkommen.
+
 * [Entschuldigung und Baff](#entschuldigung-und-baff)
 * [Update zu Omikron](#update-zu-omikron)
 * [Einschätzung zu Omikron und Korrektur der Einschätzung vom 7.12. zu einer Fehleinschätzung](#einschätzung-zu-omikron-und-korrektur-der-einschätzung-vom-712-zu-einer-fehleinschätzung)
@@ -27,16 +29,16 @@ Der Inhalt ist chronologisch wobei die neusten Kapitel zu oberst sind.
   * [Immunität gegen SARS-CoV-2](#immunität-gegen-sars-cov-2)
 
 ---
+
 ## Entschuldigung und Baff
 >27.12.
 
-> Vor rund 3 Wochen machte ich diese Seite mehr bekannt. Ich möchte mich für die Art und Weise entschuldigen. Mit ein wenig Distanz, bin ich inzwischen selbst baff darüber, insbesondere über einige irreführende Formulierungen und ein Mail an einige Medien(schaffende) - einiges ist mir erst in den letzten Tagen bewusst geworden. Ich schrieb aus dem Bauch heraus, was ich fand tönt gut und zugleich ein Bisschen verrückt. Ein Bisschen verrückt fand ich ganz gut, denn dann nimmt man nicht alles für bare Münze sondern hinterfragt es. Denn kritisch hinterfragen finde ich gut und insbesondere bei dieser Seite über Corona.
-> 
-> Ich war damals in einem Schockzustand aufgrund der Coronapolitik in der Schweiz. Denn die damalige Einführung von 2G in Bereichen, welche vor allem Junge betreffen, ergab/ergibt aus (meiner) epidemiologischer Sicht keinen Sinn. Wie man Junge zur Impfung drängen wollte/will bzw. ausschliesst und wie man die Gesselschaft nach dem Impfstatus einteilt hatte mich schockiert. Auch dass die Spitalsituation von offizieller Seite verzerrt und viel zu dramatisch dargestellt wurde, hätte ich so nicht erwartet.
+> Vor rund 3 Wochen machte ich diese Seite mehr bekannt. Viele Formulierungen waren nicht adäquat und ich entschuldige. Mit ein wenig Distanz, bin ich inzwischen selbst baff darüber. Ich schrieb aus dem Bauch heraus, was ich fand tönt gut und zugleich ein Bisschen verrückt. Ein Bisschen verrückt fand ich ganz gut, denn dann nimmt man nicht alles für bare Münze sondern hinterfragt es. Denn kritisch hinterfragen finde ich gut - insbesondere bei dieser Seite über Corona.
+>
+> Ich war damals in einem Schockzustand aufgrund der Coronapolitik in der Schweiz. Denn die damalige Einführung von 2G in Bereichen, welche vor allem Junge betreffen, ergab/ergibt aus (meiner) epidemiologischer Sicht keinen Sinn. Wie man Junge zur Impfung drängen wollte/will bzw. ausschliesst und wie man die Gesselschaft nach dem Impfstatus einteilt hatte mich schockiert. Auch dass die Spitalsituation von offizieller Seite verzerrt und viel zu dramatisch dargestellt wurde, hätte ich so nicht erwartet. Alles in allem kam ich zum Schluss, dass die Zertifikate in erster Linie dazu dienten den Impfdruck zu erhöhen bis hin zu einer Art Impfpflicht. 
 
-> Ich möchte mich noch entschuldigen, dass Spekulationen über Impfnebenwirkungen auf der englischen Hauptseite viel zu dramatisch formuliert waren. Diese waren zwar als Spekulationen gekennzeichnet, jedoch hat der Kommentar "ich wünschte ich wäre falsch gelegen" auf dieser Seite dies gleich wieder relativiert. Dieser Kommentar bezog sich zwar auf die Impfungen, denn es scheint nach meinem Eindruck mehr unerwünschte Wirkungen zu geben, wie ursprünglich gedacht und auch wie derzeit von offizieller Seite publiziert sind. *Nichtsdestotrotz waren die Formulierungen insbesondere in dieser Kombination viel zu dramatisch.* Es gibt so vieles im Leben, das Risiko reicher ist ... Ich hätte mir dies besser überlegen müssen. Auf der englischen Hauptseite sind einige Korrekturen bzw. weitere Ausführungen schon vorhanden bzw. kommen noch.
+> Ich möchte mich noch entschuldigen, dass Spekulationen über Impfnebenwirkungen auf der englischen Hauptseite viel zu dramatisch formuliert waren insbesondere in Kombination mit dieser Seite. Es scheint nach meinem Eindruck zwar mehr unerwünschte Wirkungen zu geben, wie ursprünglich gedacht und auch wie derzeit von offizieller Seite publiziert sind. *Die Formulierungen insbesondere in dieser Kombination waren jedoch viel zu dramatisch.* Es gibt so vieles im Leben, das Risiko reicher ist ... In Hinblick auf Boosterimpfungen, wo der Nutzen viel kleiner ist wie bei den Erstimpfungen, wäre eine offenere Kommunikation wichtig. Allenfalls entfällt dies jedoch, da der Nutzen bei Omikron möglicherweise kaum bzw. nicht vorhanden ist. Auf der englischen Hauptseite sind einige Korrekturen bzw. weitere Ausführungen vorhanden.
 
-> Feedback, Verbesserungsvorschläge sowie weitere Hilfe ist immer willkommen(witotraub@gmail.com).
 
 
 ## Update zu Omikron 
