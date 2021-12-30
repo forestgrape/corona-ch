@@ -16,6 +16,7 @@ Der Inhalt ist chronologisch wobei die neusten Kapitel zu oberst sind.
 
 Feedback, Verbesserungsvorschläge sowie weitere Hilfe ist immer willkommen.
 
+* ["Pinned Tweet" Omikron](#pinned-tweet-omikron)
 * [Entschuldigung und Baff](#entschuldigung-und-baff)
 * [Update zu Omikron](#update-zu-omikron)
 * [Einschätzung zu Omikron und Korrektur der Einschätzung vom 7.12. zu einer Fehleinschätzung](#einschätzung-zu-omikron-und-korrektur-der-einschätzung-vom-712-zu-einer-fehleinschätzung)
@@ -31,8 +32,8 @@ Feedback, Verbesserungsvorschläge sowie weitere Hilfe ist immer willkommen.
 ---
 
 ## "Pinned Tweet" Omikron
-> ab Dezember 21, (gepinned am 29.12.21)
-*Omikron ist anders als die bisherigen Varianten und Omikron auf die leichte Schulter zu nehmen ist riskant. Umsichtiges und rücksichtsvolles Verhalten scheint daher derzeit besonders angebracht. Wie auch das Immune System nicht allzu stark anderweitig belasten und allgemein der Gesundheit Sorge zu tragen z.B. mit genügend und regelmässigem Schlaf.*
+> ab Dezember 21, (gepinned am 29.12.21, angepasst 30.12.)
+*Omikron ist anders als die bisherigen Varianten. Omikron überträgt sich ausserordentlich gut trotz oder gerade bei Antikörpern gegen das Spike-Protein. Welche Krankheitsbilder Omikron auslösen kann ist noch nicht klar. Alles in allem ist es angebracht Omikron ernst zu nehmen. Aufgrund der hohen Übertragungsrate ist eine Infektion (zumindest mittelfristig) bei vielen wahrscheinlich und nicht einfach zu vermeiden. Umsichtiges und rücksichtsvolles Verhalten scheint daher derzeit besonders angebracht. Wie auch das Immune System nicht allzu stark anderweitig belasten und allgemein der Gesundheit Sorge zu tragen z.B. mit genügend und regelmässigem Schlaf.*
 
 
 
