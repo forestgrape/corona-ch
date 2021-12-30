@@ -33,7 +33,7 @@ Feedback, Verbesserungsvorschläge sowie weitere Hilfe ist immer willkommen.
 
 ## "Pinned Tweet" Omikron
 > gepinned am 29.12.21, angepasst 30.12.
-*Omikron ist anders als die bisherigen Varianten. Omikron überträgt sich ausserordentlich gut trotz oder gerade bei Antikörpern gegen das Spike-Protein. Welche Krankheitsbilder Omikron auslösen kann ist noch nicht klar. Alles in allem ist es angebracht Omikron ernst zu nehmen. Aufgrund der hohen Übertragungsrate ist eine Infektion (zumindest mittelfristig) bei vielen wahrscheinlich und nicht einfach zu vermeiden. Umsichtiges und rücksichtsvolles Verhalten scheint daher derzeit besonders angebracht. Wie auch das Immune System nicht allzu stark anderweitig belasten und allgemein der Gesundheit Sorge zu tragen z.B. mit genügend und regelmässigem Schlaf.*
+*Omikron ist anders als die bisherigen Varianten. Omikron überträgt sich ausserordentlich gut trotz oder gerade bei Antikörpern gegen das Spike-Protein. Welche Krankheitsbilder Omikron auslösen kann ist noch nicht klar. Alles in allem ist es angebracht Omikron ernst zu nehmen. Aufgrund der hohen Übertragungsrate ist eine Infektion (zumindest mittelfristig) bei vielen wahrscheinlich und nicht so einfach zu vermeiden. Das Immune System nicht allzu stark anderweitig zu belasten und allgemein der Gesundheit Sorge zu tragen z.B. mit genügend und regelmässigem Schlaf scheint daher derzeit besonders angebracht. Wie auch umsichtiges und rücksichtsvolles Verhalten.*
 
 
 
